@@ -19,9 +19,10 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.google.com/')
+WebUI.navigateToUrl('https://www.swiggy.com/')
 
-WebUI.click(findTestObject('Object Repository/Page_Google/a_'))
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Order food online from Indias best foo_aa25ef/a_Login'), 
+    'Login')
 
 WebUI.closeBrowser()
 

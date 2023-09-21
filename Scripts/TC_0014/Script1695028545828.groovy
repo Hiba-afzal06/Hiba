@@ -19,9 +19,13 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.google.com/')
+WebUI.navigateToUrl('https://www.google.com/?gws_rd=ssl')
 
-WebUI.click(findTestObject('Object Repository/Page_Google/a_'))
+WebUI.setText(findTestObject('Object Repository/Page_Google/textarea__q'), 'swiggy')
 
-WebUI.closeBrowser()
+WebUI.click(findTestObject('Object Repository/Page_Google/span_Swiggy'))
+
+WebUI.click(findTestObject('Object Repository/Page_swiggy - Google Search/a_Restaurants Near Me'))
+
+WebUI.click(findTestObject('Object Repository/Page_Restaurants Near Me  Swiggy/img_concat(What, , s on your mind)_sc-eDLJxc WUBye'))
 

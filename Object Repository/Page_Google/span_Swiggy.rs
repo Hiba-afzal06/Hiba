@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Swiggy</name>
+   <tag></tag>
+   <elementGuidId>1dec67bc-6016-4962-b8cb-6f44886b32a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='jZ2SBf']/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.wM6W7d > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5059a76e-381c-4d7c-9ce9-eeeb6e25fdb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Swiggy</value>
+      <webElementGuid>91f892a4-4dfc-493d-bbde-213df83077dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;jZ2SBf&quot;)/div[@class=&quot;wM6W7d&quot;]/span[1]</value>
+      <webElementGuid>23178d15-294f-4dac-a1fa-168a2fc57339</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='jZ2SBf']/div/span</value>
+      <webElementGuid>6a4ae498-c11c-47ed-85bf-f3e3d8903f60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::span[11]</value>
+      <webElementGuid>b7deb620-1ef7-415e-8653-002102e259ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in'])[1]/following::span[11]</value>
+      <webElementGuid>9cac37e8-b3c4-43dc-9c58-0407b061ec01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='See more'])[1]/preceding::span[3]</value>
+      <webElementGuid>62340bc8-d283-4376-a91b-d73d494ba103</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/preceding::span[5]</value>
+      <webElementGuid>4c0f3b8c-5edb-4d53-b412-451c46b84e2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Swiggy']/parent::*</value>
+      <webElementGuid>c7665873-7e2c-44eb-8d62-688afc990dd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/span</value>
+      <webElementGuid>a93c804d-d1fa-4410-845b-c09cc51b008a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Swiggy' or . = 'Swiggy')]</value>
+      <webElementGuid>0b13d8bd-ec69-45b1-ab0e-7c18eecfdd03</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

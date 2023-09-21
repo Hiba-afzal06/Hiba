@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Choose a course</name>
+   <tag></tag>
+   <elementGuidId>4384ce7c-38f8-49e2-93c6-29a7e6f8f168</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/div/div/div/div/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.choose-a-course.cus-btn.cus-btn-primary.trackable</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d47f755b-77b1-43cd-a7fe-09cc2fe0d835</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>choose-a-course cus-btn cus-btn-primary trackable</value>
+      <webElementGuid>193cfd71-b30e-43e9-98da-c9980b4432ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>6e7f009a-d361-4c0e-92fd-fa351c4135fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-target</name>
+      <type>Main</type>
+      <value>#modal-registration</value>
+      <webElementGuid>85b11e46-3610-4fea-a20a-d0fc8e6d2063</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-event-name</name>
+      <type>Main</type>
+      <value>choose a course Button Clicked</value>
+      <webElementGuid>494347f4-aede-4ca1-9829-583e1bd39918</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-event-category</name>
+      <type>Main</type>
+      <value>User engagement</value>
+      <webElementGuid>1a264f32-ab40-43ab-8697-48546c59e84e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Choose a course</value>
+      <webElementGuid>c6bcbeb6-55b4-49e7-88dc-07aeb7f2b115</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;container-fluid kata-container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;hero&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content&quot;]/button[@class=&quot;choose-a-course cus-btn cus-btn-primary trackable&quot;]</value>
+      <webElementGuid>f53ee881-a970-46c9-8319-6a410d52557b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div/div/div/div/div/button</value>
+      <webElementGuid>548fcae5-6b7b-428f-8f23-f2d6024c38a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enroll for Free. Master in-demand tools. Implement on real projects.'])[1]/following::button[1]</value>
+      <webElementGuid>025ff5d7-71ce-47dd-9484-e0584d758b82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn Automation from Professionals'])[1]/following::button[1]</value>
+      <webElementGuid>998f7602-82b5-4052-aa1a-021af0089a1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learning paths'])[1]/preceding::button[1]</value>
+      <webElementGuid>482305c7-d155-4d0d-8d3e-87b4b32b5864</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All courses'])[1]/preceding::button[1]</value>
+      <webElementGuid>123b5681-dcd2-45c4-b270-56f5ab7c5543</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Choose a course']/parent::*</value>
+      <webElementGuid>5708dc1d-0ad5-4411-8d9f-385716734086</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/button</value>
+      <webElementGuid>b501ae59-518d-4f7d-aa01-b3b746151e22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Choose a course' or . = 'Choose a course')]</value>
+      <webElementGuid>448d8abc-14e9-4303-828f-14596645995f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

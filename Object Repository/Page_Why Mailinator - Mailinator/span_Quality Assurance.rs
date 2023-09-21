@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Quality Assurance</name>
+   <tag></tag>
+   <elementGuidId>386d6c2a-b084-40d9-b243-19c34108c8b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-8035 > a.x-menu-link > span.x-menu-link-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-8035']/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7b00c048-6d2a-4d01-adef-484fca27af60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x-menu-link-text</value>
+      <webElementGuid>f8b60ba3-335d-4d63-b94b-8ee9b4ee61bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Quality Assurance</value>
+      <webElementGuid>bf13e48c-90ce-48a3-a0df-d44c76a26ecb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-item-8035&quot;)/a[@class=&quot;x-menu-link&quot;]/span[@class=&quot;x-menu-link-text&quot;]</value>
+      <webElementGuid>a4c352a3-487d-4410-af4c-db20b886f790</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-8035']/a/span</value>
+      <webElementGuid>5360fffc-d127-426f-adb5-6a3c7f67fd97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Applications/Solutions'])[1]/following::span[1]</value>
+      <webElementGuid>fc0e0d89-d464-41d8-abbc-042a897a17f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Why Mailinator'])[1]/following::span[3]</value>
+      <webElementGuid>11e52820-2ee5-4f19-8061-e288f434e573</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Receipt Testing'])[1]/preceding::span[1]</value>
+      <webElementGuid>8f501365-4110-472e-a3e5-688a0ca6dae9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Load Testing'])[1]/preceding::span[2]</value>
+      <webElementGuid>9d85b64f-d584-4923-83da-80cab9bae02d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Quality Assurance']/parent::*</value>
+      <webElementGuid>229ff9d1-cb31-423e-aff9-5f89c2ea5e2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/ul/li[2]/a/span</value>
+      <webElementGuid>41f6d7fa-829f-4b1b-a48d-851fe4dee44a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Quality Assurance' or . = 'Quality Assurance')]</value>
+      <webElementGuid>dfa46acd-d379-4186-bced-387c90b4ae33</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Uber</name>
+   <tag></tag>
+   <elementGuidId>3dc839d8-6881-4574-ad90-6d4d4f509e7b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='rso']/div/div/div/div/div/div/span/a/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3.LC20lb.MBeuO.DKV0Md</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>6307c596-34fd-45a8-b1e8-452791fe8745</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>LC20lb MBeuO DKV0Md</value>
+      <webElementGuid>5217a375-5bc1-4c7f-97c1-3a62c9af3fc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Uber</value>
+      <webElementGuid>19ec1788-7481-4bff-b325-0c4459088130</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rso&quot;)/div[@class=&quot;MjjYud&quot;]/div[@class=&quot;g Ww4FFb vt6azd tF2Cxc asEBEc&quot;]/div[@class=&quot;N54PNb BToiNc cvP2Ce&quot;]/div[@class=&quot;kb0PBd cvP2Ce jGGQ5e&quot;]/div[@class=&quot;yuRUbf&quot;]/div[1]/span[1]/a[1]/h3[@class=&quot;LC20lb MBeuO DKV0Md&quot;]</value>
+      <webElementGuid>0e2eb739-03e6-4b7b-9176-f0a023ae4e56</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rso']/div/div/div/div/div/div/span/a/h3</value>
+      <webElementGuid>6bb61d83-fa76-41dc-b13d-d9bae2aa6de5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Results'])[1]/following::h3[1]</value>
+      <webElementGuid>54d6a1da-1fa9-451f-b957-cb8da6cf2d77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms'])[1]/following::h3[1]</value>
+      <webElementGuid>f4b2bda5-3916-4029-b3a0-23da09e1cfab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Uber'])[2]/preceding::h3[1]</value>
+      <webElementGuid>fab945fa-ce57-4c5d-9242-1e17013d58bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='https://m.uber.com'])[1]/preceding::h3[1]</value>
+      <webElementGuid>ca5b1caa-6b9a-4593-b6b7-6b772a2f3b13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Uber']/parent::*</value>
+      <webElementGuid>e63c12d4-2d71-40c0-9a0e-ab48ed084c0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>c3b5ee19-ceb3-4248-b9bc-382ddbec50de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Uber' or . = 'Uber')]</value>
+      <webElementGuid>44f0d1ae-7c82-4ac1-ae32-4861f1857728</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

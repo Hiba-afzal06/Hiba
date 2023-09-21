@@ -19,9 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.google.com/')
+WebUI.navigateToUrl('https://www.mailinator.com/')
 
-WebUI.click(findTestObject('Object Repository/Page_Google/a_'))
+WebUI.click(findTestObject('Object Repository/Page_Home - Mailinator/span_Why Mailinator'))
 
 WebUI.closeBrowser()
 

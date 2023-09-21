@@ -19,9 +19,15 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.google.com/')
+WebUI.navigateToUrl('https://www.google.com/?gws_rd=ssl')
 
-WebUI.click(findTestObject('Object Repository/Page_Google/a_'))
+WebUI.setText(findTestObject('Object Repository/Page_Google/textarea__q'), 'Uber')
 
-WebUI.closeBrowser()
+WebUI.click(findTestObject('Object Repository/Page_Google/span_Uber Technologies Inc'))
+
+WebUI.click(findTestObject('Object Repository/Page_uber - Google Search/h3_Uber'))
+
+WebUI.click(findTestObject('Object Repository/Page_Uber/button_Log in with QR code'))
+
+WebUI.click(findTestObject('Object Repository/Page_Uber/path'))
 

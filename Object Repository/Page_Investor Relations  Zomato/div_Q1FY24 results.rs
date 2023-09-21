@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Q1FY24 results</name>
+   <tag></tag>
+   <elementGuidId>8a5744af-625f-4a99-963b-ddf66a2c84aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.sc-hbmRdt.ePaVih</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div[2]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1939a141-25a1-4bbb-ace0-0687d9ab07e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-hbmRdt ePaVih</value>
+      <webElementGuid>802b3abe-f354-438f-a655-2e9edfc92043</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Q1FY24 results</value>
+      <webElementGuid>d1391a2c-7384-4d89-976a-fb4d0a18c049</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-fEUNkw gAkuDn&quot;]/div[@class=&quot;sc-dgfbBR bhuDb&quot;]/div[@class=&quot;sc-koCNPY hRjzHc&quot;]/div[2]/div[@class=&quot;sc-ijiIKn iirHoQ&quot;]/div[@class=&quot;sc-dcaoeI cvPqnx&quot;]/div[@class=&quot;sc-hbmRdt ePaVih&quot;]</value>
+      <webElementGuid>19281e0c-ae85-4773-b4bb-70c8f93bffc2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div[2]/div/div/div</value>
+      <webElementGuid>aa1ebe1e-4fb6-412b-b9f9-c11c642d1f55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Make India malnutrition free'])[1]/following::div[7]</value>
+      <webElementGuid>df4a6b43-7b0b-4091-b3bf-0d56170d766c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Instant commerce indistinguishable from magic'])[1]/following::div[13]</value>
+      <webElementGuid>96a07e52-5ac6-48c7-b689-1dec5c6fd643</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='see all'])[1]/preceding::div[1]</value>
+      <webElementGuid>5e63ffcb-ca81-4575-adbb-3e1186649030</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Shareholders', &quot;'&quot;, ' Letter')])[1]/preceding::div[5]</value>
+      <webElementGuid>f8cd01d4-3196-4051-a818-06e2fa50397f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Q1FY24']/parent::*</value>
+      <webElementGuid>0d076907-d170-4c1a-894c-91fa7173e621</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div</value>
+      <webElementGuid>6839f736-dba7-46b8-b0f4-2e8fe71158b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Q1FY24 results' or . = 'Q1FY24 results')]</value>
+      <webElementGuid>ef524d3f-28ab-473c-94f7-6631bbd8b80b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

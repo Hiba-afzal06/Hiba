@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_gmail</name>
+   <tag></tag>
+   <elementGuidId>90af9ea8-9b87-410e-9dea-cd284fda40a6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='jZ2SBf']/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.wM6W7d > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b3330b6e-f418-4255-b8cd-efe4445efddd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>gmail</value>
+      <webElementGuid>169e9a83-b716-4dff-a348-bcd987c4a1c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;jZ2SBf&quot;)/div[@class=&quot;wM6W7d&quot;]/span[1]</value>
+      <webElementGuid>4a986493-bb28-49ea-8c3c-847840803679</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='jZ2SBf']/div/span</value>
+      <webElementGuid>e38702e2-bee3-4f23-b214-6b14922b1ce5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::span[11]</value>
+      <webElementGuid>938a76a7-a60a-4ac1-af28-0cd686170005</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in'])[1]/following::span[11]</value>
+      <webElementGuid>e2b8117c-f1f3-404d-8995-312ca252940e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='President of Indian National Congress'])[1]/preceding::span[1]</value>
+      <webElementGuid>c74ed60b-dca3-4d01-aa32-21ac8a83510c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='See more'])[1]/preceding::span[3]</value>
+      <webElementGuid>b3eba2bc-3647-41bf-97f9-f73666bacf0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='gmail']/parent::*</value>
+      <webElementGuid>70e2a6fd-b73c-4c22-b25a-ed3b1de840ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/span</value>
+      <webElementGuid>446a8d8f-6108-4349-ab68-f7d00b0eb6b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'gmail' or . = 'gmail')]</value>
+      <webElementGuid>f94a8865-c4ba-4a44-bc36-cfae870df339</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Santiniketan — Town in India'])[1]/preceding::span[1]</value>
+      <webElementGuid>eca4a4b9-4690-4693-a558-461bb7235632</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

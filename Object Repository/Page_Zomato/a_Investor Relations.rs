@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Investor Relations</name>
+   <tag></tag>
+   <elementGuidId>e65c0e12-9734-42bb-9f98-bbad071d66c9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.sc-3o0n99-5.sc-dphlzf.bhqbsG</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='navigation_clmstefsy00002jla083z92e4']/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5dd4438b-ede4-488b-9ee9-5a46ec5d339b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>66841c66-5dd9-4710-893a-433628dcd56e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-3o0n99-5 sc-dphlzf bhqbsG</value>
+      <webElementGuid>ebee75a9-6d74-4627-93cb-f0ee892258e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Investor Relations</value>
+      <webElementGuid>4cfa3cc2-3ed4-482a-ab33-2e442e279eaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navigation_clmstefsy00002jla083z92e4&quot;)/li[@class=&quot;sc-3o0n99-4 kAUthO&quot;]/a[@class=&quot;sc-3o0n99-5 sc-dphlzf bhqbsG&quot;]</value>
+      <webElementGuid>6ecf1ea8-b96f-4abd-8b34-72ff9021b53b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='navigation_clmstefsy00002jla083z92e4']/li[2]/a</value>
+      <webElementGuid>5c3f6ebf-6e78-4df3-9380-c535bddd4e1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Investor Relations')]</value>
+      <webElementGuid>08964e9b-060d-417d-a371-689df0877cb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add restaurant'])[1]/preceding::a[1]</value>
+      <webElementGuid>f64f3bbc-8a88-4051-88f9-e000f4160841</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in'])[1]/preceding::a[2]</value>
+      <webElementGuid>33aaacdb-5aa1-4fd1-9071-c2461715a00b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Investor Relations']/parent::*</value>
+      <webElementGuid>3975b162-682a-4ed3-a8c7-acb99077923f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a</value>
+      <webElementGuid>eb861ecb-59a1-47a1-b87d-1447667e5b32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Investor Relations' or . = 'Investor Relations')]</value>
+      <webElementGuid>2e4921f6-8503-4677-8898-423fc1972fa1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

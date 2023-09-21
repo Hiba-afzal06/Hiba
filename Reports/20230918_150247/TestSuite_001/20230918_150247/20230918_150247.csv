@@ -1,0 +1,192 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TestSuite_001,Chrome 116.0.0.0,,,2023-09-18 15:02:49,2023-09-18 15:09:05,6m - 16.059s,PASSED
+,,,,,,,
+Test Cases/TC_001,Chrome 116.0.0.0,,,2023-09-18 15:02:50,2023-09-18 15:02:59,9.530s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-18 15:02:50,2023-09-18 15:02:53,2.441s,PASSED
+maximizeWindow(),Chrome 116.0.0.0,,,2023-09-18 15:02:53,2023-09-18 15:02:53,0.155s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 116.0.0.0,,,2023-09-18 15:02:53,2023-09-18 15:02:58,4.868s,PASSED
+"setText(findTestObject(""Page_Google/textarea__q""), ""gmail"")",Chrome 116.0.0.0,,,2023-09-18 15:02:58,2023-09-18 15:02:58,0.907s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-18 15:02:58,2023-09-18 15:02:59,0.728s,PASSED
+,,,,,,,
+Test Cases/TC_0010,Chrome 116.0.0.0,,,2023-09-18 15:02:59,2023-09-18 15:03:10,11.039s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-18 15:03:00,2023-09-18 15:03:01,1.314s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 116.0.0.0,,,2023-09-18 15:03:01,2023-09-18 15:03:06,4.926s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/a_""))",Chrome 116.0.0.0,,,2023-09-18 15:03:06,2023-09-18 15:03:10,3.728s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-18 15:03:10,2023-09-18 15:03:10,0.682s,PASSED
+,,,,,,,
+Test Cases/TC_0011,Chrome 116.0.0.0,,,2023-09-18 15:03:10,2023-09-18 15:03:21,10.742s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-18 15:03:11,2023-09-18 15:03:12,1.326s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 116.0.0.0,,,2023-09-18 15:03:12,2023-09-18 15:03:17,4.931s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/a_""))",Chrome 116.0.0.0,,,2023-09-18 15:03:17,2023-09-18 15:03:20,3.471s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-18 15:03:20,2023-09-18 15:03:21,0.670s,PASSED
+,,,,,,,
+Test Cases/TC_0012,Chrome 116.0.0.0,,,2023-09-18 15:03:21,2023-09-18 15:03:30,9.008s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-18 15:03:21,2023-09-18 15:03:23,1.299s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 116.0.0.0,,,2023-09-18 15:03:23,2023-09-18 15:03:28,5.017s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/a_""))",Chrome 116.0.0.0,,,2023-09-18 15:03:28,2023-09-18 15:03:29,1.649s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-18 15:03:29,2023-09-18 15:03:30,0.666s,PASSED
+,,,,,,,
+Test Cases/TC_0013,Chrome 116.0.0.0,,,2023-09-18 15:03:30,2023-09-18 15:03:40,10.364s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-18 15:03:30,2023-09-18 15:03:32,1.323s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 116.0.0.0,,,2023-09-18 15:03:32,2023-09-18 15:03:37,5.041s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/a_""))",Chrome 116.0.0.0,,,2023-09-18 15:03:37,2023-09-18 15:03:40,2.970s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-18 15:03:40,2023-09-18 15:03:40,0.673s,PASSED
+,,,,,,,
+Test Cases/TC_0014,Chrome 116.0.0.0,,,2023-09-18 15:03:40,2023-09-18 15:03:51,10.933s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-18 15:03:41,2023-09-18 15:03:42,1.310s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 116.0.0.0,,,2023-09-18 15:03:42,2023-09-18 15:03:47,5.108s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/a_""))",Chrome 116.0.0.0,,,2023-09-18 15:03:47,2023-09-18 15:03:51,3.481s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-18 15:03:51,2023-09-18 15:03:51,0.668s,PASSED
+,,,,,,,
+Test Cases/TC_0015,Chrome 116.0.0.0,,,2023-09-18 15:03:51,2023-09-18 15:04:01,9.789s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-18 15:03:52,2023-09-18 15:03:53,1.319s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 116.0.0.0,,,2023-09-18 15:03:53,2023-09-18 15:03:59,5.634s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/a_""))",Chrome 116.0.0.0,,,2023-09-18 15:03:59,2023-09-18 15:04:00,1.796s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-18 15:04:00,2023-09-18 15:04:01,0.670s,PASSED
+,,,,,,,
+Test Cases/TC_0016,Chrome 116.0.0.0,,,2023-09-18 15:04:01,2023-09-18 15:04:12,10.849s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-18 15:04:02,2023-09-18 15:04:03,1.318s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 116.0.0.0,,,2023-09-18 15:04:03,2023-09-18 15:04:08,4.939s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/a_""))",Chrome 116.0.0.0,,,2023-09-18 15:04:08,2023-09-18 15:04:11,3.542s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-18 15:04:11,2023-09-18 15:04:12,0.672s,PASSED
+,,,,,,,
+Test Cases/TC_0017,Chrome 116.0.0.0,,,2023-09-18 15:04:12,2023-09-18 15:04:22,9.716s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-18 15:04:12,2023-09-18 15:04:14,1.326s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 116.0.0.0,,,2023-09-18 15:04:14,2023-09-18 15:04:19,5.672s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/a_""))",Chrome 116.0.0.0,,,2023-09-18 15:04:19,2023-09-18 15:04:21,1.722s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-18 15:04:21,2023-09-18 15:04:22,0.665s,PASSED
+,,,,,,,
+Test Cases/TC_0018,Chrome 116.0.0.0,,,2023-09-18 15:04:22,2023-09-18 15:04:31,9.482s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-18 15:04:22,2023-09-18 15:04:23,1.303s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 116.0.0.0,,,2023-09-18 15:04:23,2023-09-18 15:04:29,5.347s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/a_""))",Chrome 116.0.0.0,,,2023-09-18 15:04:29,2023-09-18 15:04:31,1.793s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-18 15:04:31,2023-09-18 15:04:31,0.677s,PASSED
+,,,,,,,
+Test Cases/TC_0019,Chrome 116.0.0.0,,,2023-09-18 15:04:31,2023-09-18 15:04:42,10.571s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-18 15:04:32,2023-09-18 15:04:33,1.289s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 116.0.0.0,,,2023-09-18 15:04:33,2023-09-18 15:04:39,6.438s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/a_""))",Chrome 116.0.0.0,,,2023-09-18 15:04:39,2023-09-18 15:04:41,1.805s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-18 15:04:41,2023-09-18 15:04:42,0.679s,PASSED
+,,,,,,,
+Test Cases/TC_002,Chrome 116.0.0.0,,,2023-09-18 15:04:42,2023-09-18 15:05:00,18.263s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-18 15:04:42,2023-09-18 15:04:44,1.335s,PASSED
+"navigateToUrl(""https://www.google.com/?gws_rd=ssl"")",Chrome 116.0.0.0,,,2023-09-18 15:04:44,2023-09-18 15:04:50,6.175s,PASSED
+maximizeWindow(),Chrome 116.0.0.0,,,2023-09-18 15:04:50,2023-09-18 15:04:50,0.128s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/input_Delete_btnI""))",Chrome 116.0.0.0,,,2023-09-18 15:04:50,2023-09-18 15:04:59,9.559s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-18 15:04:59,2023-09-18 15:05:00,0.725s,PASSED
+,,,,,,,
+Test Cases/TC_0020,Chrome 116.0.0.0,,,2023-09-18 15:05:00,2023-09-18 15:05:11,10.869s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-18 15:05:01,2023-09-18 15:05:02,1.324s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 116.0.0.0,,,2023-09-18 15:05:02,2023-09-18 15:05:07,5.411s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/a_""))",Chrome 116.0.0.0,,,2023-09-18 15:05:07,2023-09-18 15:05:10,3.098s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-18 15:05:10,2023-09-18 15:05:11,0.673s,PASSED
+,,,,,,,
+Test Cases/TC_0021,Chrome 116.0.0.0,,,2023-09-18 15:05:11,2023-09-18 15:05:21,9.946s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-18 15:05:11,2023-09-18 15:05:13,1.327s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 116.0.0.0,,,2023-09-18 15:05:13,2023-09-18 15:05:19,5.855s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/a_""))",Chrome 116.0.0.0,,,2023-09-18 15:05:19,2023-09-18 15:05:20,1.722s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-18 15:05:20,2023-09-18 15:05:21,0.664s,PASSED
+,,,,,,,
+Test Cases/TC_0022,Chrome 116.0.0.0,,,2023-09-18 15:05:21,2023-09-18 15:05:32,11.215s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-18 15:05:21,2023-09-18 15:05:23,1.343s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 116.0.0.0,,,2023-09-18 15:05:23,2023-09-18 15:05:28,5.493s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/a_""))",Chrome 116.0.0.0,,,2023-09-18 15:05:28,2023-09-18 15:05:32,3.348s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-18 15:05:32,2023-09-18 15:05:32,0.667s,PASSED
+,,,,,,,
+Test Cases/TC_0023,Chrome 116.0.0.0,,,2023-09-18 15:05:32,2023-09-18 15:05:43,10.796s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-18 15:05:33,2023-09-18 15:05:34,1.308s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 116.0.0.0,,,2023-09-18 15:05:34,2023-09-18 15:05:39,4.982s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/a_""))",Chrome 116.0.0.0,,,2023-09-18 15:05:39,2023-09-18 15:05:42,3.455s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-18 15:05:42,2023-09-18 15:05:43,0.697s,PASSED
+,,,,,,,
+Test Cases/TC_0024,Chrome 116.0.0.0,,,2023-09-18 15:05:43,2023-09-18 15:05:54,11.367s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-18 15:05:43,2023-09-18 15:05:45,1.313s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 116.0.0.0,,,2023-09-18 15:05:45,2023-09-18 15:05:50,5.623s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/a_""))",Chrome 116.0.0.0,,,2023-09-18 15:05:50,2023-09-18 15:05:54,3.401s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-18 15:05:54,2023-09-18 15:05:54,0.683s,PASSED
+,,,,,,,
+Test Cases/TC_0025,Chrome 116.0.0.0,,,2023-09-18 15:05:54,2023-09-18 15:06:06,11.713s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-18 15:05:55,2023-09-18 15:05:56,1.318s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 116.0.0.0,,,2023-09-18 15:05:56,2023-09-18 15:06:02,5.860s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/a_""))",Chrome 116.0.0.0,,,2023-09-18 15:06:02,2023-09-18 15:06:05,3.538s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-18 15:06:05,2023-09-18 15:06:06,0.662s,PASSED
+,,,,,,,
+Test Cases/TC_0026,Chrome 116.0.0.0,,,2023-09-18 15:06:06,2023-09-18 15:06:17,10.543s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-18 15:06:07,2023-09-18 15:06:08,1.293s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 116.0.0.0,,,2023-09-18 15:06:08,2023-09-18 15:06:14,6.524s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/a_""))",Chrome 116.0.0.0,,,2023-09-18 15:06:14,2023-09-18 15:06:16,1.704s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-18 15:06:16,2023-09-18 15:06:17,0.673s,PASSED
+,,,,,,,
+Test Cases/TC_0027,Chrome 116.0.0.0,,,2023-09-18 15:06:17,2023-09-18 15:06:27,10.535s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-18 15:06:17,2023-09-18 15:06:18,1.315s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 116.0.0.0,,,2023-09-18 15:06:18,2023-09-18 15:06:24,6.015s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/a_""))",Chrome 116.0.0.0,,,2023-09-18 15:06:24,2023-09-18 15:06:27,2.196s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-18 15:06:27,2023-09-18 15:06:27,0.657s,PASSED
+,,,,,,,
+Test Cases/TC_0028,Chrome 116.0.0.0,,,2023-09-18 15:06:27,2023-09-18 15:06:38,11.167s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-18 15:06:28,2023-09-18 15:06:29,1.327s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 116.0.0.0,,,2023-09-18 15:06:29,2023-09-18 15:06:35,5.748s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/a_""))",Chrome 116.0.0.0,,,2023-09-18 15:06:35,2023-09-18 15:06:38,3.074s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-18 15:06:38,2023-09-18 15:06:38,0.671s,PASSED
+,,,,,,,
+Test Cases/TC_0029,Chrome 116.0.0.0,,,2023-09-18 15:06:38,2023-09-18 15:06:50,11.340s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-18 15:06:39,2023-09-18 15:06:40,1.326s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 116.0.0.0,,,2023-09-18 15:06:40,2023-09-18 15:06:46,5.852s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/a_""))",Chrome 116.0.0.0,,,2023-09-18 15:06:46,2023-09-18 15:06:49,3.124s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-18 15:06:49,2023-09-18 15:06:50,0.691s,PASSED
+,,,,,,,
+Test Cases/TC_003,Chrome 116.0.0.0,,,2023-09-18 15:06:50,2023-09-18 15:07:27,36.932s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-18 15:06:50,2023-09-18 15:06:52,1.296s,PASSED
+maximizeWindow(),Chrome 116.0.0.0,,,2023-09-18 15:06:52,2023-09-18 15:06:52,0.128s,PASSED
+"navigateToUrl(""https://www.uber.com/in/en/"")",Chrome 116.0.0.0,,,2023-09-18 15:06:52,2023-09-18 15:06:58,6.824s,PASSED
+"click(findTestObject(""Object Repository/Page_Earn Money by Driving or Get a Ride No_86ddf9/img_Drive or deliver_css-iTMoEO""))",Chrome 116.0.0.0,,,2023-09-18 15:06:58,2023-09-18 15:07:00,1.711s,PASSED
+"click(findTestObject(""Object Repository/Page_Earn Money by Driving or Get a Ride No_86ddf9/a_Get started""))",Chrome 116.0.0.0,,,2023-09-18 15:07:00,2023-09-18 15:07:09,9.000s,PASSED
+"click(findTestObject(""Object Repository/Page_Rent Out Your Car Through Uber and Ear_fd3df7/a_Sign up""))",Chrome 116.0.0.0,,,2023-09-18 15:07:09,2023-09-18 15:07:14,4.693s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign Up to Drive  Uber/a_Sign up now""))",Chrome 116.0.0.0,,,2023-09-18 15:07:14,2023-09-18 15:07:26,12.155s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-18 15:07:26,2023-09-18 15:07:27,0.725s,PASSED
+,,,,,,,
+Test Cases/TC_0030,Chrome 116.0.0.0,,,2023-09-18 15:07:27,2023-09-18 15:07:38,11.549s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-18 15:07:27,2023-09-18 15:07:28,1.270s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 116.0.0.0,,,2023-09-18 15:07:28,2023-09-18 15:07:34,5.995s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/a_""))",Chrome 116.0.0.0,,,2023-09-18 15:07:34,2023-09-18 15:07:38,3.246s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-18 15:07:38,2023-09-18 15:07:38,0.684s,PASSED
+,,,,,,,
+Test Cases/TC_004,Chrome 116.0.0.0,,,2023-09-18 15:07:38,2023-09-18 15:08:11,32.844s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-18 15:07:39,2023-09-18 15:07:40,1.315s,PASSED
+maximizeWindow(),Chrome 116.0.0.0,,,2023-09-18 15:07:40,2023-09-18 15:07:40,0.142s,PASSED
+"navigateToUrl(""https://www.uber.com/in/en/"")",Chrome 116.0.0.0,,,2023-09-18 15:07:40,2023-09-18 15:07:48,7.903s,PASSED
+"click(findTestObject(""Object Repository/Page_Earn Money by Driving or Get a Ride No_86ddf9/img_Drive or deliver_css-iTMoEO""))",Chrome 116.0.0.0,,,2023-09-18 15:07:48,2023-09-18 15:07:50,1.559s,PASSED
+"click(findTestObject(""Object Repository/Page_Earn Money by Driving or Get a Ride No_86ddf9/a_Get started""))",Chrome 116.0.0.0,,,2023-09-18 15:07:50,2023-09-18 15:07:56,6.392s,PASSED
+"click(findTestObject(""Object Repository/Page_Rent Out Your Car Through Uber and Ear_fd3df7/a_Sign up""))",Chrome 116.0.0.0,,,2023-09-18 15:07:56,2023-09-18 15:08:00,4.102s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign Up to Drive  Uber/a_Sign up now""))",Chrome 116.0.0.0,,,2023-09-18 15:08:00,2023-09-18 15:08:10,10.292s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-18 15:08:10,2023-09-18 15:08:11,0.790s,PASSED
+,,,,,,,
+Test Cases/TC_005,Chrome 116.0.0.0,,,2023-09-18 15:08:11,2023-09-18 15:08:21,9.884s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-18 15:08:12,2023-09-18 15:08:13,1.314s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 116.0.0.0,,,2023-09-18 15:08:13,2023-09-18 15:08:19,5.841s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/a_""))",Chrome 116.0.0.0,,,2023-09-18 15:08:19,2023-09-18 15:08:20,1.694s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-18 15:08:20,2023-09-18 15:08:21,0.672s,PASSED
+,,,,,,,
+Test Cases/TC_006,Chrome 116.0.0.0,,,2023-09-18 15:08:21,2023-09-18 15:08:32,11.366s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-18 15:08:21,2023-09-18 15:08:23,1.452s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 116.0.0.0,,,2023-09-18 15:08:23,2023-09-18 15:08:29,5.826s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/a_""))",Chrome 116.0.0.0,,,2023-09-18 15:08:29,2023-09-18 15:08:32,3.040s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-18 15:08:32,2023-09-18 15:08:32,0.678s,PASSED
+,,,,,,,
+Test Cases/TC_007,Chrome 116.0.0.0,,,2023-09-18 15:08:32,2023-09-18 15:08:45,12.198s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-18 15:08:33,2023-09-18 15:08:34,1.312s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 116.0.0.0,,,2023-09-18 15:08:34,2023-09-18 15:08:40,5.404s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/a_""))",Chrome 116.0.0.0,,,2023-09-18 15:08:40,2023-09-18 15:08:44,4.476s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-18 15:08:44,2023-09-18 15:08:45,0.675s,PASSED
+,,,,,,,
+Test Cases/TC_008,Chrome 116.0.0.0,,,2023-09-18 15:08:45,2023-09-18 15:08:55,9.930s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-18 15:08:45,2023-09-18 15:08:46,1.305s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 116.0.0.0,,,2023-09-18 15:08:46,2023-09-18 15:08:52,5.863s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/a_""))",Chrome 116.0.0.0,,,2023-09-18 15:08:52,2023-09-18 15:08:54,1.736s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-18 15:08:54,2023-09-18 15:08:55,0.663s,PASSED
+,,,,,,,
+Test Cases/TC_009,Chrome 116.0.0.0,,,2023-09-18 15:08:55,2023-09-18 15:09:05,10.831s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-18 15:08:55,2023-09-18 15:08:56,1.325s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 116.0.0.0,,,2023-09-18 15:08:56,2023-09-18 15:09:02,5.348s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/a_""))",Chrome 116.0.0.0,,,2023-09-18 15:09:02,2023-09-18 15:09:05,3.136s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-18 15:09:05,2023-09-18 15:09:05,0.679s,PASSED

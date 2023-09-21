@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Gmail - Google</name>
+   <tag></tag>
+   <elementGuidId>cdd453bf-0984-4afb-a73c-05aade97592c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='rso']/div/div/div/div/div/div/span/a/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3.LC20lb.MBeuO.DKV0Md</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>a6e85582-b298-479b-a77e-c4cacc7033ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>LC20lb MBeuO DKV0Md</value>
+      <webElementGuid>e8db6e99-4b87-4534-bbac-1fcf8a15cb72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Gmail - Google</value>
+      <webElementGuid>3462255c-52e3-4662-bebe-b46de50890c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rso&quot;)/div[@class=&quot;MjjYud&quot;]/div[@class=&quot;g Ww4FFb vt6azd tF2Cxc asEBEc&quot;]/div[@class=&quot;N54PNb BToiNc cvP2Ce&quot;]/div[@class=&quot;kb0PBd cvP2Ce jGGQ5e&quot;]/div[@class=&quot;yuRUbf&quot;]/div[1]/span[1]/a[1]/h3[@class=&quot;LC20lb MBeuO DKV0Md&quot;]</value>
+      <webElementGuid>1bf69082-8aa0-4937-b7e0-0b26d07327c2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rso']/div/div/div/div/div/div/span/a/h3</value>
+      <webElementGuid>15b71dba-89f8-464b-9a40-4fc129958160</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Results'])[1]/following::h3[1]</value>
+      <webElementGuid>45d1c0ae-e460-4e90-a30d-233099039ba3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms'])[1]/following::h3[1]</value>
+      <webElementGuid>7c63c8b3-9ae1-41d7-84e7-4f33fdbe017c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Google Mail'])[1]/preceding::h3[1]</value>
+      <webElementGuid>6bc1348d-f7f5-4f08-8ea0-8848a47b50ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Gmail - Google']/parent::*</value>
+      <webElementGuid>f28d2a9e-6ab7-43aa-a5ed-aac8ac2c7a85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>e3654563-841a-4b7f-ab5b-08af7519e2ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Gmail - Google' or . = 'Gmail - Google')]</value>
+      <webElementGuid>946c9e26-fcb7-4ba4-9ba5-27a332f21902</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rso']/div/div/div/div/div/div/div/span/a/h3</value>
+      <webElementGuid>1cb50ccf-1093-4da7-8b19-bcca0c59935c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

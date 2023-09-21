@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Images</name>
+   <tag></tag>
+   <elementGuidId>a08dfe55-2e75-48c8-abaf-5e48b19ab09e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='gb']/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b0b4b222-a90f-48ca-8f8d-eef13eea3ac0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gb_C gb_D</value>
+      <webElementGuid>0e3d5f47-ab6e-468f-8072-ea867567b593</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Images</value>
+      <webElementGuid>151edd49-3862-4090-87d9-b311a4043854</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gb&quot;)/div[@class=&quot;gb_vd gb_9a gb_kd&quot;]/div[1]/div[@class=&quot;gb_Bd gb_D gb_Xf gb_Of&quot;]/div[@class=&quot;gb_C gb_D&quot;]</value>
+      <webElementGuid>4a438df3-82f0-465e-a59a-dba71e73d7cb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gb']/div/div/div/div[2]</value>
+      <webElementGuid>e3252e02-f4eb-49e4-955f-63b3579ff20c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gmail'])[1]/following::div[1]</value>
+      <webElementGuid>25abf83b-fe01-493d-a9df-dd340995223a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in'])[1]/preceding::div[4]</value>
+      <webElementGuid>b58348f4-7ba2-491b-833b-f977b366262f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div[2]</value>
+      <webElementGuid>cd3cfcf7-9e3a-486d-9969-8ac41e5a13d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Images' or . = 'Images')]</value>
+      <webElementGuid>82bd8105-887f-4267-a40f-b0224ada7f31</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

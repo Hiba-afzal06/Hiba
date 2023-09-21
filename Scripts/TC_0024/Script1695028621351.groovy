@@ -19,9 +19,12 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.google.com/')
+WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Object Repository/Page_Google/a_'))
+WebUI.navigateToUrl('https://academy.katalon.com/')
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Katalon Academy - Automation Testing C_4c4a56/button_Choose a course'), 
+    0)
 
 WebUI.closeBrowser()
 

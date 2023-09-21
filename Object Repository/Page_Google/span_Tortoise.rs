@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Tortoise</name>
+   <tag></tag>
+   <elementGuidId>275fac2f-d651-44ef-a453-8bb656d23d74</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='jZ2SBf']/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.wM6W7d > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>04f45c99-ae18-4f0b-ac26-34470a7e8ac7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tortoise</value>
+      <webElementGuid>f7f13eac-e238-469c-b3f0-a356a42688e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;jZ2SBf&quot;)/div[@class=&quot;wM6W7d&quot;]/span[1]</value>
+      <webElementGuid>00812a9b-ed74-4de2-ad88-f1a787430800</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='jZ2SBf']/div/span</value>
+      <webElementGuid>71894f1c-a30d-4ab0-afae-82670f38c818</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::span[11]</value>
+      <webElementGuid>38c03441-84f6-46f7-a7de-6ba76d4f2eea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in'])[1]/following::span[11]</value>
+      <webElementGuid>656fcdf0-c4dc-4602-ab26-7735fb3179cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reptiles'])[1]/preceding::span[1]</value>
+      <webElementGuid>4ef2a145-63ba-431a-97b5-2eb29229d593</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='See more'])[1]/preceding::span[3]</value>
+      <webElementGuid>68c937b2-ddae-4572-b3ce-759c533333d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tortoise']/parent::*</value>
+      <webElementGuid>3fdafb03-eb65-403c-a6a0-07729836d054</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/span</value>
+      <webElementGuid>6bcdac82-1737-4443-bcc8-e7ba1e86799d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Tortoise' or . = 'Tortoise')]</value>
+      <webElementGuid>6df130ba-a0aa-4cf6-9214-f5d6eeb0a09e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

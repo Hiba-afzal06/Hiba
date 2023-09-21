@@ -19,9 +19,15 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.google.com/')
+WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Object Repository/Page_Google/a_'))
+WebUI.navigateToUrl('https://relianceretail.com/')
+
+WebUI.click(findTestObject('Object Repository/Page_Reliance Retail/a_Our Brands'))
+
+WebUI.click(findTestObject('Object Repository/Page_Reliance Retail/a_JioMart'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Reliance Retail/img_Netmeds_img-responsive'), '')
 
 WebUI.closeBrowser()
 

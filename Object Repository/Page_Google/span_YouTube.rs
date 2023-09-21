@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_YouTube</name>
+   <tag></tag>
+   <elementGuidId>2aa78ddd-395d-48c4-b4b2-ea0eafedd8b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='jZ2SBf']/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.wM6W7d > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b650be7c-691f-4eb8-8ffd-f5e781641da3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>YouTube</value>
+      <webElementGuid>95b058f5-289b-4628-9da2-5d3270b764e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;jZ2SBf&quot;)/div[@class=&quot;wM6W7d&quot;]/span[1]</value>
+      <webElementGuid>297c701f-0f49-4c1a-b939-ac199ae840be</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='jZ2SBf']/div/span</value>
+      <webElementGuid>0adf391c-d9f8-441c-bea2-8f01da125903</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::span[11]</value>
+      <webElementGuid>0e5aa629-25d1-440c-816a-c99460dd88a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in'])[1]/following::span[11]</value>
+      <webElementGuid>0783a960-cab8-4b4e-a1a5-9734e469f161</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Santiniketan — Town in India'])[1]/preceding::span[1]</value>
+      <webElementGuid>43338ae1-439f-48fd-ac08-5af5ca19d502</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='See more'])[1]/preceding::span[3]</value>
+      <webElementGuid>f80aea5f-bd73-4306-ba64-9b6cb65d6ad2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='YouTube']/parent::*</value>
+      <webElementGuid>7e7ab9fd-09a0-46da-8326-cdeeb26e135d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/span</value>
+      <webElementGuid>89d72a9c-430a-4051-920c-a706abd8701f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'YouTube' or . = 'YouTube')]</value>
+      <webElementGuid>697b5997-126f-4fd0-bf6c-ae6abf15c6d2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

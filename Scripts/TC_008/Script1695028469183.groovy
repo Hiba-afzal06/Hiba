@@ -19,9 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.google.com/')
-
-WebUI.click(findTestObject('Object Repository/Page_Google/a_'))
+WebUI.navigateToUrl('https://www.zomato.com/')
 
 WebUI.closeBrowser()
 

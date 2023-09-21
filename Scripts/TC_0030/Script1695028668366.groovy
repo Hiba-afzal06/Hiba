@@ -19,9 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.google.com/')
+WebUI.navigateToUrl('https://www.mozilla.org/en-US/firefox/new/?redirect_source=firefox-com')
 
-WebUI.click(findTestObject('Object Repository/Page_Google/a_'))
+WebUI.click(findTestObject('Object Repository/Page_Get Firefox for desktop  Mozilla (US)/a_Firefox Browsers'))
+
+WebUI.click(findTestObject('Object Repository/Page_Get Firefox for desktop  Mozilla (US)/h4_Firefox Blog'))
 
 WebUI.closeBrowser()
 

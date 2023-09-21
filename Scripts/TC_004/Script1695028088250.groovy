@@ -19,17 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.maximizeWindow()
+WebUI.navigateToUrl('https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AYZoVhe63sLu-1TQ0EH5PytlE2GcZOB7TuYqfhYcfxG1KBFhaYtWfhCrBNzSKqfi9jKbo4trIySD&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-2012939348%3A1695296575228269&theme=glif')
 
-WebUI.navigateToUrl('https://www.uber.com/in/en/')
-
-WebUI.click(findTestObject('Object Repository/Page_Earn Money by Driving or Get a Ride No_86ddf9/img_Drive or deliver_css-iTMoEO'))
-
-WebUI.click(findTestObject('Object Repository/Page_Earn Money by Driving or Get a Ride No_86ddf9/a_Get started'))
-
-WebUI.click(findTestObject('Object Repository/Page_Rent Out Your Car Through Uber and Ear_fd3df7/a_Sign up'))
-
-WebUI.click(findTestObject('Object Repository/Page_Sign Up to Drive  Uber/a_Sign up now'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Gmail/button_Forgot email'))
 
 WebUI.closeBrowser()
 

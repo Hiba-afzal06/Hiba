@@ -6,12 +6,12 @@
    <elementGuidId>eb901488-3686-4f16-aed9-f03ed484a9eb</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='SIvCob']/a</value>
+         <key>CSS</key>
+         <value>a:nth-of-type(2)</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#SIvCob > a</value>
+         <key>XPATH</key>
+         <value>//div[@id='SIvCob']/a[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,102 +22,102 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>2de15bfc-3265-45d6-9ea5-3d476286a5af</webElementGuid>
+      <webElementGuid>585b40f3-5975-4ba8-b9e5-c80e2c4fdb1d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>https://www.google.com/setprefs?sig=0_qNmSuv5BCLsKon-g_NAiP4i7SdA%3D&amp;hl=hi&amp;source=homepage&amp;sa=X&amp;ved=0ahUKEwjv2unn57OBAxXiTTABHZkFAAsQ2ZgBCBE</value>
-      <webElementGuid>8344c8f5-4da7-41e8-a5bf-26765a37ef8b</webElementGuid>
+      <value>https://www.google.com/setprefs?sig=0_tQRkZr-z5J9U6EWFjCWafEKQz4U%3D&amp;hl=bn&amp;source=homepage&amp;sa=X&amp;ved=0ahUKEwiFwt6GzLuBAxV-QjABHX13BmYQ2ZgBCBI</value>
+      <webElementGuid>d52636f3-493c-4b76-9b52-5f5192225de2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>हिन्दी</value>
-      <webElementGuid>548babce-29d6-488b-afa7-43f47f3ff081</webElementGuid>
+      <value>বাংলা</value>
+      <webElementGuid>69b0ff9d-ee12-48a6-9b97-346325a3f5e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;SIvCob&quot;)/a[1]</value>
-      <webElementGuid>45ed5a05-c523-4b91-8786-a0ffc33d5fb9</webElementGuid>
+      <value>id(&quot;SIvCob&quot;)/a[2]</value>
+      <webElementGuid>f842b5bd-8aa6-4776-bb83-8db07f61ffd9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='SIvCob']/a</value>
-      <webElementGuid>a30bfe1b-1fe2-4969-a8e1-0b0090fb10f0</webElementGuid>
+      <value>//div[@id='SIvCob']/a[2]</value>
+      <webElementGuid>84012df4-4ab8-42dd-b85c-b1726f7ec4d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'हिन्दी')]</value>
-      <webElementGuid>c45410bc-4942-472d-a694-8cfb27a32535</webElementGuid>
+      <value>//a[contains(text(),'বাংলা')]</value>
+      <webElementGuid>50c971fc-3b6f-4543-999c-8a6009abd83a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[2]/following::a[2]</value>
-      <webElementGuid>452cdc85-28ca-4390-9807-4afdf5275eca</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='हिन्दी'])[1]/following::a[1]</value>
+      <webElementGuid>84f935cd-5ed8-420d-887f-c8eaece86d3b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='বাংলা'])[1]/preceding::a[1]</value>
-      <webElementGuid>7b3ac59d-b43e-443c-8d6e-c94849240bd2</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='తెలుగు'])[1]/preceding::a[1]</value>
+      <webElementGuid>a2c87b8a-bd4f-4980-bffe-3f1a29335c62</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='తెలుగు'])[1]/preceding::a[2]</value>
-      <webElementGuid>2fd90008-3146-48c6-b089-1bdcc151e38c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='मराठी'])[1]/preceding::a[2]</value>
+      <webElementGuid>9e7ab397-4a40-43e5-b21b-a6cec0c36127</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='हिन्दी']/parent::*</value>
-      <webElementGuid>a73261d6-c5b6-4f05-b921-cc3cf46f64a7</webElementGuid>
+      <value>//*/text()[normalize-space(.)='বাংলা']/parent::*</value>
+      <webElementGuid>81887e4d-e023-427f-9723-231426d5587b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, 'https://www.google.com/setprefs?sig=0_qNmSuv5BCLsKon-g_NAiP4i7SdA%3D&amp;hl=hi&amp;source=homepage&amp;sa=X&amp;ved=0ahUKEwjv2unn57OBAxXiTTABHZkFAAsQ2ZgBCBE')]</value>
-      <webElementGuid>7d5e591a-56f6-4653-8b4b-f050e26ded76</webElementGuid>
+      <value>//a[contains(@href, 'https://www.google.com/setprefs?sig=0_tQRkZr-z5J9U6EWFjCWafEKQz4U%3D&amp;hl=bn&amp;source=homepage&amp;sa=X&amp;ved=0ahUKEwiFwt6GzLuBAxV-QjABHX13BmYQ2ZgBCBI')]</value>
+      <webElementGuid>02a98db2-158f-4835-b495-e7bbc2257109</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]/div/div/a</value>
-      <webElementGuid>2073ad4f-b20b-44d5-9a7f-483e9e1a88ed</webElementGuid>
+      <value>//a[2]</value>
+      <webElementGuid>dc73605e-cae6-46dc-8d5a-4ea3107d3b3c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'https://www.google.com/setprefs?sig=0_qNmSuv5BCLsKon-g_NAiP4i7SdA%3D&amp;hl=hi&amp;source=homepage&amp;sa=X&amp;ved=0ahUKEwjv2unn57OBAxXiTTABHZkFAAsQ2ZgBCBE' and (text() = 'हिन्दी' or . = 'हिन्दी')]</value>
-      <webElementGuid>79f70eaf-cad3-4fdb-8f92-b20310e6e234</webElementGuid>
+      <value>//a[@href = 'https://www.google.com/setprefs?sig=0_tQRkZr-z5J9U6EWFjCWafEKQz4U%3D&amp;hl=bn&amp;source=homepage&amp;sa=X&amp;ved=0ahUKEwiFwt6GzLuBAxV-QjABHX13BmYQ2ZgBCBI' and (text() = 'বাংলা' or . = 'বাংলা')]</value>
+      <webElementGuid>9ce31aab-e65e-4627-a89d-38eb05ecd51d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

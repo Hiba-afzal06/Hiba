@@ -19,9 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.google.com/')
+WebUI.navigateToUrl('https://www.google.com/?gws_rd=ssl')
 
-WebUI.click(findTestObject('Object Repository/Page_Google/a_'))
+WebUI.setText(findTestObject('Object Repository/Page_Google/textarea__q'), 'apple')
 
-WebUI.closeBrowser()
+WebUI.click(findTestObject('Object Repository/Page_Google/span_Apple'))
+
+WebUI.click(findTestObject('Object Repository/Page_apple - Google Search/span_Apple - Official Site'))
 

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_concat(What, , s on your mind)_sc-eDLJxc WUBye</name>
+   <tag></tag>
+   <elementGuidId>f2811d79-9855-4450-bc03-4c311f12bf6f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='seo-core-layout']/div[2]/div[3]/div/div/div[2]/div/div[2]/div/div/div/a/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.sc-eDLJxc.WUBye</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>216452a2-0547-4502-bdc8-ecd4a589fdd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-eDLJxc WUBye</value>
+      <webElementGuid>2f40325f-db74-493d-986e-848b6195df16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/v1674029856/PC_Creative%20refresh/3D_bau/banners_new/Pizza.png</value>
+      <webElementGuid>3d2761c1-3523-4943-a723-2de3c4875102</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>144</value>
+      <webElementGuid>2814850a-7bfb-413b-a796-61f8adac2ad2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>180</value>
+      <webElementGuid>b4793bfb-d7cb-4760-ae09-f668903b8511</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>restaurants curated for pizza</value>
+      <webElementGuid>9f62dc1f-ee1c-4b6a-8f36-d0079d61fad2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;seo-core-layout&quot;)/div[@class=&quot;nearMe__StyledWrapper-sc-eiffh8-0 biXCce&quot;]/div[@class=&quot;StyleWrapper__Main-sc-10ym97a-3 StyleWrapper__ContainerGridPadding-sc-10ym97a-6 klWrLQ eILmTM&quot;]/div[1]/div[@class=&quot;CollectionGrid__Wrapper-sc-dj5nk9-0 dcmKRK&quot;]/div[2]/div[@class=&quot;sc-kMzDYw gIGyKu&quot;]/div[@class=&quot;sc-ilxdoh iWyPq&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;sc-gYrpUN dExHSA&quot;]/div[1]/a[@class=&quot;Collection__CollectionAnchor-sc-ioxwkf-0 eTYOgI&quot;]/div[@class=&quot;Collection__ImageWrapper-sc-ioxwkf-2 cpaQlf&quot;]/img[@class=&quot;sc-eDLJxc WUBye&quot;]</value>
+      <webElementGuid>d5ad783e-e3dd-4788-bb06-3c8be271dd8d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='seo-core-layout']/div[2]/div[3]/div/div/div[2]/div/div[2]/div/div/div/a/div/img</value>
+      <webElementGuid>9b9d720a-6606-4fc6-aaa4-1f41ef2897d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='restaurants curated for pizza']</value>
+      <webElementGuid>0974f1b9-e9ca-4903-9354-24125c04eb2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/img</value>
+      <webElementGuid>324f66ce-4ed9-4e7b-9d41-b958842f8e7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/v1674029856/PC_Creative%20refresh/3D_bau/banners_new/Pizza.png' and @alt = 'restaurants curated for pizza']</value>
+      <webElementGuid>f5569266-236a-46b4-b8d0-8f6049daa8cd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

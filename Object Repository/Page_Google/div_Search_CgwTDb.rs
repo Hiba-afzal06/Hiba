@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Search_CgwTDb</name>
+   <tag></tag>
+   <elementGuidId>2d29179b-b719-48dd-b5ab-82431a6c79df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='yDmH0d']/c-wiz/div/div/c-wiz/div/div/div[2]/div[2]/div/ul/li[3]/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f675b8aa-d837-4a38-8b2c-44155201ac46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>CgwTDb</value>
+      <webElementGuid>f3e0d0f4-82c3-4369-b826-cea4939d00e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yDmH0d&quot;)/c-wiz[@class=&quot;SSPGKf&quot;]/div[@class=&quot;T4LgNb eejsDc&quot;]/div[@class=&quot;kFwPee&quot;]/c-wiz[1]/div[@class=&quot;qWuU9c&quot;]/div[@class=&quot;EHzcec eejsDc&quot;]/div[@class=&quot;v7bWUd&quot;]/div[@class=&quot;o83JEf&quot;]/div[@class=&quot;LVal7b&quot;]/ul[@class=&quot;ngVsM u4RcUd&quot;]/li[@class=&quot;j1ei8c&quot;]/a[@class=&quot;tX9u1b&quot;]/div[@class=&quot;CgwTDb&quot;]</value>
+      <webElementGuid>100696dd-5e41-4d28-aa66-27fdae76a167</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Google/iframe_Sign in_app</value>
+      <webElementGuid>be1df84c-5dfa-48a7-85f4-deeccf8b58c1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='yDmH0d']/c-wiz/div/div/c-wiz/div/div/div[2]/div[2]/div/ul/li[3]/a/div</value>
+      <webElementGuid>96efaedc-d65b-4681-98ac-7286bedfea24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::div[1]</value>
+      <webElementGuid>3ad04aa8-577d-4ad9-ab43-fbcafe015b89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account'])[1]/following::div[2]</value>
+      <webElementGuid>894f3ca7-3d35-49cb-acbb-1d55e6353599</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maps'])[1]/preceding::div[1]</value>
+      <webElementGuid>ba67da13-4973-40b7-a667-14410df5ae07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='YouTube'])[1]/preceding::div[2]</value>
+      <webElementGuid>cc816647-bc16-405e-97f5-baf280ddb4f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a/div</value>
+      <webElementGuid>1e0b59df-1d67-457b-8981-d50a3f5c7823</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

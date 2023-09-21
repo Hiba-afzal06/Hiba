@@ -19,9 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.google.com/')
+WebUI.navigateToUrl('https://www.google.com/?gws_rd=ssl')
 
-WebUI.click(findTestObject('Object Repository/Page_Google/a_'))
+WebUI.click(findTestObject('Object Repository/Page_Google/a_Sign in'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Sign in - Google Accounts/button_Forgot email'), 'Forgot email?')
 
 WebUI.closeBrowser()
 

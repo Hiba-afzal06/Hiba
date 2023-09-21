@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Delete_btnI</name>
+   <name>input__btnI</name>
    <tag></tag>
    <elementGuidId>4b849e1e-7c85-425b-ad2a-2a5edf497877</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//input[@name='btnI'])[2]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.FPdoLc.lJ9FBc > center > input[name=&quot;btnI&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@name='btnI'])[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>873fb6fd-d1f7-4dc5-aec5-f05821fbdea8</webElementGuid>
+      <webElementGuid>c5a59cff-45e7-4211-9557-8cedf0e19625</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,23 +30,23 @@
       <name>class</name>
       <type>Main</type>
       <value>RNmpXc</value>
-      <webElementGuid>f584bbfd-cd3a-4a99-ac96-b55ea6336518</webElementGuid>
+      <webElementGuid>703fbf70-3e98-412f-9981-13144b0213c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>I'm Feeling Lucky</value>
-      <webElementGuid>70750a7e-eb5f-4105-9e98-36e5e33ed9fc</webElementGuid>
+      <value>ভাগ্যবান অনুভব করছি</value>
+      <webElementGuid>d93d4b48-f3ea-4c9a-a44d-e5ba717c173b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-label</name>
       <type>Main</type>
-      <value>I'm Feeling Lucky</value>
-      <webElementGuid>c5d06adf-e817-4b67-ab7d-59d8e2640c44</webElementGuid>
+      <value>ভাগ্যবান অনুভব করছি</value>
+      <webElementGuid>18c6d7a2-7386-4530-8158-702f5d629b71</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>name</name>
       <type>Main</type>
       <value>btnI</value>
-      <webElementGuid>9804f7aa-ab1a-400d-bdc2-dddb84411d1e</webElementGuid>
+      <webElementGuid>910a2cec-b39a-4885-940f-98a666f2bbec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>0cd9a09b-c9e1-4a33-be26-d8ca53ab98b9</webElementGuid>
+      <webElementGuid>01d73451-6264-4e0b-8284-2269d8877d86</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,15 +70,15 @@
       <name>jsaction</name>
       <type>Main</type>
       <value>trigger.kWlxhc</value>
-      <webElementGuid>fd126952-9625-4a3c-86ae-8606bf42dd6e</webElementGuid>
+      <webElementGuid>dc27f446-cf5c-408a-b1d3-e5ef79642ab0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-ved</name>
       <type>Main</type>
-      <value>0ahUKEwioybzo5LOBAxXbLbkGHYcLDOgQ19QECA8</value>
-      <webElementGuid>4369a9c6-d402-4651-b167-a776ab51548a</webElementGuid>
+      <value>0ahUKEwj6uLyKzLuBAxVhnGoFHRgpCSoQ19QECA8</value>
+      <webElementGuid>7d1d0dcb-2e6d-490b-a9b7-127c18f36092</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;L3eUgb&quot;]/div[@class=&quot;o3j99 ikrT4e om7nvf&quot;]/form[1]/div[1]/div[@class=&quot;A8SBwf&quot;]/div[@class=&quot;FPdoLc lJ9FBc&quot;]/center[1]/input[@class=&quot;RNmpXc&quot;]</value>
-      <webElementGuid>62b00e1d-a19d-415f-a6fd-5245055b6732</webElementGuid>
+      <webElementGuid>491a4336-f570-4bff-b6ef-a9d6e5913c8d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@name='btnI'])[2]</value>
-      <webElementGuid>99f9c18f-e587-4eda-81ae-758de2393fac</webElementGuid>
+      <webElementGuid>5ff602c7-6ec4-43b5-8041-c682ac4d025e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/center/input[2]</value>
-      <webElementGuid>91c7e38e-d688-4a35-a7bc-955f71a5cfb4</webElementGuid>
+      <webElementGuid>9da2cceb-efa8-40b5-aa43-a878714e4c51</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@name = 'btnI' and @type = 'submit']</value>
-      <webElementGuid>da37ba06-7ea0-430e-82a3-64cd44bbdb90</webElementGuid>
+      <webElementGuid>1f4440ee-0fda-4d55-b87a-3810e03ed940</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

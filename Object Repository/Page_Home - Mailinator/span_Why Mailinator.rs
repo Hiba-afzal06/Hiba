@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Why Mailinator</name>
+   <tag></tag>
+   <elementGuidId>0dbb6e9a-ce50-4299-83a4-5ed958ebdb00</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.x-menu-link-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-8021']/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1c25d8ef-4e9a-48b9-94d0-1659140e0721</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x-menu-link-text</value>
+      <webElementGuid>fc64b71a-f838-467e-b384-90a5cab42fe1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Why Mailinator</value>
+      <webElementGuid>a3eb1fca-c0ff-4d59-879e-c95bbead38a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-item-8021&quot;)/a[@class=&quot;x-menu-link&quot;]/span[@class=&quot;x-menu-link-text&quot;]</value>
+      <webElementGuid>a32c7c14-2c24-464b-b330-c54762a7a676</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-8021']/a/span</value>
+      <webElementGuid>4dd8229c-42e8-4de1-b913-110f441bdd9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Public Inbox'])[1]/following::span[1]</value>
+      <webElementGuid>ff4fd5a2-1d0e-47d8-b81c-1f01da9bb23c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GO'])[1]/following::span[1]</value>
+      <webElementGuid>2c3f6d88-ef93-43cb-a419-3271bdc4eafd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Applications/Solutions'])[1]/preceding::span[3]</value>
+      <webElementGuid>d76c0543-55d7-4ba5-b93b-cb591f20ba29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quality Assurance'])[1]/preceding::span[4]</value>
+      <webElementGuid>adab40b6-de7c-4dc8-8dc7-a4dea223dbe8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Why Mailinator']/parent::*</value>
+      <webElementGuid>d5723437-895e-4821-8551-c50527dedb83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>e31fadfd-0c8d-4057-9b11-aa8ad4f3815c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Why Mailinator' or . = 'Why Mailinator')]</value>
+      <webElementGuid>39ea5b74-28c9-40a1-b3b4-9289e6c39e67</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

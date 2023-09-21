@@ -19,9 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.google.com/')
+WebUI.navigateToUrl('https://www.enterprise.com/en/home.html')
 
-WebUI.click(findTestObject('Object Repository/Page_Google/a_'))
+WebUI.click(findTestObject('Object Repository/Page_Car Rental with Great Rates  Service  _b7cede/a_Current Deals_cmp-teaser__action-link--overlay'))
+
+WebUI.click(findTestObject('Object Repository/Page_Deals  Promotions  Enterprise Rent-A-Car/a_Book Now'))
 
 WebUI.closeBrowser()
 

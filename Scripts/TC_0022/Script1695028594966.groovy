@@ -19,9 +19,12 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.google.com/')
+WebUI.navigateToUrl('https://www.enterprise.com/en/home.html')
 
-WebUI.click(findTestObject('Object Repository/Page_Google/a_'))
+WebUI.setText(findTestObject('Object Repository/Page_Car Rental with Great Rates  Service  _b7cede/input_Required Field_location-search'), 
+    'jfk')
 
-WebUI.closeBrowser()
+WebUI.click(findTestObject('Object Repository/Page_Car Rental with Great Rates  Service  _b7cede/small_Select'))
+
+WebUI.click(findTestObject('Object Repository/Page_Car Rental with Great Rates  Service  _b7cede/button_Browse Vehicles'))
 

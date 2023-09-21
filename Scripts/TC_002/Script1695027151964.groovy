@@ -20,7 +20,10 @@ import org.openqa.selenium.Keys as Keys
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.google.com/?gws_rd=ssl')
-WebUI.maximizeWindow()
-WebUI.click(findTestObject('Object Repository/Page_Google/input_Delete_btnI'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Google/textarea__q'), 'google weather')
+
+WebUI.click(findTestObject('Object Repository/Page_Google/span_google weather'))
+
 WebUI.closeBrowser()
 

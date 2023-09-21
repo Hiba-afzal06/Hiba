@@ -19,9 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.google.com/')
+WebUI.navigateToUrl('https://www.google.com/?gws_rd=ssl')
 
-WebUI.click(findTestObject('Object Repository/Page_Google/a_'))
+WebUI.click(findTestObject('Object Repository/Page_Google/a_Images'))
 
-WebUI.closeBrowser()
+WebUI.setText(findTestObject('Object Repository/Page_Google Images/textarea__q'), 'cats')
+
+WebUI.click(findTestObject('Object Repository/Page_Google Images/span_cats'))
 

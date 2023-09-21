@@ -19,9 +19,13 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.google.com/')
+WebUI.navigateToUrl('https://www.google.com/?gws_rd=ssl')
 
-WebUI.click(findTestObject('Object Repository/Page_Google/a_'))
+WebUI.setText(findTestObject('Object Repository/Page_Google/textarea__q'), 'yahoo')
+
+WebUI.click(findTestObject('Object Repository/Page_Google/span_Yahoo'))
+
+WebUI.click(findTestObject('Object Repository/Page_yahoo - Google Search/h3_Yahoo India'))
 
 WebUI.closeBrowser()
 

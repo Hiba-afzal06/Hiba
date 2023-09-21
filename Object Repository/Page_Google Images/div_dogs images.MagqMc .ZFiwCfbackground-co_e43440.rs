@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_dogs images.MagqMc .ZFiwCfbackground-co_e43440</name>
+   <tag></tag>
+   <elementGuidId>157b199d-f613-4435-bc57-ca7894238ff7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.sbct.sbhl > div.eIPGRd > div.pcTkSc</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Alh6id']/div/div/ul/li[2]/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d23f3f95-6dc9-4103-a0be-5b3aeb526131</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pcTkSc</value>
+      <webElementGuid>686c6fb7-a83a-4409-b540-6faf2a4679ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>dogs images.MagqMc .ZFiwCf{background-color:#fff;border:1px solid #dadce0;width:100%}.MagqMc.U48fD{padding:0;margin-top:16px}.MagqMc .Bi9oQd{display:none}.MagqMc{padding:0}.MagqMc:hover .LGwnxb{color:#202124}.sOmPcf .ZFiwCf{background-color:#fafafa}.U48fD{-webkit-tap-highlight-color:transparent;cursor:pointer;display:block;line-height:18px;text-overflow:ellipsis;white-space:nowrap;padding:16px;padding-top:0;margin-top:24px;position:relative}.U48fD.df13ud{margin-top:16px}.U48fD.TOQyFc{margin-top:0}.U48fD.p8FEIf{padding-bottom:0}.jRKCUd::before{bottom:12px;content:'';left:16px;position:absolute;right:16px;top:-4px}a.jRKCUd:hover{text-decoration:none}.ZFiwCf{display:flex;align-items:center;justify-content:center;position:relative;margin:0 auto;font-size:14px;font-family:arial,sans-serif;font-weight:400;width:300px;height:36px;border-radius:18px;background-color:#f1f3f4}.TQc1id .ZFiwCf{width:unset}.ZFiwCf:hover{background-color:#fafafa}.nCFUpc .ZFiwCf{width:100%}.Bi9oQd{background-color:#dadce0;margin-top:18px;position:absolute;border:0;height:1px;left:0;width:100%}.TQc1id .Bi9oQd{display:none}.kC8B4e .Bi9oQd{display:none}.w2fKdd svg{width:auto}.w2fKdd{color:#70757a}.LGwnxb{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;width:auto;padding-left:0;padding-right:8px;max-width:200px;color:#202124}.LGwnxb:empty{padding-right:0}.LGwnxb span,.LGwnxb div{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;width:auto}See more</value>
+      <webElementGuid>0080379a-5205-4e61-b488-1baa8080f63d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Alh6id&quot;)/div[@class=&quot;erkvQe&quot;]/div[@class=&quot;OBMEnb&quot;]/ul[@class=&quot;G43f7e&quot;]/li[@class=&quot;sbct sbhl&quot;]/div[@class=&quot;eIPGRd&quot;]/div[@class=&quot;pcTkSc&quot;]</value>
+      <webElementGuid>001cc8bb-be4f-4965-ad0f-104920dbaac1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Alh6id']/div/div/ul/li[2]/div/div[2]</value>
+      <webElementGuid>16d2200d-0678-45d9-851b-6adf4e997db3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/following::div[6]</value>
+      <webElementGuid>e925ee6c-3708-4ef5-894a-3104567f54d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='See more'])[1]/following::div[8]</value>
+      <webElementGuid>e8a55622-0366-48b7-b06e-1736aca3dfaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul/li[2]/div/div[2]</value>
+      <webElementGuid>03aac36f-b67f-4a74-b93c-a4c1872beabe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;dogs images.MagqMc .ZFiwCf{background-color:#fff;border:1px solid #dadce0;width:100%}.MagqMc.U48fD{padding:0;margin-top:16px}.MagqMc .Bi9oQd{display:none}.MagqMc{padding:0}.MagqMc:hover .LGwnxb{color:#202124}.sOmPcf .ZFiwCf{background-color:#fafafa}.U48fD{-webkit-tap-highlight-color:transparent;cursor:pointer;display:block;line-height:18px;text-overflow:ellipsis;white-space:nowrap;padding:16px;padding-top:0;margin-top:24px;position:relative}.U48fD.df13ud{margin-top:16px}.U48fD.TOQyFc{margin-top:0}.U48fD.p8FEIf{padding-bottom:0}.jRKCUd::before{bottom:12px;content:&quot; , &quot;'&quot; , &quot;&quot; , &quot;'&quot; , &quot;;left:16px;position:absolute;right:16px;top:-4px}a.jRKCUd:hover{text-decoration:none}.ZFiwCf{display:flex;align-items:center;justify-content:center;position:relative;margin:0 auto;font-size:14px;font-family:arial,sans-serif;font-weight:400;width:300px;height:36px;border-radius:18px;background-color:#f1f3f4}.TQc1id .ZFiwCf{width:unset}.ZFiwCf:hover{background-color:#fafafa}.nCFUpc .ZFiwCf{width:100%}.Bi9oQd{background-color:#dadce0;margin-top:18px;position:absolute;border:0;height:1px;left:0;width:100%}.TQc1id .Bi9oQd{display:none}.kC8B4e .Bi9oQd{display:none}.w2fKdd svg{width:auto}.w2fKdd{color:#70757a}.LGwnxb{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;width:auto;padding-left:0;padding-right:8px;max-width:200px;color:#202124}.LGwnxb:empty{padding-right:0}.LGwnxb span,.LGwnxb div{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;width:auto}See more&quot;) or . = concat(&quot;dogs images.MagqMc .ZFiwCf{background-color:#fff;border:1px solid #dadce0;width:100%}.MagqMc.U48fD{padding:0;margin-top:16px}.MagqMc .Bi9oQd{display:none}.MagqMc{padding:0}.MagqMc:hover .LGwnxb{color:#202124}.sOmPcf .ZFiwCf{background-color:#fafafa}.U48fD{-webkit-tap-highlight-color:transparent;cursor:pointer;display:block;line-height:18px;text-overflow:ellipsis;white-space:nowrap;padding:16px;padding-top:0;margin-top:24px;position:relative}.U48fD.df13ud{margin-top:16px}.U48fD.TOQyFc{margin-top:0}.U48fD.p8FEIf{padding-bottom:0}.jRKCUd::before{bottom:12px;content:&quot; , &quot;'&quot; , &quot;&quot; , &quot;'&quot; , &quot;;left:16px;position:absolute;right:16px;top:-4px}a.jRKCUd:hover{text-decoration:none}.ZFiwCf{display:flex;align-items:center;justify-content:center;position:relative;margin:0 auto;font-size:14px;font-family:arial,sans-serif;font-weight:400;width:300px;height:36px;border-radius:18px;background-color:#f1f3f4}.TQc1id .ZFiwCf{width:unset}.ZFiwCf:hover{background-color:#fafafa}.nCFUpc .ZFiwCf{width:100%}.Bi9oQd{background-color:#dadce0;margin-top:18px;position:absolute;border:0;height:1px;left:0;width:100%}.TQc1id .Bi9oQd{display:none}.kC8B4e .Bi9oQd{display:none}.w2fKdd svg{width:auto}.w2fKdd{color:#70757a}.LGwnxb{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;width:auto;padding-left:0;padding-right:8px;max-width:200px;color:#202124}.LGwnxb:empty{padding-right:0}.LGwnxb span,.LGwnxb div{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;width:auto}See more&quot;))]</value>
+      <webElementGuid>4b0e3a05-9517-456f-bf72-5ca0a270ed95</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
