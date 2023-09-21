@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Uber/button_Log in with QR code",
+      "brokenLocator": "//button[@id\u003d\u0027open-qr-code-btn\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Privacy Policy\u0027])[1]/preceding::button[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230921_173832/TestSuite_001/20230921_173832/Object Repository/Page_Uber/button_Log in with QR code_neighbor.png"
+    }
+  ]
+}
