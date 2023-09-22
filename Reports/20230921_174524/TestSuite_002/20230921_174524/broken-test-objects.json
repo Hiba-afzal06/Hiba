@@ -1,0 +1,34 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Rent Out Your Car Through Uber and Ear_fd3df7/a_Sign up",
+      "brokenLocator": "//main[@id\u003d\u0027main\u0027]/div/section/div/div[2]/div/div/div/div/div[3]/div/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[contains(text(),\u0027Sign up\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230921_174524/TestSuite_002/20230921_174524/Object Repository/Page_Rent Out Your Car Through Uber and Ear_fd3df7/a_Sign up_link.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Google/span_google weather",
+      "brokenLocator": "//div[@id\u003d\u0027jZ2SBf\u0027]/div/div/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027×\u0027])[1]/following::span[11]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230921_174524/TestSuite_002/20230921_174524/Object Repository/Page_Google/span_google weather_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Uber/button_Log in with QR code",
+      "brokenLocator": "//button[@id\u003d\u0027open-qr-code-btn\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Privacy Policy\u0027])[1]/preceding::button[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230921_174524/TestSuite_002/20230921_174524/Object Repository/Page_Uber/button_Log in with QR code_neighbor.png"
+    }
+  ]
+}

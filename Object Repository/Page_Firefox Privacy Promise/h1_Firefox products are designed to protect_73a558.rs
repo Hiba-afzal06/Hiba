@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Firefox products are designed to protect_73a558</name>
+   <tag></tag>
+   <elementGuidId>d8c2edd7-eb84-4e8c-a8b0-fdb37d35e3a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='outer-wrapper']/main/section/div/div/div[2]/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>6935125d-6d20-4aa2-85d7-c4b2e580a4b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Firefox products are designed to protect your privacy</value>
+      <webElementGuid>c1049090-efd8-48d9-bd80-4f33c57c7b14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;outer-wrapper&quot;)/main[1]/section[@class=&quot;mzp-c-split privacy-promise-hero mzp-l-split-hide-media-on-sm-md mzp-t-split-nospace t-mobile-nospace&quot;]/div[@class=&quot;mzp-c-split-bg mzp-t-dark&quot;]/div[@class=&quot;mzp-c-split-container&quot;]/div[@class=&quot;mzp-c-split-body&quot;]/h1[1]</value>
+      <webElementGuid>573a7347-309d-4656-ba5f-1f5367df34eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='outer-wrapper']/main/section/div/div/div[2]/h1</value>
+      <webElementGuid>5fba486b-f201-4859-8054-44178d6a9c94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Safe Passwords'])[1]/following::h1[1]</value>
+      <webElementGuid>83b6891d-bb04-4bf2-98a3-f2dc2084bcbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Little Book of Privacy'])[1]/following::h1[1]</value>
+      <webElementGuid>15f2e703-00d7-4244-9bb4-9719da09d38c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='That’s why everything we make and do honors our Personal Data Promise'])[1]/preceding::h1[1]</value>
+      <webElementGuid>6267b35b-7cc8-424a-aa71-e1a4eb651dcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Firefox products are designed to protect your']/parent::*</value>
+      <webElementGuid>00d59300-12ee-483b-b098-5f3d709d2220</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>4529f398-944d-48c6-9558-eac5027672c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Firefox products are designed to protect your privacy' or . = 'Firefox products are designed to protect your privacy')]</value>
+      <webElementGuid>574f22df-1dfd-4db5-95b2-41af80424fe4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

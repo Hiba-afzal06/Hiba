@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Categories</name>
+   <tag></tag>
+   <elementGuidId>ba496c0d-2505-423f-8077-7d13e637566d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ud-text-sm.desktop-header-module--dropdown-button-text--k8O8T</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='u172-popper-trigger--1']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a085df21-2808-456b-9173-0001d6573a77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ud-text-sm desktop-header-module--dropdown-button-text--k8O8T</value>
+      <webElementGuid>9bd2db74-80c7-48f2-8396-8dd2ae94d45c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Categories</value>
+      <webElementGuid>55b7f9fa-bd3f-4b76-948e-3e422bb5b047</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;u172-popper-trigger--1&quot;)/span[@class=&quot;ud-text-sm desktop-header-module--dropdown-button-text--k8O8T&quot;]</value>
+      <webElementGuid>9f74d38f-cc14-41c3-964c-5e1296053b19</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='u172-popper-trigger--1']/span</value>
+      <webElementGuid>28a6dc75-14ba-4af6-a87e-c6f8c5dbe68a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip to content'])[1]/following::span[1]</value>
+      <webElementGuid>9f6e02ba-55b2-4073-816f-a4f805151ada</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search for anything'])[1]/preceding::span[1]</value>
+      <webElementGuid>9b5bb582-ba3d-4ef8-ab19-39bcb188fee9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Udemy Business'])[1]/preceding::span[1]</value>
+      <webElementGuid>482acfd5-a4fc-4117-9d91-7ac953c4e30c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Categories']/parent::*</value>
+      <webElementGuid>1929fbf4-91d8-4f46-85ca-3c6f73257176</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>813beac0-3402-4cfe-9453-92f8eecdd6d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Categories' or . = 'Categories')]</value>
+      <webElementGuid>3e3ef4df-a954-40d7-bf60-a80977029639</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

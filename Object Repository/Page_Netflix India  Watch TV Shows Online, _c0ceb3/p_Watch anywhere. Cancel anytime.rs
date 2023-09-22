@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Watch anywhere. Cancel anytime</name>
+   <tag></tag>
+   <elementGuidId>d5c5e4e4-5465-4bc4-bb3e-78bf4ef4c875</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.default-ltr-cache-10i4ild.e9eyrqp7</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='appMountPoint']/div/div/div/div[2]/div/div[2]/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>5e1ac763-58ee-4f6f-a328-21d01d14d00e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-uia</name>
+      <type>Main</type>
+      <value>nmhp-card-hero-text-subtitle</value>
+      <webElementGuid>7a33d0a4-fea4-4f11-8ca6-30cb55f402e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>default-ltr-cache-10i4ild e9eyrqp7</value>
+      <webElementGuid>37832bb4-4bee-45c0-8f56-0b075cea7a88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Watch anywhere. Cancel anytime.</value>
+      <webElementGuid>65b21cdc-ff9e-4451-8dbe-c59922b9a996</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;appMountPoint&quot;)/div[@class=&quot;basicLayout&quot;]/div[@class=&quot;netflix-sans-font-loaded&quot;]/div[1]/div[2]/div[@class=&quot;default-ltr-cache-142hwrm e9eyrqp6&quot;]/div[@class=&quot;default-ltr-cache-d4qcmr e9eyrqp1&quot;]/div[@class=&quot;default-ltr-cache-1dvfrvc e9eyrqp5&quot;]/p[@class=&quot;default-ltr-cache-10i4ild e9eyrqp7&quot;]</value>
+      <webElementGuid>c8ba3f3d-c0af-48a6-934b-99a80c810dfe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='appMountPoint']/div/div/div/div[2]/div/div[2]/div/p</value>
+      <webElementGuid>84ad859f-2a0f-4aea-ac86-0dd7ee2d073c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unlimited movies, TV shows and more'])[1]/following::p[1]</value>
+      <webElementGuid>030abde0-e146-405c-a5de-2798a81a349b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign In'])[1]/following::p[1]</value>
+      <webElementGuid>dfd0374c-f20b-458b-8190-ec45d1d0ee1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ready to watch? Enter your email to create or restart your membership.'])[1]/preceding::p[1]</value>
+      <webElementGuid>37f5056f-9c97-4692-8384-6e6c2efdcc30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email address'])[1]/preceding::p[1]</value>
+      <webElementGuid>e003dc6d-7736-4513-958b-08e96fde60a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Watch anywhere. Cancel anytime.']/parent::*</value>
+      <webElementGuid>76cc144b-a746-4f0e-aaa2-8f52a58b3991</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>6f881e94-635a-4ad2-80d7-126c42a70f20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Watch anywhere. Cancel anytime.' or . = 'Watch anywhere. Cancel anytime.')]</value>
+      <webElementGuid>77897d09-b145-4f77-9872-0e628e41df56</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

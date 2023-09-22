@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_New members, try Primefree for 30 days</name>
+   <tag></tag>
+   <elementGuidId>245d29dd-6ae2-4b9a-ba26-2b1e954329c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#prime-hero-module-headline</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h1[@id='prime-hero-module-headline']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>945b0f75-74ff-4997-8d0a-edb7c62239ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>prime-hero-module-headline</value>
+      <webElementGuid>c7dbceb8-a7e5-43bd-bc15-e325eb539f58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>headline1</value>
+      <webElementGuid>dcdbbd04-171c-4e04-a3a8-01fc43b55344</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>                     New members, try Primefree for 30 days  
+</value>
+      <webElementGuid>6adde63c-89a9-4fed-91c5-51b2e21ec482</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;prime-hero-module-headline&quot;)</value>
+      <webElementGuid>ff1596e4-beee-4cd5-8745-97ae90781557</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h1[@id='prime-hero-module-headline']</value>
+      <webElementGuid>5e92b63c-6b74-4168-88b7-c28d13de2e38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='prime-hero-main-content']/h1</value>
+      <webElementGuid>930613d6-aecc-49df-ba7d-048661b8ba96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Disability Customer Support'])[1]/following::h1[1]</value>
+      <webElementGuid>383c73f1-1d6a-45d2-954e-9422fab91570</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sell'])[1]/following::h1[1]</value>
+      <webElementGuid>3a8bc2ca-a04c-4eb0-be40-3c1c5ce297fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Free delivery, popular movies and shows, exclusive deals, and more'])[1]/preceding::h1[1]</value>
+      <webElementGuid>a13ee0cf-2722-4123-9701-f5f3571e7b12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='New members, try Prime']/parent::*</value>
+      <webElementGuid>b38f3901-19de-4273-a7d8-efd393a3b4c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>4fc0f2b9-5d4f-48cd-be80-e2e402ffed7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[@id = 'prime-hero-module-headline' and (text() = '                     New members, try Primefree for 30 days  
+' or . = '                     New members, try Primefree for 30 days  
+')]</value>
+      <webElementGuid>cf7feb59-7640-42ce-b10e-e93f4d4e86c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

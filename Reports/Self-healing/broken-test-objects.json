@@ -19,6 +19,16 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Uber/button_Log in with QR code_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Rent Out Your Car Through Uber and Ear_fd3df7/a_Sign up",
+      "brokenLocator": "//main[@id\u003d\u0027main\u0027]/div/section/div/div[2]/div/div/div/div/div[3]/div/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[contains(text(),\u0027Sign up\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Rent Out Your Car Through Uber and Ear_fd3df7/a_Sign up_link.png"
     }
   ]
 }

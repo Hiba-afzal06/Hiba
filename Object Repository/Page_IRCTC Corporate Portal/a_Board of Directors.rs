@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Board of Directors</name>
+   <tag></tag>
+   <elementGuidId>0b71e619-7fd7-45f0-9218-f53ed6e3a0a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#topNav > ul.navbar-nav > li.has-child > ul.sub-menu > li:nth-of-type(2) > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='topNav']/ul/li/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ab5fb7ac-2eb9-4449-8ac7-6278fd442101</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>board-of-directors.html</value>
+      <webElementGuid>57a4a608-aede-4bb8-9373-d1a884911c40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Board of Directors</value>
+      <webElementGuid>40f35efa-d4c3-45d8-834e-5fdb09cd9f6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;topNav&quot;)/ul[@class=&quot;navbar-nav&quot;]/li[@class=&quot;has-child&quot;]/ul[@class=&quot;sub-menu&quot;]/li[2]/a[1]</value>
+      <webElementGuid>67fe6f9e-bac0-4aeb-b671-51377ad90aee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='topNav']/ul/li/ul/li[2]/a</value>
+      <webElementGuid>22442808-46ad-43a7-b5a1-54558ea0be6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Board of Directors')])[3]</value>
+      <webElementGuid>003ef9f0-46fe-46bc-8a0d-4cd8bd256dce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Us'])[4]/following::a[1]</value>
+      <webElementGuid>2aa20a92-e795-47ed-97ba-5a51650b5718</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Us'])[3]/following::a[2]</value>
+      <webElementGuid>5df94c5a-a92f-41c3-9a9a-4e1fd6f02c36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Key Executives'])[2]/preceding::a[1]</value>
+      <webElementGuid>b4ee39d5-1768-489e-8060-7554f3f31d97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Organization Structure'])[2]/preceding::a[2]</value>
+      <webElementGuid>7b76a315-948a-41d2-9f0f-e8ad90a87c8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'board-of-directors.html')])[2]</value>
+      <webElementGuid>0fa0ee57-50d8-45a1-a386-7c61d8d89a81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/div/ul/li/ul/li[2]/a</value>
+      <webElementGuid>5f90ef7e-a696-4b19-8e22-1eabf0b87ea9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'board-of-directors.html' and (text() = 'Board of Directors' or . = 'Board of Directors')]</value>
+      <webElementGuid>bfc736a4-dbd6-4dc5-ae34-b03fccb4c430</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>1b2dba59-cadd-4e69-90d1-93adda34d72f</webElementGuid>
+      <webElementGuid>48632295-5377-440e-a321-1c328b69bd0a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>c-menu-title</value>
-      <webElementGuid>be371350-3ee1-4c29-a0ae-6f4e0d100244</webElementGuid>
+      <webElementGuid>5702264b-df74-49a9-9509-e29c846b7b22</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/en-US/firefox/browsers/</value>
-      <webElementGuid>0d05eeaf-7b58-4bf4-ba16-6b146455e97e</webElementGuid>
+      <webElementGuid>b3e7b546-9db9-4407-b844-1de8415ea7d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>4e07626c-de6a-4b05-8eed-0a3841f3b8cf</webElementGuid>
+      <webElementGuid>319378c1-bcf5-41eb-9741-a830f88acb42</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>aria-controls</name>
       <type>Main</type>
       <value>c-menu-panel-firefox</value>
-      <webElementGuid>ca991116-234c-4899-89f2-61f847a3410e</webElementGuid>
+      <webElementGuid>e428cc85-2eaa-4699-b086-26fe555cbf56</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>2e43500f-4e45-40af-b963-e39b92ce61ad</webElementGuid>
+      <webElementGuid>0b78b9d7-c2ca-4121-9fe0-2ee940d95ac3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Firefox Browsers</value>
-      <webElementGuid>5604c890-00df-4346-93c1-6285e1252922</webElementGuid>
+      <webElementGuid>e6761d45-9ef2-4f13-acce-b64eea9b5f9f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;c-navigation-items&quot;)/div[@class=&quot;c-navigation-menu&quot;]/nav[@class=&quot;c-menu mzp-is-enhanced&quot;]/ul[@class=&quot;c-menu-category-list&quot;]/li[@class=&quot;c-menu-category mzp-has-drop-down mzp-js-expandable mzp-is-animated mzp-is-selected&quot;]/a[@class=&quot;c-menu-title&quot;]</value>
-      <webElementGuid>bb9fb503-8af5-431a-8e46-3a4577d75241</webElementGuid>
+      <webElementGuid>d839b2e8-7264-40fe-a308-015ec89d4051</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='c-navigation-items']/div[2]/nav/ul/li/a</value>
-      <webElementGuid>cb235e83-661c-47c8-8ef1-8be680dedf14</webElementGuid>
+      <webElementGuid>f60a9e26-51ac-4977-b566-a9063c5503c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Firefox Browsers')]</value>
-      <webElementGuid>5ed1201d-617b-4e60-8323-3ddbb3f4b6f3</webElementGuid>
+      <webElementGuid>868fbb12-5828-4ae7-8542-2a5e682fb272</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Get Mozilla VPN'])[1]/following::a[1]</value>
-      <webElementGuid>0d99b76f-c9ca-4af8-bba9-9cd7a52d3baa</webElementGuid>
+      <webElementGuid>f1c15951-d60c-4f36-b24f-394c4a5f163f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Firefox Privacy Notice'])[1]/following::a[2]</value>
-      <webElementGuid>7b48d8f0-c6ef-4133-8109-429d756a1799</webElementGuid>
+      <webElementGuid>4af12d9c-ff0a-46a2-aac8-abc28ea71217</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Close Firefox Browsers menu'])[1]/preceding::a[1]</value>
-      <webElementGuid>eb19204e-0511-4033-87ff-3ffb3755c335</webElementGuid>
+      <webElementGuid>f68e70cd-ff67-445b-8893-53ae69854be4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Firefox for Desktop'])[1]/preceding::a[1]</value>
-      <webElementGuid>8efac099-b662-40fd-93c8-5451c865e26a</webElementGuid>
+      <webElementGuid>30ca7385-e17d-43e3-a5eb-af1df0293749</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Firefox Browsers']/parent::*</value>
-      <webElementGuid>fc38fe47-b63d-4d9f-8c65-64377efbce88</webElementGuid>
+      <webElementGuid>1c5baff4-6ae8-4c4c-9ca2-ef319872877a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +142,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/en-US/firefox/browsers/')]</value>
-      <webElementGuid>b672e9f7-1dcc-41bc-add8-68ad3c8a6a9a</webElementGuid>
+      <webElementGuid>1985ad93-7690-4a1c-af6c-a377655c55e8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +150,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/a</value>
-      <webElementGuid>b557bbd3-ff02-40d2-8fa7-49dfd8a9568c</webElementGuid>
+      <webElementGuid>ba1ea95f-18dd-4975-8669-e3539347b3ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,6 +158,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/en-US/firefox/browsers/' and (text() = 'Firefox Browsers' or . = 'Firefox Browsers')]</value>
-      <webElementGuid>7f4e2703-2749-4a16-b4f2-0962ee1bc476</webElementGuid>
+      <webElementGuid>d76d6419-11ad-4192-86d8-01eaf9b2ba61</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

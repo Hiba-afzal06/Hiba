@@ -1,0 +1,1939 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TestSuite_002" time="1139.29" tests="30" failures="3" errors="0">
+   <testsuite name="TestSuite_002" tests="30" failures="3" errors="0" time="1139.29" skipped="0" timestamp="2023-09-21 17:45:27" hostname="hiba.naaz - ZIL482.perficient.com" id="Test Suites/TestSuite_002">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\hiba.naaz\\git\\Katalon-Practice\\Reports\\20230921_174524\\TestSuite_002\\20230921_174524"/>
+         <property name="logFiles" value="C:\\Users\\hiba.naaz\\git\\Katalon-Practice\\Reports\\20230921_174524\\TestSuite_002\\20230921_174524\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\hiba.naaz\\git\\Katalon-Practice\\Reports\\20230921_174524\\TestSuite_002\\20230921_174524\\1695298716569.png, C:\\Users\\hiba.naaz\\git\\Katalon-Practice\\Reports\\20230921_174524\\TestSuite_002\\20230921_174524\\1695298806240.png, C:\\Users\\hiba.naaz\\git\\Katalon-Practice\\Reports\\20230921_174524\\TestSuite_002\\20230921_174524\\1695298894640.png, C:\\Users\\hiba.naaz\\git\\Katalon-Practice\\Reports\\20230921_174524\\TestSuite_002\\20230921_174524\\1695299201351.png, C:\\Users\\hiba.naaz\\git\\Katalon-Practice\\Reports\\20230921_174524\\TestSuite_002\\20230921_174524\\1695299412518.png"/>
+         <property name="hostName" value="hiba.naaz - ZIL482.perficient.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.8.208"/>
+         <property name="browser" value="Chrome 116.0.0.0"/>
+         <property name="hostAddress" value="10.112.37.92"/>
+         <property name="sessionId" value="5624b016c7e86782d3e516b6669e6e7c"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/TC_001" time="9.016" classname="Test Cases/TC_001" status="PASSED">
+         <system-out><![CDATA[2023-09-21 17:45:27 - [TEST_CASE][PASSED] - Test Cases/TC_001: Test Cases/TC_001
+
+2023-09-21 17:45:27 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-21 17:45:28 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-21 17:45:28 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-21 17:45:30 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-21 17:45:30 - [TEST_STEP][PASSED] - navigateToUrl("https://www.firefox.com/"): Navigate to 'https://www.firefox.com/' successfully
+
+2023-09-21 17:45:35 - [MESSAGE][PASSED] - Navigate to 'https://www.firefox.com/' successfully
+
+2023-09-21 17:45:35 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-21 17:45:36 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC_0010" time="9.134" classname="Test Cases/TC_0010" status="PASSED">
+         <system-out><![CDATA[2023-09-21 17:45:36 - [TEST_CASE][PASSED] - Test Cases/TC_0010: Test Cases/TC_0010
+
+2023-09-21 17:45:36 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-21 17:45:36 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-21 17:45:36 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-21 17:45:38 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-21 17:45:38 - [TEST_STEP][PASSED] - navigateToUrl("https://www.google.com/"): Navigate to 'https://www.google.com/' successfully
+
+2023-09-21 17:45:43 - [MESSAGE][PASSED] - Navigate to 'https://www.google.com/' successfully
+
+2023-09-21 17:45:43 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Google/a_")): Object: 'Object Repository/Page_Google/a_' is clicked on
+
+2023-09-21 17:45:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Google/a_' is clicked on
+
+2023-09-21 17:45:44 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-21 17:45:45 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC_009" time="22.878" classname="Test Cases/TC_009" status="PASSED">
+         <system-out><![CDATA[2023-09-21 17:45:45 - [TEST_CASE][PASSED] - Test Cases/TC_009: Test Cases/TC_009
+
+2023-09-21 17:45:46 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-21 17:45:46 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-21 17:45:46 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-21 17:45:47 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-21 17:45:47 - [TEST_STEP][PASSED] - navigateToUrl("https://www.yahoo.com/"): Navigate to 'https://www.yahoo.com/' successfully
+
+2023-09-21 17:45:59 - [MESSAGE][PASSED] - Navigate to 'https://www.yahoo.com/' successfully
+
+2023-09-21 17:45:59 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Yahoo  Mail, Weather, Search, Politics_802e32/a_News")): Object: 'Object Repository/Page_Yahoo  Mail, Weather, Search, Politics_802e32/a_News' is clicked on
+
+2023-09-21 17:46:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Yahoo  Mail, Weather, Search, Politics_802e32/a_News' is clicked on
+
+2023-09-21 17:46:07 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-21 17:46:08 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC_008" time="9.973" classname="Test Cases/TC_008" status="PASSED">
+         <system-out><![CDATA[2023-09-21 17:46:08 - [TEST_CASE][PASSED] - Test Cases/TC_008: Test Cases/TC_008
+
+2023-09-21 17:46:08 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-21 17:46:08 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-21 17:46:08 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-21 17:46:10 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-21 17:46:10 - [TEST_STEP][PASSED] - navigateToUrl("https://www.zomato.com/"): Navigate to 'https://www.zomato.com/' successfully
+
+2023-09-21 17:46:17 - [MESSAGE][PASSED] - Navigate to 'https://www.zomato.com/' successfully
+
+2023-09-21 17:46:17 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-21 17:46:18 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC_007" time="9.385" classname="Test Cases/TC_007" status="PASSED">
+         <system-out><![CDATA[2023-09-21 17:46:18 - [TEST_CASE][PASSED] - Test Cases/TC_007: Test Cases/TC_007
+
+2023-09-21 17:46:18 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-21 17:46:18 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-21 17:46:18 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-21 17:46:20 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-21 17:46:20 - [TEST_STEP][PASSED] - navigateToUrl("https://www.swiggy.com/"): Navigate to 'https://www.swiggy.com/' successfully
+
+2023-09-21 17:46:26 - [MESSAGE][PASSED] - Navigate to 'https://www.swiggy.com/' successfully
+
+2023-09-21 17:46:26 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Page_Order food online from Indias best foo_aa25ef/a_Login"), "Login"): Actual text and expected text of test object 'Object Repository/Page_Order food online from Indias best foo_aa25ef/a_Login' are matched.
+
+2023-09-21 17:46:27 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Order food online from Indias best foo_aa25ef/a_Login' are matched.
+
+2023-09-21 17:46:27 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-21 17:46:27 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC_006" time="13.08" classname="Test Cases/TC_006" status="PASSED">
+         <system-out><![CDATA[2023-09-21 17:46:27 - [TEST_CASE][PASSED] - Test Cases/TC_006: Test Cases/TC_006
+
+2023-09-21 17:46:28 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-21 17:46:28 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-21 17:46:28 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-21 17:46:29 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-21 17:46:29 - [TEST_STEP][PASSED] - navigateToUrl("https://www.google.com/?gws_rd=ssl"): Navigate to 'https://www.google.com/?gws_rd=ssl' successfully
+
+2023-09-21 17:46:34 - [MESSAGE][PASSED] - Navigate to 'https://www.google.com/?gws_rd=ssl' successfully
+
+2023-09-21 17:46:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Google/a_Sign in")): Object: 'Object Repository/Page_Google/a_Sign in' is clicked on
+
+2023-09-21 17:46:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Google/a_Sign in' is clicked on
+
+2023-09-21 17:46:39 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Page_Sign in - Google Accounts/button_Forgot email"), "Forgot email?"): Actual text and expected text of test object 'Object Repository/Page_Sign in - Google Accounts/button_Forgot email' are matched.
+
+2023-09-21 17:46:40 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Sign in - Google Accounts/button_Forgot email' are matched.
+
+2023-09-21 17:46:40 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-21 17:46:41 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC_005" time="9.602" classname="Test Cases/TC_005" status="PASSED">
+         <system-out><![CDATA[2023-09-21 17:46:41 - [TEST_CASE][PASSED] - Test Cases/TC_005: Test Cases/TC_005
+
+2023-09-21 17:46:41 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-21 17:46:41 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-21 17:46:41 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-21 17:46:42 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-21 17:46:42 - [TEST_STEP][PASSED] - navigateToUrl("https://www.mailinator.com/"): Navigate to 'https://www.mailinator.com/' successfully
+
+2023-09-21 17:46:48 - [MESSAGE][PASSED] - Navigate to 'https://www.mailinator.com/' successfully
+
+2023-09-21 17:46:48 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Home - Mailinator/span_Why Mailinator")): Object: 'Object Repository/Page_Home - Mailinator/span_Why Mailinator' is clicked on
+
+2023-09-21 17:46:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Home - Mailinator/span_Why Mailinator' is clicked on
+
+2023-09-21 17:46:49 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-21 17:46:50 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC_004" time="9.193" classname="Test Cases/TC_004" status="PASSED">
+         <system-out><![CDATA[2023-09-21 17:46:50 - [TEST_CASE][PASSED] - Test Cases/TC_004: Test Cases/TC_004
+
+2023-09-21 17:46:51 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-21 17:46:51 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-21 17:46:51 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-21 17:46:52 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-21 17:46:52 - [TEST_STEP][PASSED] - navigateToUrl("https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AYZoVhe63sLu-1TQ0EH5PytlE2GcZOB7TuYqfhYcfxG1KBFhaYtWfhCrBNzSKqfi9jKbo4trIySD&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-2012939348%3A1695296575228269&theme=glif"): Navigate to 'https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AYZoVhe63sLu-1TQ0EH5PytlE2GcZOB7TuYqfhYcfxG1KBFhaYtWfhCrBNzSKqfi9jKbo4trIySD&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-2012939348%3A1695296575228269&theme=glif' successfully
+
+2023-09-21 17:46:57 - [MESSAGE][PASSED] - Navigate to 'https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AYZoVhe63sLu-1TQ0EH5PytlE2GcZOB7TuYqfhYcfxG1KBFhaYtWfhCrBNzSKqfi9jKbo4trIySD&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-2012939348%3A1695296575228269&theme=glif' successfully
+
+2023-09-21 17:46:57 - [TEST_STEP][PASSED] - verifyElementClickable(findTestObject("Object Repository/Page_Gmail/button_Forgot email")): Object 'Object Repository/Page_Gmail/button_Forgot email' is clickable
+
+2023-09-21 17:46:59 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Gmail/button_Forgot email' is clickable
+
+2023-09-21 17:46:59 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-21 17:46:59 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC_0030" time="7.833" classname="Test Cases/TC_0030" status="PASSED">
+         <system-out><![CDATA[2023-09-21 17:46:59 - [TEST_CASE][PASSED] - Test Cases/TC_0030: Test Cases/TC_0030
+
+2023-09-21 17:47:00 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-21 17:47:00 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-21 17:47:00 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-21 17:47:01 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-21 17:47:01 - [TEST_STEP][PASSED] - navigateToUrl("https://www.mozilla.org/en-US/firefox/new/?redirect_source=firefox-com"): Navigate to 'https://www.mozilla.org/en-US/firefox/new/?redirect_source=firefox-com' successfully
+
+2023-09-21 17:47:06 - [MESSAGE][PASSED] - Navigate to 'https://www.mozilla.org/en-US/firefox/new/?redirect_source=firefox-com' successfully
+
+2023-09-21 17:47:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Get Firefox for desktop  Mozilla (US)/a_Firefox Browsers")): Object: 'Object Repository/Page_Get Firefox for desktop  Mozilla (US)/a_Firefox Browsers' is clicked on
+
+2023-09-21 17:47:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Get Firefox for desktop  Mozilla (US)/a_Firefox Browsers' is clicked on
+
+2023-09-21 17:47:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Get Firefox for desktop  Mozilla (US)/h4_Firefox Blog")): Object: 'Object Repository/Page_Get Firefox for desktop  Mozilla (US)/h4_Firefox Blog' is clicked on
+
+2023-09-21 17:47:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Get Firefox for desktop  Mozilla (US)/h4_Firefox Blog' is clicked on
+
+2023-09-21 17:47:07 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-21 17:47:07 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC_003" time="77.427" classname="Test Cases/TC_003" status="FAILED">
+         <failure type="FAILED" message="Test Cases/TC_003 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Sign Up to Drive  Uber/a_Sign up now'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at TC_003.run(TC_003:30)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1695298524362.run(TempTestSuite1695298524362.groovy:36)
+Caused by: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.190)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'ZIL482', ip: '10.112.37.92', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.190, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\HIBA~1.NAA\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55239}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 16433ad42571edd385ab0143ee1aa448
+*** Element info: {Using=xpath, value=//main[@id='main']/div/section/div/div[2]/div/div/div/div/div[3]/div/div/a}
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementsByXPath(RemoteWebDriver.java:432)
+	at org.openqa.selenium.By$ByXPath.findElements(By.java:348)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:311)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)
+	at com.sun.proxy.$Proxy10.findElements(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElements(EventFiringWebDriver.java:182)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementByNormalMethods(WebUiCommonHelper.java:1027)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:919)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:901)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:896)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsByDefault(WebUiCommonHelper.java:892)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsWithSelfHealing(WebUiCommonHelper.java:737)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElements(WebUiCommonHelper.java:718)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1376)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more
+"/>
+         <system-out><![CDATA[2023-09-21 17:51:34 - [TEST_CASE][FAILED] - Test Cases/TC_003: Test Cases/TC_003 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Sign Up to Drive  Uber/a_Sign up now'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at TC_003.run(TC_003:30)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1695298524362.run(TempTestSuite1695298524362.groovy:36)
+Caused by: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.190)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'ZIL482', ip: '10.112.37.92', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.190, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\HIBA~1.NAA\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55239}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 16433ad42571edd385ab0143ee1aa448
+*** Element info: {Using=xpath, value=//main[@id='main']/div/section/div/div[2]/div/div/div/div/div[3]/div/div/a}
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementsByXPath(RemoteWebDriver.java:432)
+	at org.openqa.selenium.By$ByXPath.findElements(By.java:348)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:311)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)
+	at com.sun.proxy.$Proxy10.findElements(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElements(EventFiringWebDriver.java:182)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementByNormalMethods(WebUiCommonHelper.java:1027)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:919)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:901)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:896)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsByDefault(WebUiCommonHelper.java:892)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsWithSelfHealing(WebUiCommonHelper.java:737)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElements(WebUiCommonHelper.java:718)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1376)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more
+
+
+2023-09-21 17:51:34 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-21 17:51:34 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-09-21 17:51:35 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-21 17:51:35 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-21 17:51:37 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-21 17:51:37 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-09-21 17:51:37 - [MESSAGE][PASSED] - Current window maximized
+
+2023-09-21 17:51:37 - [TEST_STEP][PASSED] - navigateToUrl("https://www.uber.com/in/en/"): Navigate to 'https://www.uber.com/in/en/' successfully
+
+2023-09-21 17:51:42 - [MESSAGE][PASSED] - Navigate to 'https://www.uber.com/in/en/' successfully
+
+2023-09-21 17:51:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Earn Money by Driving or Get a Ride No_86ddf9/img_Drive or deliver_css-iTMoEO")): Object: 'Object Repository/Page_Earn Money by Driving or Get a Ride No_86ddf9/img_Drive or deliver_css-iTMoEO' is clicked on
+
+2023-09-21 17:51:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Earn Money by Driving or Get a Ride No_86ddf9/img_Drive or deliver_css-iTMoEO' is clicked on
+
+2023-09-21 17:51:43 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Earn Money by Driving or Get a Ride No_86ddf9/a_Get started")): Object: 'Object Repository/Page_Earn Money by Driving or Get a Ride No_86ddf9/a_Get started' is clicked on
+
+2023-09-21 17:51:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Earn Money by Driving or Get a Ride No_86ddf9/a_Get started' is clicked on
+
+2023-09-21 17:51:47 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Rent Out Your Car Through Uber and Ear_fd3df7/a_Sign up")): Object: 'Object Repository/Page_Rent Out Your Car Through Uber and Ear_fd3df7/a_Sign up' is clicked on
+
+2023-09-21 17:52:18 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //main[@id='main']/div/section/div/div[2]/div/div/div/div/div[3]/div/a'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-09-21 17:52:18 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Rent Out Your Car Through Uber and Ear_fd3df7/a_Sign up'. Try using Self-healing.
+
+2023-09-21 17:52:18 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Rent Out Your Car Through Uber and Ear_fd3df7/a_Sign up' was broken. Propose an alternative one: '//a[contains(text(),'Sign up')]'.
+
+2023-09-21 17:52:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Rent Out Your Car Through Uber and Ear_fd3df7/a_Sign up' is clicked on
+
+2023-09-21 17:52:27 - [TEST_STEP][FAILED] - click(findTestObject("Object Repository/Page_Sign Up to Drive  Uber/a_Sign up now")): Unable to click on object 'Object Repository/Page_Sign Up to Drive  Uber/a_Sign up now' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Sign Up to Drive  Uber/a_Sign up now'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at TC_003.run(TC_003:30)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1695298524362.run(TempTestSuite1695298524362.groovy:36)
+Caused by: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.190)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'ZIL482', ip: '10.112.37.92', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.190, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\HIBA~1.NAA\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55239}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 16433ad42571edd385ab0143ee1aa448
+*** Element info: {Using=xpath, value=//main[@id='main']/div/section/div/div[2]/div/div/div/div/div[3]/div/div/a}
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementsByXPath(RemoteWebDriver.java:432)
+	at org.openqa.selenium.By$ByXPath.findElements(By.java:348)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:311)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)
+	at com.sun.proxy.$Proxy10.findElements(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElements(EventFiringWebDriver.java:182)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementByNormalMethods(WebUiCommonHelper.java:1027)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:919)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:901)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:896)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsByDefault(WebUiCommonHelper.java:892)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsWithSelfHealing(WebUiCommonHelper.java:737)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElements(WebUiCommonHelper.java:718)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1376)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Script1695027746185.run(Script1695027746185.groovy:30)
+	... 16 more
+)
+
+2023-09-21 17:52:52 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Sign Up to Drive  Uber/a_Sign up now'. Try using Self-healing.
+
+2023-09-21 17:52:52 - [MESSAGE][WARNING] - [SELF-HEALING] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.190)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'ZIL482', ip: '10.112.37.92', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.190, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\HIBA~1.NAA\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55239}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 16433ad42571edd385ab0143ee1aa448
+*** Element info: {Using=xpath, value=//main[@id='main']/div/section/div/div[2]/div/div/div/div/div[3]/div/div/a}
+
+2023-09-21 17:52:52 - [MESSAGE][WARNING] - [SELF-HEALING] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.190)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'ZIL482', ip: '10.112.37.92', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.190, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\HIBA~1.NAA\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55239}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 16433ad42571edd385ab0143ee1aa448
+*** Element info: {Using=xpath, value=//*[@href = 'https://drivers.uber.com/?marketing_vistor_id=c555f38b-24c9-4495-9386-45120262adab&uclick_id=94d95b38-3e58-4cf5-8ed6-d3df3e6cb957' and (text() = 'Sign up now' or . = 'Sign up now')]}
+
+2023-09-21 17:52:52 - [MESSAGE][WARNING] - [SELF-HEALING] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.190)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'ZIL482', ip: '10.112.37.92', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.190, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\HIBA~1.NAA\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55239}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 16433ad42571edd385ab0143ee1aa448
+*** Element info: {Using=css selector, value=a.css-bENDJs}
+
+2023-09-21 17:52:52 - [MESSAGE][WARNING] - Cannot take screenshot
+
+2023-09-21 17:52:52 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/Page_Sign Up to Drive  Uber/a_Sign up now' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Sign Up to Drive  Uber/a_Sign up now'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at TC_003.run(TC_003:30)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1695298524362.run(TempTestSuite1695298524362.groovy:36)
+Caused by: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.190)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'ZIL482', ip: '10.112.37.92', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.190, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\HIBA~1.NAA\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55239}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 16433ad42571edd385ab0143ee1aa448
+*** Element info: {Using=xpath, value=//main[@id='main']/div/section/div/div[2]/div/div/div/div/div[3]/div/div/a}
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementsByXPath(RemoteWebDriver.java:432)
+	at org.openqa.selenium.By$ByXPath.findElements(By.java:348)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:311)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)
+	at com.sun.proxy.$Proxy10.findElements(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElements(EventFiringWebDriver.java:182)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementByNormalMethods(WebUiCommonHelper.java:1027)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:919)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:901)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:896)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsByDefault(WebUiCommonHelper.java:892)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsWithSelfHealing(WebUiCommonHelper.java:737)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElements(WebUiCommonHelper.java:718)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1376)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Script1695027746185.run(Script1695027746185.groovy:30)
+	... 16 more
+)]]></system-out>
+         <system-err><![CDATA[2023-09-21 17:51:34 - [TEST_CASE][FAILED] - Test Cases/TC_003: Test Cases/TC_003 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Sign Up to Drive  Uber/a_Sign up now'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at TC_003.run(TC_003:30)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1695298524362.run(TempTestSuite1695298524362.groovy:36)
+Caused by: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.190)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'ZIL482', ip: '10.112.37.92', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.190, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\HIBA~1.NAA\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55239}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 16433ad42571edd385ab0143ee1aa448
+*** Element info: {Using=xpath, value=//main[@id='main']/div/section/div/div[2]/div/div/div/div/div[3]/div/div/a}
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementsByXPath(RemoteWebDriver.java:432)
+	at org.openqa.selenium.By$ByXPath.findElements(By.java:348)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:311)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)
+	at com.sun.proxy.$Proxy10.findElements(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElements(EventFiringWebDriver.java:182)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementByNormalMethods(WebUiCommonHelper.java:1027)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:919)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:901)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:896)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsByDefault(WebUiCommonHelper.java:892)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsWithSelfHealing(WebUiCommonHelper.java:737)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElements(WebUiCommonHelper.java:718)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1376)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC_0029" time="17.157" classname="Test Cases/TC_0029" status="PASSED">
+         <system-out><![CDATA[2023-09-21 17:52:52 - [TEST_CASE][PASSED] - Test Cases/TC_0029: Test Cases/TC_0029
+
+2023-09-21 17:52:52 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-21 17:52:52 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-09-21 17:52:53 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-21 17:52:53 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-21 17:52:54 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-21 17:52:54 - [TEST_STEP][PASSED] - navigateToUrl("https://www.google.com/?gws_rd=ssl"): Navigate to 'https://www.google.com/?gws_rd=ssl' successfully
+
+2023-09-21 17:52:59 - [MESSAGE][PASSED] - Navigate to 'https://www.google.com/?gws_rd=ssl' successfully
+
+2023-09-21 17:52:59 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Google/a_")): Object: 'Object Repository/Page_Google/a_' is clicked on
+
+2023-09-21 17:53:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Google/a_' is clicked on
+
+2023-09-21 17:53:02 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Google/input__btnI")): Object: 'Object Repository/Page_Google/input__btnI' is clicked on
+
+2023-09-21 17:53:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Google/input__btnI' is clicked on
+
+2023-09-21 17:53:08 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-21 17:53:09 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC_0028" time="20.526" classname="Test Cases/TC_0028" status="PASSED">
+         <system-out><![CDATA[2023-09-21 17:53:09 - [TEST_CASE][PASSED] - Test Cases/TC_0028: Test Cases/TC_0028
+
+2023-09-21 17:53:09 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-21 17:53:09 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-21 17:53:09 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-21 17:53:11 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-21 17:53:11 - [TEST_STEP][PASSED] - navigateToUrl("https://www.google.com/?gws_rd=ssl"): Navigate to 'https://www.google.com/?gws_rd=ssl' successfully
+
+2023-09-21 17:53:16 - [MESSAGE][PASSED] - Navigate to 'https://www.google.com/?gws_rd=ssl' successfully
+
+2023-09-21 17:53:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Google/a_Images_gb_d")): Object: 'Object Repository/Page_Google/a_Images_gb_d' is clicked on
+
+2023-09-21 17:53:16 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Google/a_Images_gb_d' is clicked on
+
+2023-09-21 17:53:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Google/div_Search_CgwTDb")): Object: 'Object Repository/Page_Google/div_Search_CgwTDb' is clicked on
+
+2023-09-21 17:53:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Google/div_Search_CgwTDb' is clicked on
+
+2023-09-21 17:53:29 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-21 17:53:29 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC_0027" time="8.334" classname="Test Cases/TC_0027" status="PASSED">
+         <system-out><![CDATA[2023-09-21 17:53:29 - [TEST_CASE][PASSED] - Test Cases/TC_0027: Test Cases/TC_0027
+
+2023-09-21 17:53:30 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-21 17:53:30 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-21 17:53:30 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-21 17:53:31 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-21 17:53:31 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-09-21 17:53:31 - [MESSAGE][PASSED] - Current window maximized
+
+2023-09-21 17:53:31 - [TEST_STEP][PASSED] - navigateToUrl("https://www.google.com/?gws_rd=ssl"): Navigate to 'https://www.google.com/?gws_rd=ssl' successfully
+
+2023-09-21 17:53:37 - [MESSAGE][PASSED] - Navigate to 'https://www.google.com/?gws_rd=ssl' successfully
+
+2023-09-21 17:53:37 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-21 17:53:38 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC_0026" time="6.945" classname="Test Cases/TC_0026" status="PASSED">
+         <system-out><![CDATA[2023-09-21 17:53:38 - [TEST_CASE][PASSED] - Test Cases/TC_0026: Test Cases/TC_0026
+
+2023-09-21 17:53:38 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-21 17:53:38 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-21 17:53:38 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-21 17:53:39 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-21 17:53:39 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-09-21 17:53:40 - [MESSAGE][PASSED] - Current window maximized
+
+2023-09-21 17:53:40 - [TEST_STEP][PASSED] - navigateToUrl("https://relianceretail.com/"): Navigate to 'https://relianceretail.com/' successfully
+
+2023-09-21 17:53:42 - [MESSAGE][PASSED] - Navigate to 'https://relianceretail.com/' successfully
+
+2023-09-21 17:53:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Reliance Retail/a_Our Brands")): Object: 'Object Repository/Page_Reliance Retail/a_Our Brands' is clicked on
+
+2023-09-21 17:53:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Reliance Retail/a_Our Brands' is clicked on
+
+2023-09-21 17:53:43 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Reliance Retail/a_JioMart")): Object: 'Object Repository/Page_Reliance Retail/a_JioMart' is clicked on
+
+2023-09-21 17:53:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Reliance Retail/a_JioMart' is clicked on
+
+2023-09-21 17:53:44 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Page_Reliance Retail/img_Netmeds_img-responsive"), ""): Actual text and expected text of test object 'Object Repository/Page_Reliance Retail/img_Netmeds_img-responsive' are matched.
+
+2023-09-21 17:53:44 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Reliance Retail/img_Netmeds_img-responsive' are matched.
+
+2023-09-21 17:53:44 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-21 17:53:45 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC_0025" time="7.136" classname="Test Cases/TC_0025" status="PASSED">
+         <system-out><![CDATA[2023-09-21 17:53:45 - [TEST_CASE][PASSED] - Test Cases/TC_0025: Test Cases/TC_0025
+
+2023-09-21 17:53:45 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-21 17:53:45 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-21 17:53:45 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-21 17:53:46 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-21 17:53:46 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-09-21 17:53:47 - [MESSAGE][PASSED] - Current window maximized
+
+2023-09-21 17:53:47 - [TEST_STEP][PASSED] - navigateToUrl("https://relianceretail.com/"): Navigate to 'https://relianceretail.com/' successfully
+
+2023-09-21 17:53:49 - [MESSAGE][PASSED] - Navigate to 'https://relianceretail.com/' successfully
+
+2023-09-21 17:53:49 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Reliance Retail/a_About Us")): Object: 'Object Repository/Page_Reliance Retail/a_About Us' is clicked on
+
+2023-09-21 17:53:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Reliance Retail/a_About Us' is clicked on
+
+2023-09-21 17:53:50 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Reliance Retail/a_Key Facts")): Object: 'Object Repository/Page_Reliance Retail/a_Key Facts' is clicked on
+
+2023-09-21 17:53:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Reliance Retail/a_Key Facts' is clicked on
+
+2023-09-21 17:53:51 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Page_Reliance Retail/h2_Key Facts"), "KEY FACTS"): Actual text and expected text of test object 'Object Repository/Page_Reliance Retail/h2_Key Facts' are matched.
+
+2023-09-21 17:53:51 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Reliance Retail/h2_Key Facts' are matched.
+
+2023-09-21 17:53:51 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-21 17:53:52 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC_0024" time="13.368" classname="Test Cases/TC_0024" status="PASSED">
+         <system-out><![CDATA[2023-09-21 17:53:52 - [TEST_CASE][PASSED] - Test Cases/TC_0024: Test Cases/TC_0024
+
+2023-09-21 17:53:52 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-21 17:53:52 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-21 17:53:52 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-21 17:53:54 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-21 17:53:54 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-09-21 17:53:54 - [MESSAGE][PASSED] - Current window maximized
+
+2023-09-21 17:53:54 - [TEST_STEP][PASSED] - navigateToUrl("https://academy.katalon.com/"): Navigate to 'https://academy.katalon.com/' successfully
+
+2023-09-21 17:54:04 - [MESSAGE][PASSED] - Navigate to 'https://academy.katalon.com/' successfully
+
+2023-09-21 17:54:04 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Page_Katalon Academy - Automation Testing C_4c4a56/button_Choose a course"), 0): Object 'Object Repository/Page_Katalon Academy - Automation Testing C_4c4a56/button_Choose a course' is present
+
+2023-09-21 17:54:04 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-09-21 17:54:05 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Katalon Academy - Automation Testing C_4c4a56/button_Choose a course' is present
+
+2023-09-21 17:54:05 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-21 17:54:05 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC_0023" time="23.228" classname="Test Cases/TC_0023" status="PASSED">
+         <system-out><![CDATA[2023-09-21 17:54:05 - [TEST_CASE][PASSED] - Test Cases/TC_0023: Test Cases/TC_0023
+
+2023-09-21 17:54:06 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-21 17:54:06 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-21 17:54:06 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-21 17:54:07 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-21 17:54:07 - [TEST_STEP][PASSED] - navigateToUrl("https://www.enterprise.com/en/home.html"): Navigate to 'https://www.enterprise.com/en/home.html' successfully
+
+2023-09-21 17:54:18 - [MESSAGE][PASSED] - Navigate to 'https://www.enterprise.com/en/home.html' successfully
+
+2023-09-21 17:54:18 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Car Rental with Great Rates  Service  _b7cede/a_Current Deals_cmp-teaser__action-link--overlay")): Object: 'Object Repository/Page_Car Rental with Great Rates  Service  _b7cede/a_Current Deals_cmp-teaser__action-link--overlay' is clicked on
+
+2023-09-21 17:54:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Car Rental with Great Rates  Service  _b7cede/a_Current Deals_cmp-teaser__action-link--overlay' is clicked on
+
+2023-09-21 17:54:20 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Deals  Promotions  Enterprise Rent-A-Car/a_Book Now")): Object: 'Object Repository/Page_Deals  Promotions  Enterprise Rent-A-Car/a_Book Now' is clicked on
+
+2023-09-21 17:54:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Deals  Promotions  Enterprise Rent-A-Car/a_Book Now' is clicked on
+
+2023-09-21 17:54:28 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-21 17:54:29 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC_0022" time="15.846" classname="Test Cases/TC_0022" status="PASSED">
+         <system-out><![CDATA[2023-09-21 17:54:29 - [TEST_CASE][PASSED] - Test Cases/TC_0022: Test Cases/TC_0022
+
+2023-09-21 17:54:29 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-21 17:54:29 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-21 17:54:29 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-21 17:54:30 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-21 17:54:30 - [TEST_STEP][PASSED] - navigateToUrl("https://www.enterprise.com/en/home.html"): Navigate to 'https://www.enterprise.com/en/home.html' successfully
+
+2023-09-21 17:54:39 - [MESSAGE][PASSED] - Navigate to 'https://www.enterprise.com/en/home.html' successfully
+
+2023-09-21 17:54:39 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Car Rental with Great Rates  Service  _b7cede/input_Required Field_location-search"), "jfk"): Text 'jfk' is set on object 'Object Repository/Page_Car Rental with Great Rates  Service  _b7cede/input_Required Field_location-search'
+
+2023-09-21 17:54:40 - [MESSAGE][PASSED] - Text 'jfk' is set on object 'Object Repository/Page_Car Rental with Great Rates  Service  _b7cede/input_Required Field_location-search'
+
+2023-09-21 17:54:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Car Rental with Great Rates  Service  _b7cede/small_Select")): Object: 'Object Repository/Page_Car Rental with Great Rates  Service  _b7cede/small_Select' is clicked on
+
+2023-09-21 17:54:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Car Rental with Great Rates  Service  _b7cede/small_Select' is clicked on
+
+2023-09-21 17:54:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Car Rental with Great Rates  Service  _b7cede/button_Browse Vehicles")): Object: 'Object Repository/Page_Car Rental with Great Rates  Service  _b7cede/button_Browse Vehicles' is clicked on
+
+2023-09-21 17:54:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Car Rental with Great Rates  Service  _b7cede/button_Browse Vehicles' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC_0021" time="17.615" classname="Test Cases/TC_0021" status="FAILED">
+         <failure type="FAILED" message="Test Cases/TC_0021 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Google Business Profile  Get Listed on Google/span_Manage now'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at TC_0021.run(TC_0021:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1695298524362.run(TempTestSuite1695298524362.groovy:36)
+Caused by: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.190)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'ZIL482', ip: '10.112.37.92', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.190, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\HIBA~1.NAA\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56291}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5f356388c3c9b92449e9b50a45a18e1e
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more
+"/>
+         <system-out><![CDATA[2023-09-21 17:56:41 - [TEST_CASE][FAILED] - Test Cases/TC_0021: Test Cases/TC_0021 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Google Business Profile  Get Listed on Google/span_Manage now'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at TC_0021.run(TC_0021:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1695298524362.run(TempTestSuite1695298524362.groovy:36)
+Caused by: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.190)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'ZIL482', ip: '10.112.37.92', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.190, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\HIBA~1.NAA\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56291}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5f356388c3c9b92449e9b50a45a18e1e
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more
+
+
+2023-09-21 17:56:41 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-21 17:56:41 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-09-21 17:56:42 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-21 17:56:42 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-21 17:56:43 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-21 17:56:43 - [TEST_STEP][PASSED] - navigateToUrl("https://www.google.com/?gws_rd=ssl"): Navigate to 'https://www.google.com/?gws_rd=ssl' successfully
+
+2023-09-21 17:56:48 - [MESSAGE][PASSED] - Navigate to 'https://www.google.com/?gws_rd=ssl' successfully
+
+2023-09-21 17:56:48 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Google/a_Business")): Object: 'Object Repository/Page_Google/a_Business' is clicked on
+
+2023-09-21 17:56:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Google/a_Business' is clicked on
+
+2023-09-21 17:56:54 - [TEST_STEP][FAILED] - click(findTestObject("Object Repository/Page_Google Business Profile  Get Listed on Google/span_Manage now")): Unable to click on object 'Object Repository/Page_Google Business Profile  Get Listed on Google/span_Manage now' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Google Business Profile  Get Listed on Google/span_Manage now'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at TC_0021.run(TC_0021:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1695298524362.run(TempTestSuite1695298524362.groovy:36)
+Caused by: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.190)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'ZIL482', ip: '10.112.37.92', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.190, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\HIBA~1.NAA\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56291}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5f356388c3c9b92449e9b50a45a18e1e
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Script1695028589056.run(Script1695028589056.groovy:26)
+	... 16 more
+)
+
+2023-09-21 17:56:59 - [MESSAGE][WARNING] - Cannot take screenshot
+
+2023-09-21 17:56:59 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/Page_Google Business Profile  Get Listed on Google/span_Manage now' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Google Business Profile  Get Listed on Google/span_Manage now'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at TC_0021.run(TC_0021:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1695298524362.run(TempTestSuite1695298524362.groovy:36)
+Caused by: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.190)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'ZIL482', ip: '10.112.37.92', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.190, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\HIBA~1.NAA\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56291}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5f356388c3c9b92449e9b50a45a18e1e
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Script1695028589056.run(Script1695028589056.groovy:26)
+	... 16 more
+)]]></system-out>
+         <system-err><![CDATA[2023-09-21 17:56:41 - [TEST_CASE][FAILED] - Test Cases/TC_0021: Test Cases/TC_0021 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Google Business Profile  Get Listed on Google/span_Manage now'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at TC_0021.run(TC_0021:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1695298524362.run(TempTestSuite1695298524362.groovy:36)
+Caused by: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.190)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'ZIL482', ip: '10.112.37.92', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.190, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\HIBA~1.NAA\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56291}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5f356388c3c9b92449e9b50a45a18e1e
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC_0020" time="11.044" classname="Test Cases/TC_0020" status="PASSED">
+         <system-out><![CDATA[2023-09-21 17:56:59 - [TEST_CASE][PASSED] - Test Cases/TC_0020: Test Cases/TC_0020
+
+2023-09-21 17:56:59 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-21 17:56:59 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-09-21 17:57:00 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-21 17:57:00 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-21 17:57:01 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-21 17:57:01 - [TEST_STEP][PASSED] - navigateToUrl("https://www.google.com/"): Navigate to 'https://www.google.com/' successfully
+
+2023-09-21 17:57:07 - [MESSAGE][PASSED] - Navigate to 'https://www.google.com/' successfully
+
+2023-09-21 17:57:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Google/a_")): Object: 'Object Repository/Page_Google/a_' is clicked on
+
+2023-09-21 17:57:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Google/a_' is clicked on
+
+2023-09-21 17:57:09 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-21 17:57:10 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC_002" time="41.219" classname="Test Cases/TC_002" status="PASSED">
+         <system-out><![CDATA[2023-09-21 17:57:10 - [TEST_CASE][PASSED] - Test Cases/TC_002: Test Cases/TC_002
+
+2023-09-21 17:57:10 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-21 17:57:10 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-21 17:57:10 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-21 17:57:11 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-21 17:57:11 - [TEST_STEP][PASSED] - navigateToUrl("https://www.google.com/?gws_rd=ssl"): Navigate to 'https://www.google.com/?gws_rd=ssl' successfully
+
+2023-09-21 17:57:17 - [MESSAGE][PASSED] - Navigate to 'https://www.google.com/?gws_rd=ssl' successfully
+
+2023-09-21 17:57:17 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Google/textarea__q"), "google weather"): Text 'google weather' is set on object 'Object Repository/Page_Google/textarea__q'
+
+2023-09-21 17:57:18 - [MESSAGE][PASSED] - Text 'google weather' is set on object 'Object Repository/Page_Google/textarea__q'
+
+2023-09-21 17:57:18 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Google/span_google weather")): Object: 'Object Repository/Page_Google/span_google weather' is clicked on
+
+2023-09-21 17:57:49 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='jZ2SBf']/div/div/span'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-09-21 17:57:49 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Google/span_google weather'. Try using Self-healing.
+
+2023-09-21 17:57:50 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Google/span_google weather' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::span[11]'.
+
+2023-09-21 17:57:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Google/span_google weather' is clicked on
+
+2023-09-21 17:57:50 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-21 17:57:51 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC_0019" time="21.956" classname="Test Cases/TC_0019" status="PASSED">
+         <system-out><![CDATA[2023-09-21 17:57:51 - [TEST_CASE][PASSED] - Test Cases/TC_0019: Test Cases/TC_0019
+
+2023-09-21 17:57:51 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-21 17:57:51 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-21 17:57:51 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-21 17:57:53 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-21 17:57:53 - [TEST_STEP][PASSED] - navigateToUrl("https://www.google.com/?gws_rd=ssl"): Navigate to 'https://www.google.com/?gws_rd=ssl' successfully
+
+2023-09-21 17:58:00 - [MESSAGE][PASSED] - Navigate to 'https://www.google.com/?gws_rd=ssl' successfully
+
+2023-09-21 17:58:00 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Google/textarea__q"), "news"): Text 'news' is set on object 'Object Repository/Page_Google/textarea__q'
+
+2023-09-21 17:58:01 - [MESSAGE][PASSED] - Text 'news' is set on object 'Object Repository/Page_Google/textarea__q'
+
+2023-09-21 17:58:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Google/span_news")): Object: 'Object Repository/Page_Google/span_news' is clicked on
+
+2023-09-21 17:58:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Google/span_news' is clicked on
+
+2023-09-21 17:58:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_news - Google Search/h3_Google News")): Object: 'Object Repository/Page_news - Google Search/h3_Google News' is clicked on
+
+2023-09-21 17:58:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_news - Google Search/h3_Google News' is clicked on
+
+2023-09-21 17:58:12 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-21 17:58:13 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC_0018" time="26.478" classname="Test Cases/TC_0018" status="PASSED">
+         <system-out><![CDATA[2023-09-21 17:58:13 - [TEST_CASE][PASSED] - Test Cases/TC_0018: Test Cases/TC_0018
+
+2023-09-21 17:58:13 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-21 17:58:13 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-21 17:58:13 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-21 17:58:15 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-21 17:58:15 - [TEST_STEP][PASSED] - navigateToUrl("https://www.google.com/?gws_rd=ssl"): Navigate to 'https://www.google.com/?gws_rd=ssl' successfully
+
+2023-09-21 17:58:20 - [MESSAGE][PASSED] - Navigate to 'https://www.google.com/?gws_rd=ssl' successfully
+
+2023-09-21 17:58:20 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Google/textarea__q"), "Tortoise"): Text 'Tortoise' is set on object 'Object Repository/Page_Google/textarea__q'
+
+2023-09-21 17:58:21 - [MESSAGE][PASSED] - Text 'Tortoise' is set on object 'Object Repository/Page_Google/textarea__q'
+
+2023-09-21 17:58:21 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Google/span_Tortoise")): Object: 'Object Repository/Page_Google/span_Tortoise' is clicked on
+
+2023-09-21 17:58:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Google/span_Tortoise' is clicked on
+
+2023-09-21 17:58:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_tortoise - Google Search/span_Images")): Object: 'Object Repository/Page_tortoise - Google Search/span_Images' is clicked on
+
+2023-09-21 17:58:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_tortoise - Google Search/span_Images' is clicked on
+
+2023-09-21 17:58:39 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-21 17:58:39 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC_0017" time="31.043" classname="Test Cases/TC_0017" status="FAILED">
+         <failure type="FAILED" message="Test Cases/TC_0017 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Uber/path'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at TC_0017.run(TC_0017:32)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1695298524362.run(TempTestSuite1695298524362.groovy:36)
+Caused by: org.openqa.selenium.WebDriverException: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=116.0.5845.190)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'ZIL482', ip: '10.112.37.92', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.190, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\HIBA~1.NAA\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57056}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8860636009fd58887cce846d4a7fdd9b
+*** Element info: {Using=xpath, value=}
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementsByXPath(RemoteWebDriver.java:432)
+	at org.openqa.selenium.By$ByXPath.findElements(By.java:348)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:311)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)
+	at com.sun.proxy.$Proxy10.findElements(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElements(EventFiringWebDriver.java:182)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementByNormalMethods(WebUiCommonHelper.java:1027)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:919)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:901)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:896)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsByDefault(WebUiCommonHelper.java:892)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsWithSelfHealing(WebUiCommonHelper.java:737)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElements(WebUiCommonHelper.java:718)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1376)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more
+"/>
+         <system-out><![CDATA[2023-09-21 18:01:37 - [TEST_CASE][FAILED] - Test Cases/TC_0017: Test Cases/TC_0017 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Uber/path'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at TC_0017.run(TC_0017:32)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1695298524362.run(TempTestSuite1695298524362.groovy:36)
+Caused by: org.openqa.selenium.WebDriverException: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=116.0.5845.190)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'ZIL482', ip: '10.112.37.92', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.190, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\HIBA~1.NAA\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57056}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8860636009fd58887cce846d4a7fdd9b
+*** Element info: {Using=xpath, value=}
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementsByXPath(RemoteWebDriver.java:432)
+	at org.openqa.selenium.By$ByXPath.findElements(By.java:348)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:311)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)
+	at com.sun.proxy.$Proxy10.findElements(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElements(EventFiringWebDriver.java:182)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementByNormalMethods(WebUiCommonHelper.java:1027)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:919)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:901)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:896)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsByDefault(WebUiCommonHelper.java:892)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsWithSelfHealing(WebUiCommonHelper.java:737)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElements(WebUiCommonHelper.java:718)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1376)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more
+
+
+2023-09-21 18:01:37 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-21 18:01:37 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-09-21 18:01:38 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-21 18:01:38 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-21 18:01:39 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-21 18:01:39 - [TEST_STEP][PASSED] - navigateToUrl("https://www.google.com/?gws_rd=ssl"): Navigate to 'https://www.google.com/?gws_rd=ssl' successfully
+
+2023-09-21 18:01:45 - [MESSAGE][PASSED] - Navigate to 'https://www.google.com/?gws_rd=ssl' successfully
+
+2023-09-21 18:01:45 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Google/textarea__q"), "Uber"): Text 'Uber' is set on object 'Object Repository/Page_Google/textarea__q'
+
+2023-09-21 18:01:45 - [MESSAGE][PASSED] - Text 'Uber' is set on object 'Object Repository/Page_Google/textarea__q'
+
+2023-09-21 18:01:45 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Google/span_Uber Technologies Inc")): Object: 'Object Repository/Page_Google/span_Uber Technologies Inc' is clicked on
+
+2023-09-21 18:01:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Google/span_Uber Technologies Inc' is clicked on
+
+2023-09-21 18:01:47 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_uber - Google Search/h3_Uber")): Object: 'Object Repository/Page_uber - Google Search/h3_Uber' is clicked on
+
+2023-09-21 18:02:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_uber - Google Search/h3_Uber' is clicked on
+
+2023-09-21 18:02:02 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Uber/button_Log in with QR code")): Object: 'Object Repository/Page_Uber/button_Log in with QR code' is clicked on
+
+2023-09-21 18:02:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Uber/button_Log in with QR code' is clicked on
+
+2023-09-21 18:02:02 - [TEST_STEP][FAILED] - click(findTestObject("Object Repository/Page_Uber/path")): Unable to click on object 'Object Repository/Page_Uber/path' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Uber/path'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at TC_0017.run(TC_0017:32)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1695298524362.run(TempTestSuite1695298524362.groovy:36)
+Caused by: org.openqa.selenium.WebDriverException: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=116.0.5845.190)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'ZIL482', ip: '10.112.37.92', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.190, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\HIBA~1.NAA\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57056}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8860636009fd58887cce846d4a7fdd9b
+*** Element info: {Using=xpath, value=}
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementsByXPath(RemoteWebDriver.java:432)
+	at org.openqa.selenium.By$ByXPath.findElements(By.java:348)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:311)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)
+	at com.sun.proxy.$Proxy10.findElements(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElements(EventFiringWebDriver.java:182)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementByNormalMethods(WebUiCommonHelper.java:1027)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:919)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:901)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:896)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsByDefault(WebUiCommonHelper.java:892)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsWithSelfHealing(WebUiCommonHelper.java:737)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElements(WebUiCommonHelper.java:718)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1376)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Script1695028567540.run(Script1695028567540.groovy:32)
+	... 16 more
+)
+
+2023-09-21 18:02:07 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Uber/path'. Try using Self-healing.
+
+2023-09-21 18:02:08 - [MESSAGE][INFO] - [SELF-HEALING] No working XPath is found.
+
+2023-09-21 18:02:08 - [MESSAGE][WARNING] - [SELF-HEALING] disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=116.0.5845.190)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'ZIL482', ip: '10.112.37.92', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.190, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\HIBA~1.NAA\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57056}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8860636009fd58887cce846d4a7fdd9b
+*** Element info: {Using=xpath, value=id("bottom-modal-content")/div[@class="ae aq aw"]/div[@class="ae af aq aw au fr fs"]/div[@class="ae ak fs"]/button[@class="ci b9 bw ck ae bv ak bh cl bu cm cn by co cp cq bm dd de"]/div[@class="ae ct ak au"]/div[@class="ae ak"]/svg[@class="fy fz g0 g1 g2"]/path[1]}
+
+2023-09-21 18:02:08 - [MESSAGE][WARNING] - [SELF-HEALING] disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=116.0.5845.190)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'ZIL482', ip: '10.112.37.92', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.190, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\HIBA~1.NAA\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57056}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8860636009fd58887cce846d4a7fdd9b
+*** Element info: {Using=css selector, value=svg.fy.fz.g0.g1.g2 > path}
+
+2023-09-21 18:02:08 - [MESSAGE][WARNING] - Cannot take screenshot
+
+2023-09-21 18:02:08 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/Page_Uber/path' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Uber/path'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at TC_0017.run(TC_0017:32)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1695298524362.run(TempTestSuite1695298524362.groovy:36)
+Caused by: org.openqa.selenium.WebDriverException: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=116.0.5845.190)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'ZIL482', ip: '10.112.37.92', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.190, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\HIBA~1.NAA\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57056}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8860636009fd58887cce846d4a7fdd9b
+*** Element info: {Using=xpath, value=}
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementsByXPath(RemoteWebDriver.java:432)
+	at org.openqa.selenium.By$ByXPath.findElements(By.java:348)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:311)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)
+	at com.sun.proxy.$Proxy10.findElements(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElements(EventFiringWebDriver.java:182)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementByNormalMethods(WebUiCommonHelper.java:1027)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:919)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:901)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:896)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsByDefault(WebUiCommonHelper.java:892)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsWithSelfHealing(WebUiCommonHelper.java:737)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElements(WebUiCommonHelper.java:718)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1376)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Script1695028567540.run(Script1695028567540.groovy:32)
+	... 16 more
+)]]></system-out>
+         <system-err><![CDATA[2023-09-21 18:01:37 - [TEST_CASE][FAILED] - Test Cases/TC_0017: Test Cases/TC_0017 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Uber/path'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at TC_0017.run(TC_0017:32)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1695298524362.run(TempTestSuite1695298524362.groovy:36)
+Caused by: org.openqa.selenium.WebDriverException: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=116.0.5845.190)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'ZIL482', ip: '10.112.37.92', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.190, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\HIBA~1.NAA\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57056}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8860636009fd58887cce846d4a7fdd9b
+*** Element info: {Using=xpath, value=}
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementsByXPath(RemoteWebDriver.java:432)
+	at org.openqa.selenium.By$ByXPath.findElements(By.java:348)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:311)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)
+	at com.sun.proxy.$Proxy10.findElements(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElements(EventFiringWebDriver.java:182)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementByNormalMethods(WebUiCommonHelper.java:1027)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:919)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:901)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsBySelectedMethod(WebUiCommonHelper.java:896)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsByDefault(WebUiCommonHelper.java:892)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findElementsWithSelfHealing(WebUiCommonHelper.java:737)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElements(WebUiCommonHelper.java:718)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1376)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC_0016" time="31.544" classname="Test Cases/TC_0016" status="PASSED">
+         <system-out><![CDATA[2023-09-21 18:02:13 - [TEST_CASE][PASSED] - Test Cases/TC_0016: Test Cases/TC_0016
+
+2023-09-21 18:02:13 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-21 18:02:13 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-09-21 18:02:14 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-21 18:02:14 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-21 18:02:15 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-21 18:02:15 - [TEST_STEP][PASSED] - navigateToUrl("https://www.google.com/?gws_rd=ssl"): Navigate to 'https://www.google.com/?gws_rd=ssl' successfully
+
+2023-09-21 18:02:21 - [MESSAGE][PASSED] - Navigate to 'https://www.google.com/?gws_rd=ssl' successfully
+
+2023-09-21 18:02:21 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Google/textarea__q"), "apple"): Text 'apple' is set on object 'Object Repository/Page_Google/textarea__q'
+
+2023-09-21 18:02:22 - [MESSAGE][PASSED] - Text 'apple' is set on object 'Object Repository/Page_Google/textarea__q'
+
+2023-09-21 18:02:22 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Google/span_Apple")): Object: 'Object Repository/Page_Google/span_Apple' is clicked on
+
+2023-09-21 18:02:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Google/span_Apple' is clicked on
+
+2023-09-21 18:02:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_apple - Google Search/span_Apple - Official Site")): Object: 'Object Repository/Page_apple - Google Search/span_Apple - Official Site' is clicked on
+
+2023-09-21 18:02:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_apple - Google Search/span_Apple - Official Site' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC_0015" time="16.542" classname="Test Cases/TC_0015" status="PASSED">
+         <system-out><![CDATA[2023-09-21 18:02:45 - [TEST_CASE][PASSED] - Test Cases/TC_0015: Test Cases/TC_0015
+
+2023-09-21 18:02:45 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-21 18:02:45 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-09-21 18:02:46 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-21 18:02:46 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-21 18:02:47 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-21 18:02:47 - [TEST_STEP][PASSED] - navigateToUrl("https://www.google.com/?gws_rd=ssl"): Navigate to 'https://www.google.com/?gws_rd=ssl' successfully
+
+2023-09-21 18:02:55 - [MESSAGE][PASSED] - Navigate to 'https://www.google.com/?gws_rd=ssl' successfully
+
+2023-09-21 18:02:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Google/input__btnI")): Object: 'Object Repository/Page_Google/input__btnI' is clicked on
+
+2023-09-21 18:03:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Google/input__btnI' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC_0014" time="31.77" classname="Test Cases/TC_0014" status="PASSED">
+         <system-out><![CDATA[2023-09-21 18:03:01 - [TEST_CASE][PASSED] - Test Cases/TC_0014: Test Cases/TC_0014
+
+2023-09-21 18:03:02 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-21 18:03:02 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-09-21 18:03:03 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-21 18:03:03 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-21 18:03:04 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-21 18:03:04 - [TEST_STEP][PASSED] - navigateToUrl("https://www.google.com/?gws_rd=ssl"): Navigate to 'https://www.google.com/?gws_rd=ssl' successfully
+
+2023-09-21 18:03:11 - [MESSAGE][PASSED] - Navigate to 'https://www.google.com/?gws_rd=ssl' successfully
+
+2023-09-21 18:03:11 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Google/textarea__q"), "swiggy"): Text 'swiggy' is set on object 'Object Repository/Page_Google/textarea__q'
+
+2023-09-21 18:03:12 - [MESSAGE][PASSED] - Text 'swiggy' is set on object 'Object Repository/Page_Google/textarea__q'
+
+2023-09-21 18:03:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Google/span_Swiggy")): Object: 'Object Repository/Page_Google/span_Swiggy' is clicked on
+
+2023-09-21 18:03:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Google/span_Swiggy' is clicked on
+
+2023-09-21 18:03:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_swiggy - Google Search/a_Restaurants Near Me")): Object: 'Object Repository/Page_swiggy - Google Search/a_Restaurants Near Me' is clicked on
+
+2023-09-21 18:03:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_swiggy - Google Search/a_Restaurants Near Me' is clicked on
+
+2023-09-21 18:03:27 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Restaurants Near Me  Swiggy/img_concat(What, , s on your mind)_sc-eDLJxc WUBye")): Object: 'Object Repository/Page_Restaurants Near Me  Swiggy/img_concat(What, , s on your mind)_sc-eDLJxc WUBye' is clicked on
+
+2023-09-21 18:03:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Restaurants Near Me  Swiggy/img_concat(What, , s on your mind)_sc-eDLJxc WUBye' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC_0013" time="20.752" classname="Test Cases/TC_0013" status="PASSED">
+         <system-out><![CDATA[2023-09-21 18:03:33 - [TEST_CASE][PASSED] - Test Cases/TC_0013: Test Cases/TC_0013
+
+2023-09-21 18:03:34 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-21 18:03:34 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-09-21 18:03:34 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-21 18:03:34 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-21 18:03:36 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-21 18:03:36 - [TEST_STEP][PASSED] - navigateToUrl("https://www.google.com/?gws_rd=ssl"): Navigate to 'https://www.google.com/?gws_rd=ssl' successfully
+
+2023-09-21 18:03:41 - [MESSAGE][PASSED] - Navigate to 'https://www.google.com/?gws_rd=ssl' successfully
+
+2023-09-21 18:03:41 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Google/textarea__q"), "Youtube"): Text 'Youtube' is set on object 'Object Repository/Page_Google/textarea__q'
+
+2023-09-21 18:03:42 - [MESSAGE][PASSED] - Text 'Youtube' is set on object 'Object Repository/Page_Google/textarea__q'
+
+2023-09-21 18:03:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Google/span_YouTube")): Object: 'Object Repository/Page_Google/span_YouTube' is clicked on
+
+2023-09-21 18:03:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Google/span_YouTube' is clicked on
+
+2023-09-21 18:03:43 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_youtube - Google Search/h3_YouTube Home")): Object: 'Object Repository/Page_youtube - Google Search/h3_YouTube Home' is clicked on
+
+2023-09-21 18:03:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_youtube - Google Search/h3_YouTube Home' is clicked on
+
+2023-09-21 18:03:53 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-21 18:03:54 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC_0012" time="13.496" classname="Test Cases/TC_0012" status="PASSED">
+         <system-out><![CDATA[2023-09-21 18:03:54 - [TEST_CASE][PASSED] - Test Cases/TC_0012: Test Cases/TC_0012
+
+2023-09-21 18:03:54 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-21 18:03:54 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-21 18:03:54 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-21 18:03:56 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-21 18:03:56 - [TEST_STEP][PASSED] - navigateToUrl("https://www.google.com/?gws_rd=ssl"): Navigate to 'https://www.google.com/?gws_rd=ssl' successfully
+
+2023-09-21 18:04:02 - [MESSAGE][PASSED] - Navigate to 'https://www.google.com/?gws_rd=ssl' successfully
+
+2023-09-21 18:04:02 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Google/a_Images")): Object: 'Object Repository/Page_Google/a_Images' is clicked on
+
+2023-09-21 18:04:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Google/a_Images' is clicked on
+
+2023-09-21 18:04:05 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Google Images/textarea__q"), "cats"): Text 'cats' is set on object 'Object Repository/Page_Google Images/textarea__q'
+
+2023-09-21 18:04:06 - [MESSAGE][PASSED] - Text 'cats' is set on object 'Object Repository/Page_Google Images/textarea__q'
+
+2023-09-21 18:04:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Google Images/span_cats")): Object: 'Object Repository/Page_Google Images/span_cats' is clicked on
+
+2023-09-21 18:04:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Google Images/span_cats' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC_0011" time="18.505" classname="Test Cases/TC_0011" status="PASSED">
+         <system-out><![CDATA[2023-09-21 18:04:08 - [TEST_CASE][PASSED] - Test Cases/TC_0011: Test Cases/TC_0011
+
+2023-09-21 18:04:08 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-21 18:04:08 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-09-21 18:04:09 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-21 18:04:09 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-21 18:04:10 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-21 18:04:10 - [TEST_STEP][PASSED] - navigateToUrl("https://www.google.com/?gws_rd=ssl"): Navigate to 'https://www.google.com/?gws_rd=ssl' successfully
+
+2023-09-21 18:04:16 - [MESSAGE][PASSED] - Navigate to 'https://www.google.com/?gws_rd=ssl' successfully
+
+2023-09-21 18:04:16 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Google/textarea__q"), "yahoo"): Text 'yahoo' is set on object 'Object Repository/Page_Google/textarea__q'
+
+2023-09-21 18:04:17 - [MESSAGE][PASSED] - Text 'yahoo' is set on object 'Object Repository/Page_Google/textarea__q'
+
+2023-09-21 18:04:17 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Google/span_Yahoo")): Object: 'Object Repository/Page_Google/span_Yahoo' is clicked on
+
+2023-09-21 18:04:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Google/span_Yahoo' is clicked on
+
+2023-09-21 18:04:18 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_yahoo - Google Search/h3_Yahoo India")): Object: 'Object Repository/Page_yahoo - Google Search/h3_Yahoo India' is clicked on
+
+2023-09-21 18:04:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_yahoo - Google Search/h3_Yahoo India' is clicked on
+
+2023-09-21 18:04:25 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-21 18:04:26 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-09-21 17:45:27 - [TEST_SUITE][FAILED] - TestSuite_002: Test Cases/TC_003 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Sign Up to Drive  Uber/a_Sign up now'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at TC_003.run(TC_003:30)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1695298524362.run(TempTestSuite1695298524362.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Sign Up to Drive  Uber/a_Sign up now' located by '//main[@id='main']/div/section/div/div[2]/div/div/div/div/div[3]/div/div/a' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-out>
+      <system-err><![CDATA[2023-09-21 17:45:27 - [TEST_SUITE][FAILED] - TestSuite_002: Test Cases/TC_003 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Sign Up to Drive  Uber/a_Sign up now'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at TC_003.run(TC_003:30)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1695298524362.run(TempTestSuite1695298524362.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Sign Up to Drive  Uber/a_Sign up now' located by '//main[@id='main']/div/section/div/div[2]/div/div/div/div/div[3]/div/div/a' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Toggle Mobile Menu</name>
+   <tag></tag>
+   <elementGuidId>16908dc5-a9a2-49f4-b6f3-64920a136e45</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.nav__mobile-btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='mega-nav']/div[2]/div/div[4]/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>daae3391-7195-44d7-aea1-b71fdd6f1ea1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>77a6384d-3453-4f35-9c4c-af2b3dab8a42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav__mobile-btn</value>
+      <webElementGuid>cad321aa-cb51-4c46-8e5a-693d990ce653</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Open</value>
+      <webElementGuid>b622eaa1-e270-4b79-8a09-b95a7a36a563</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+          Toggle Mobile Menu
+        </value>
+      <webElementGuid>bec7b811-db2b-4d7a-bed7-b47f2c9c2c49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mega-nav&quot;)/div[@class=&quot;nav__fluid--container&quot;]/div[@class=&quot;nav__base&quot;]/div[@class=&quot;nav__contact-box&quot;]/a[@class=&quot;nav__mobile-btn&quot;]</value>
+      <webElementGuid>4a14751c-4e74-4c93-8952-262105d608ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='mega-nav']/div[2]/div/div[4]/a[2]</value>
+      <webElementGuid>cc5bc79c-f428-4648-8f41-ff81580a900a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/following::a[1]</value>
+      <webElementGuid>94cdaedb-33fe-4e96-b50d-bd3785ea26bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Solutions'])[2]/preceding::a[1]</value>
+      <webElementGuid>043f3598-5b5c-4866-a39e-b63ee102eb5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[18]</value>
+      <webElementGuid>c5c6579e-8bc2-439c-9a51-40c304c033c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>1047ffb3-bd58-4db3-a250-29f5edc70688</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = '
+          Toggle Mobile Menu
+        ' or . = '
+          Toggle Mobile Menu
+        ')]</value>
+      <webElementGuid>64b885f7-a82d-4f2c-8ca5-8bc09a0caf6c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

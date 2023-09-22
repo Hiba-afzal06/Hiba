@@ -1,0 +1,211 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TestSuite_002,Chrome 116.0.0.0,,,2023-09-21 17:45:27,2023-09-21 18:04:26,18m - 59.290s,FAILED
+,,,,,,,
+Test Cases/TC_001,Chrome 116.0.0.0,,,2023-09-21 17:45:27,2023-09-21 17:45:36,9.016s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-21 17:45:27,2023-09-21 17:45:30,2.376s,PASSED
+"navigateToUrl(""https://www.firefox.com/"")",Chrome 116.0.0.0,,,2023-09-21 17:45:30,2023-09-21 17:45:35,5.549s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-21 17:45:35,2023-09-21 17:45:36,0.712s,PASSED
+,,,,,,,
+Test Cases/TC_0010,Chrome 116.0.0.0,,,2023-09-21 17:45:36,2023-09-21 17:45:45,9.134s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-21 17:45:36,2023-09-21 17:45:38,1.326s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 116.0.0.0,,,2023-09-21 17:45:38,2023-09-21 17:45:43,4.973s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/a_""))",Chrome 116.0.0.0,,,2023-09-21 17:45:43,2023-09-21 17:45:44,1.739s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-21 17:45:44,2023-09-21 17:45:45,0.695s,PASSED
+,,,,,,,
+Test Cases/TC_009,Chrome 116.0.0.0,,,2023-09-21 17:45:45,2023-09-21 17:46:08,22.878s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-21 17:45:46,2023-09-21 17:45:47,1.323s,PASSED
+"navigateToUrl(""https://www.yahoo.com/"")",Chrome 116.0.0.0,,,2023-09-21 17:45:47,2023-09-21 17:45:59,11.833s,PASSED
+"click(findTestObject(""Object Repository/Page_Yahoo  Mail, Weather, Search, Politics_802e32/a_News""))",Chrome 116.0.0.0,,,2023-09-21 17:45:59,2023-09-21 17:46:07,8.588s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-21 17:46:07,2023-09-21 17:46:08,0.799s,PASSED
+,,,,,,,
+Test Cases/TC_008,Chrome 116.0.0.0,,,2023-09-21 17:46:08,2023-09-21 17:46:18,9.973s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-21 17:46:08,2023-09-21 17:46:10,1.305s,PASSED
+"navigateToUrl(""https://www.zomato.com/"")",Chrome 116.0.0.0,,,2023-09-21 17:46:10,2023-09-21 17:46:17,7.637s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-21 17:46:17,2023-09-21 17:46:18,0.706s,PASSED
+,,,,,,,
+Test Cases/TC_007,Chrome 116.0.0.0,,,2023-09-21 17:46:18,2023-09-21 17:46:27,9.385s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-21 17:46:18,2023-09-21 17:46:20,1.310s,PASSED
+"navigateToUrl(""https://www.swiggy.com/"")",Chrome 116.0.0.0,,,2023-09-21 17:46:20,2023-09-21 17:46:26,6.565s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Order food online from Indias best foo_aa25ef/a_Login""), ""Login"")",Chrome 116.0.0.0,,,2023-09-21 17:46:26,2023-09-21 17:46:27,0.505s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-21 17:46:27,2023-09-21 17:46:27,0.681s,PASSED
+,,,,,,,
+Test Cases/TC_006,Chrome 116.0.0.0,,,2023-09-21 17:46:27,2023-09-21 17:46:41,13.080s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-21 17:46:28,2023-09-21 17:46:29,1.307s,PASSED
+"navigateToUrl(""https://www.google.com/?gws_rd=ssl"")",Chrome 116.0.0.0,,,2023-09-21 17:46:29,2023-09-21 17:46:34,5.144s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/a_Sign in""))",Chrome 116.0.0.0,,,2023-09-21 17:46:34,2023-09-21 17:46:39,4.823s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Sign in - Google Accounts/button_Forgot email""), ""Forgot email?"")",Chrome 116.0.0.0,,,2023-09-21 17:46:39,2023-09-21 17:46:40,0.773s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-21 17:46:40,2023-09-21 17:46:41,0.707s,PASSED
+,,,,,,,
+Test Cases/TC_005,Chrome 116.0.0.0,,,2023-09-21 17:46:41,2023-09-21 17:46:50,9.602s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-21 17:46:41,2023-09-21 17:46:42,1.311s,PASSED
+"navigateToUrl(""https://www.mailinator.com/"")",Chrome 116.0.0.0,,,2023-09-21 17:46:42,2023-09-21 17:46:48,6.037s,PASSED
+"click(findTestObject(""Object Repository/Page_Home - Mailinator/span_Why Mailinator""))",Chrome 116.0.0.0,,,2023-09-21 17:46:48,2023-09-21 17:46:49,1.179s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-21 17:46:49,2023-09-21 17:46:50,0.737s,PASSED
+,,,,,,,
+Test Cases/TC_004,Chrome 116.0.0.0,,,2023-09-21 17:46:50,2023-09-21 17:46:59,9.193s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-21 17:46:51,2023-09-21 17:46:52,1.337s,PASSED
+"navigateToUrl(""https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AYZoVhe63sLu-1TQ0EH5PytlE2GcZOB7TuYqfhYcfxG1KBFhaYtWfhCrBNzSKqfi9jKbo4trIySD&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-2012939348%3A1695296575228269&theme=glif"")",Chrome 116.0.0.0,,,2023-09-21 17:46:52,2023-09-21 17:46:57,5.128s,PASSED
+"verifyElementClickable(findTestObject(""Object Repository/Page_Gmail/button_Forgot email""))",Chrome 116.0.0.0,,,2023-09-21 17:46:57,2023-09-21 17:46:59,1.636s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-21 17:46:59,2023-09-21 17:46:59,0.718s,PASSED
+,,,,,,,
+Test Cases/TC_0030,Chrome 116.0.0.0,,,2023-09-21 17:46:59,2023-09-21 17:47:07,7.833s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-21 17:47:00,2023-09-21 17:47:01,1.396s,PASSED
+"navigateToUrl(""https://www.mozilla.org/en-US/firefox/new/?redirect_source=firefox-com"")",Chrome 116.0.0.0,,,2023-09-21 17:47:01,2023-09-21 17:47:06,4.645s,PASSED
+"click(findTestObject(""Object Repository/Page_Get Firefox for desktop  Mozilla (US)/a_Firefox Browsers""))",Chrome 116.0.0.0,,,2023-09-21 17:47:06,2023-09-21 17:47:06,0.415s,PASSED
+"click(findTestObject(""Object Repository/Page_Get Firefox for desktop  Mozilla (US)/h4_Firefox Blog""))",Chrome 116.0.0.0,,,2023-09-21 17:47:06,2023-09-21 17:47:07,0.377s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-21 17:47:07,2023-09-21 17:47:07,0.668s,PASSED
+,,,,,,,
+Test Cases/TC_003,Chrome 116.0.0.0,,,2023-09-21 17:51:34,2023-09-21 17:52:52,1m - 17.427s,FAILED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-21 17:51:34,2023-09-21 17:51:37,2.157s,PASSED
+maximizeWindow(),Chrome 116.0.0.0,,,2023-09-21 17:51:37,2023-09-21 17:51:37,0.126s,PASSED
+"navigateToUrl(""https://www.uber.com/in/en/"")",Chrome 116.0.0.0,,,2023-09-21 17:51:37,2023-09-21 17:51:42,5.720s,PASSED
+"click(findTestObject(""Object Repository/Page_Earn Money by Driving or Get a Ride No_86ddf9/img_Drive or deliver_css-iTMoEO""))",Chrome 116.0.0.0,,,2023-09-21 17:51:42,2023-09-21 17:51:43,0.660s,PASSED
+"click(findTestObject(""Object Repository/Page_Earn Money by Driving or Get a Ride No_86ddf9/a_Get started""))",Chrome 116.0.0.0,,,2023-09-21 17:51:43,2023-09-21 17:51:47,3.608s,PASSED
+"click(findTestObject(""Object Repository/Page_Rent Out Your Car Through Uber and Ear_fd3df7/a_Sign up""))",Chrome 116.0.0.0,,,2023-09-21 17:51:47,2023-09-21 17:52:27,40.313s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign Up to Drive  Uber/a_Sign up now""))",Chrome 116.0.0.0,,,2023-09-21 17:52:27,2023-09-21 17:52:52,24.834s,FAILED
+,,,,,,,
+Test Cases/TC_0029,Chrome 116.0.0.0,,,2023-09-21 17:52:52,2023-09-21 17:53:09,17.157s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-21 17:52:52,2023-09-21 17:52:54,2.125s,PASSED
+"navigateToUrl(""https://www.google.com/?gws_rd=ssl"")",Chrome 116.0.0.0,,,2023-09-21 17:52:54,2023-09-21 17:52:59,5.214s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/a_""))",Chrome 116.0.0.0,,,2023-09-21 17:52:59,2023-09-21 17:53:02,2.346s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/input__btnI""))",Chrome 116.0.0.0,,,2023-09-21 17:53:02,2023-09-21 17:53:08,6.417s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-21 17:53:08,2023-09-21 17:53:09,0.721s,PASSED
+,,,,,,,
+Test Cases/TC_0028,Chrome 116.0.0.0,,,2023-09-21 17:53:09,2023-09-21 17:53:29,20.526s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-21 17:53:09,2023-09-21 17:53:11,1.338s,PASSED
+"navigateToUrl(""https://www.google.com/?gws_rd=ssl"")",Chrome 116.0.0.0,,,2023-09-21 17:53:11,2023-09-21 17:53:16,5.104s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/a_Images_gb_d""))",Chrome 116.0.0.0,,,2023-09-21 17:53:16,2023-09-21 17:53:16,0.406s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/div_Search_CgwTDb""))",Chrome 116.0.0.0,,,2023-09-21 17:53:16,2023-09-21 17:53:29,12.627s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-21 17:53:29,2023-09-21 17:53:29,0.728s,PASSED
+,,,,,,,
+Test Cases/TC_0027,Chrome 116.0.0.0,,,2023-09-21 17:53:29,2023-09-21 17:53:38,8.334s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-21 17:53:30,2023-09-21 17:53:31,1.313s,PASSED
+maximizeWindow(),Chrome 116.0.0.0,,,2023-09-21 17:53:31,2023-09-21 17:53:31,0.138s,PASSED
+"navigateToUrl(""https://www.google.com/?gws_rd=ssl"")",Chrome 116.0.0.0,,,2023-09-21 17:53:31,2023-09-21 17:53:37,5.905s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-21 17:53:37,2023-09-21 17:53:38,0.662s,PASSED
+,,,,,,,
+Test Cases/TC_0026,Chrome 116.0.0.0,,,2023-09-21 17:53:38,2023-09-21 17:53:45,6.945s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-21 17:53:38,2023-09-21 17:53:39,1.311s,PASSED
+maximizeWindow(),Chrome 116.0.0.0,,,2023-09-21 17:53:39,2023-09-21 17:53:40,0.143s,PASSED
+"navigateToUrl(""https://relianceretail.com/"")",Chrome 116.0.0.0,,,2023-09-21 17:53:40,2023-09-21 17:53:42,2.634s,PASSED
+"click(findTestObject(""Object Repository/Page_Reliance Retail/a_Our Brands""))",Chrome 116.0.0.0,,,2023-09-21 17:53:42,2023-09-21 17:53:43,0.523s,PASSED
+"click(findTestObject(""Object Repository/Page_Reliance Retail/a_JioMart""))",Chrome 116.0.0.0,,,2023-09-21 17:53:43,2023-09-21 17:53:44,0.791s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Reliance Retail/img_Netmeds_img-responsive""), """")",Chrome 116.0.0.0,,,2023-09-21 17:53:44,2023-09-21 17:53:44,0.464s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-21 17:53:44,2023-09-21 17:53:45,0.741s,PASSED
+,,,,,,,
+Test Cases/TC_0025,Chrome 116.0.0.0,,,2023-09-21 17:53:45,2023-09-21 17:53:52,7.136s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-21 17:53:45,2023-09-21 17:53:46,1.322s,PASSED
+maximizeWindow(),Chrome 116.0.0.0,,,2023-09-21 17:53:46,2023-09-21 17:53:47,0.127s,PASSED
+"navigateToUrl(""https://relianceretail.com/"")",Chrome 116.0.0.0,,,2023-09-21 17:53:47,2023-09-21 17:53:49,2.718s,PASSED
+"click(findTestObject(""Object Repository/Page_Reliance Retail/a_About Us""))",Chrome 116.0.0.0,,,2023-09-21 17:53:49,2023-09-21 17:53:50,0.530s,PASSED
+"click(findTestObject(""Object Repository/Page_Reliance Retail/a_Key Facts""))",Chrome 116.0.0.0,,,2023-09-21 17:53:50,2023-09-21 17:53:51,0.740s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Reliance Retail/h2_Key Facts""), ""KEY FACTS"")",Chrome 116.0.0.0,,,2023-09-21 17:53:51,2023-09-21 17:53:51,0.484s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-21 17:53:51,2023-09-21 17:53:52,0.872s,PASSED
+,,,,,,,
+Test Cases/TC_0024,Chrome 116.0.0.0,,,2023-09-21 17:53:52,2023-09-21 17:54:05,13.368s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-21 17:53:52,2023-09-21 17:53:54,1.308s,PASSED
+maximizeWindow(),Chrome 116.0.0.0,,,2023-09-21 17:53:54,2023-09-21 17:53:54,0.126s,PASSED
+"navigateToUrl(""https://academy.katalon.com/"")",Chrome 116.0.0.0,,,2023-09-21 17:53:54,2023-09-21 17:54:04,10.444s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_Katalon Academy - Automation Testing C_4c4a56/button_Choose a course""), 0)",Chrome 116.0.0.0,,,2023-09-21 17:54:04,2023-09-21 17:54:05,0.438s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-21 17:54:05,2023-09-21 17:54:05,0.717s,PASSED
+,,,,,,,
+Test Cases/TC_0023,Chrome 116.0.0.0,,,2023-09-21 17:54:05,2023-09-21 17:54:29,23.228s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-21 17:54:06,2023-09-21 17:54:07,1.328s,PASSED
+"navigateToUrl(""https://www.enterprise.com/en/home.html"")",Chrome 116.0.0.0,,,2023-09-21 17:54:07,2023-09-21 17:54:18,11.229s,PASSED
+"click(findTestObject(""Object Repository/Page_Car Rental with Great Rates  Service  _b7cede/a_Current Deals_cmp-teaser__action-link--overlay""))",Chrome 116.0.0.0,,,2023-09-21 17:54:18,2023-09-21 17:54:20,2.293s,PASSED
+"click(findTestObject(""Object Repository/Page_Deals  Promotions  Enterprise Rent-A-Car/a_Book Now""))",Chrome 116.0.0.0,,,2023-09-21 17:54:20,2023-09-21 17:54:28,7.312s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-21 17:54:28,2023-09-21 17:54:29,0.759s,PASSED
+,,,,,,,
+Test Cases/TC_0022,Chrome 116.0.0.0,,,2023-09-21 17:54:29,2023-09-21 17:54:44,15.846s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-21 17:54:29,2023-09-21 17:54:30,1.290s,PASSED
+"navigateToUrl(""https://www.enterprise.com/en/home.html"")",Chrome 116.0.0.0,,,2023-09-21 17:54:30,2023-09-21 17:54:39,9.308s,PASSED
+"setText(findTestObject(""Object Repository/Page_Car Rental with Great Rates  Service  _b7cede/input_Required Field_location-search""), ""jfk"")",Chrome 116.0.0.0,,,2023-09-21 17:54:39,2023-09-21 17:54:40,0.820s,PASSED
+"click(findTestObject(""Object Repository/Page_Car Rental with Great Rates  Service  _b7cede/small_Select""))",Chrome 116.0.0.0,,,2023-09-21 17:54:40,2023-09-21 17:54:42,1.924s,PASSED
+"click(findTestObject(""Object Repository/Page_Car Rental with Great Rates  Service  _b7cede/button_Browse Vehicles""))",Chrome 116.0.0.0,,,2023-09-21 17:54:42,2023-09-21 17:54:44,2.188s,PASSED
+,,,,,,,
+Test Cases/TC_0021,Chrome 116.0.0.0,,,2023-09-21 17:56:41,2023-09-21 17:56:59,17.615s,FAILED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-21 17:56:41,2023-09-21 17:56:43,2.157s,PASSED
+"navigateToUrl(""https://www.google.com/?gws_rd=ssl"")",Chrome 116.0.0.0,,,2023-09-21 17:56:43,2023-09-21 17:56:48,5.107s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/a_Business""))",Chrome 116.0.0.0,,,2023-09-21 17:56:48,2023-09-21 17:56:54,5.803s,PASSED
+"click(findTestObject(""Object Repository/Page_Google Business Profile  Get Listed on Google/span_Manage now""))",Chrome 116.0.0.0,,,2023-09-21 17:56:54,2023-09-21 17:56:59,4.543s,FAILED
+,,,,,,,
+Test Cases/TC_0020,Chrome 116.0.0.0,,,2023-09-21 17:56:59,2023-09-21 17:57:10,11.044s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-21 17:56:59,2023-09-21 17:57:01,2.014s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 116.0.0.0,,,2023-09-21 17:57:01,2023-09-21 17:57:07,5.635s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/a_""))",Chrome 116.0.0.0,,,2023-09-21 17:57:07,2023-09-21 17:57:09,2.378s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-21 17:57:09,2023-09-21 17:57:10,0.701s,PASSED
+,,,,,,,
+Test Cases/TC_002,Chrome 116.0.0.0,,,2023-09-21 17:57:10,2023-09-21 17:57:51,41.219s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-21 17:57:10,2023-09-21 17:57:11,1.317s,PASSED
+"navigateToUrl(""https://www.google.com/?gws_rd=ssl"")",Chrome 116.0.0.0,,,2023-09-21 17:57:11,2023-09-21 17:57:17,5.893s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/textarea__q""), ""google weather"")",Chrome 116.0.0.0,,,2023-09-21 17:57:17,2023-09-21 17:57:18,0.840s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/span_google weather""))",Chrome 116.0.0.0,,,2023-09-21 17:57:18,2023-09-21 17:57:50,32.109s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-21 17:57:50,2023-09-21 17:57:51,0.714s,PASSED
+,,,,,,,
+Test Cases/TC_0019,Chrome 116.0.0.0,,,2023-09-21 17:57:51,2023-09-21 17:58:13,21.956s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-21 17:57:51,2023-09-21 17:57:53,1.318s,PASSED
+"navigateToUrl(""https://www.google.com/?gws_rd=ssl"")",Chrome 116.0.0.0,,,2023-09-21 17:57:53,2023-09-21 17:58:00,7.475s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/textarea__q""), ""news"")",Chrome 116.0.0.0,,,2023-09-21 17:58:00,2023-09-21 17:58:01,0.658s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/span_news""))",Chrome 116.0.0.0,,,2023-09-21 17:58:01,2023-09-21 17:58:07,6.702s,PASSED
+"click(findTestObject(""Object Repository/Page_news - Google Search/h3_Google News""))",Chrome 116.0.0.0,,,2023-09-21 17:58:07,2023-09-21 17:58:12,4.742s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-21 17:58:12,2023-09-21 17:58:13,0.740s,PASSED
+,,,,,,,
+Test Cases/TC_0018,Chrome 116.0.0.0,,,2023-09-21 17:58:13,2023-09-21 17:58:39,26.478s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-21 17:58:13,2023-09-21 17:58:15,1.334s,PASSED
+"navigateToUrl(""https://www.google.com/?gws_rd=ssl"")",Chrome 116.0.0.0,,,2023-09-21 17:58:15,2023-09-21 17:58:20,5.764s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/textarea__q""), ""Tortoise"")",Chrome 116.0.0.0,,,2023-09-21 17:58:20,2023-09-21 17:58:21,0.885s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/span_Tortoise""))",Chrome 116.0.0.0,,,2023-09-21 17:58:21,2023-09-21 17:58:23,1.300s,PASSED
+"click(findTestObject(""Object Repository/Page_tortoise - Google Search/span_Images""))",Chrome 116.0.0.0,,,2023-09-21 17:58:23,2023-09-21 17:58:39,16.120s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-21 17:58:39,2023-09-21 17:58:39,0.746s,PASSED
+,,,,,,,
+Test Cases/TC_0017,Chrome 116.0.0.0,,,2023-09-21 18:01:37,2023-09-21 18:02:08,31.043s,FAILED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-21 18:01:37,2023-09-21 18:01:39,2.050s,PASSED
+"navigateToUrl(""https://www.google.com/?gws_rd=ssl"")",Chrome 116.0.0.0,,,2023-09-21 18:01:39,2023-09-21 18:01:45,5.503s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/textarea__q""), ""Uber"")",Chrome 116.0.0.0,,,2023-09-21 18:01:45,2023-09-21 18:01:45,0.712s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/span_Uber Technologies Inc""))",Chrome 116.0.0.0,,,2023-09-21 18:01:45,2023-09-21 18:01:47,1.307s,PASSED
+"click(findTestObject(""Object Repository/Page_uber - Google Search/h3_Uber""))",Chrome 116.0.0.0,,,2023-09-21 18:01:47,2023-09-21 18:02:02,15.233s,PASSED
+"click(findTestObject(""Object Repository/Page_Uber/button_Log in with QR code""))",Chrome 116.0.0.0,,,2023-09-21 18:02:02,2023-09-21 18:02:02,0.392s,PASSED
+"click(findTestObject(""Object Repository/Page_Uber/path""))",Chrome 116.0.0.0,,,2023-09-21 18:02:02,2023-09-21 18:02:08,5.840s,FAILED
+,,,,,,,
+Test Cases/TC_0016,Chrome 116.0.0.0,,,2023-09-21 18:02:13,2023-09-21 18:02:45,31.544s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-21 18:02:13,2023-09-21 18:02:15,1.962s,PASSED
+"navigateToUrl(""https://www.google.com/?gws_rd=ssl"")",Chrome 116.0.0.0,,,2023-09-21 18:02:15,2023-09-21 18:02:21,5.712s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/textarea__q""), ""apple"")",Chrome 116.0.0.0,,,2023-09-21 18:02:21,2023-09-21 18:02:22,1.201s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/span_Apple""))",Chrome 116.0.0.0,,,2023-09-21 18:02:22,2023-09-21 18:02:24,1.474s,PASSED
+"click(findTestObject(""Object Repository/Page_apple - Google Search/span_Apple - Official Site""))",Chrome 116.0.0.0,,,2023-09-21 18:02:24,2023-09-21 18:02:45,21.189s,PASSED
+,,,,,,,
+Test Cases/TC_0015,Chrome 116.0.0.0,,,2023-09-21 18:02:45,2023-09-21 18:03:01,16.542s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-21 18:02:45,2023-09-21 18:02:47,2.111s,PASSED
+"navigateToUrl(""https://www.google.com/?gws_rd=ssl"")",Chrome 116.0.0.0,,,2023-09-21 18:02:47,2023-09-21 18:02:55,7.169s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/input__btnI""))",Chrome 116.0.0.0,,,2023-09-21 18:02:55,2023-09-21 18:03:01,6.929s,PASSED
+,,,,,,,
+Test Cases/TC_0014,Chrome 116.0.0.0,,,2023-09-21 18:03:01,2023-09-21 18:03:33,31.770s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-21 18:03:02,2023-09-21 18:03:04,2.056s,PASSED
+"navigateToUrl(""https://www.google.com/?gws_rd=ssl"")",Chrome 116.0.0.0,,,2023-09-21 18:03:04,2023-09-21 18:03:11,7.507s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/textarea__q""), ""swiggy"")",Chrome 116.0.0.0,,,2023-09-21 18:03:11,2023-09-21 18:03:12,0.763s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/span_Swiggy""))",Chrome 116.0.0.0,,,2023-09-21 18:03:12,2023-09-21 18:03:14,1.319s,PASSED
+"click(findTestObject(""Object Repository/Page_swiggy - Google Search/a_Restaurants Near Me""))",Chrome 116.0.0.0,,,2023-09-21 18:03:14,2023-09-21 18:03:27,13.259s,PASSED
+"click(findTestObject(""Object Repository/Page_Restaurants Near Me  Swiggy/img_concat(What, , s on your mind)_sc-eDLJxc WUBye""))",Chrome 116.0.0.0,,,2023-09-21 18:03:27,2023-09-21 18:03:33,6.486s,PASSED
+,,,,,,,
+Test Cases/TC_0013,Chrome 116.0.0.0,,,2023-09-21 18:03:33,2023-09-21 18:03:54,20.752s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-21 18:03:34,2023-09-21 18:03:36,2.106s,PASSED
+"navigateToUrl(""https://www.google.com/?gws_rd=ssl"")",Chrome 116.0.0.0,,,2023-09-21 18:03:36,2023-09-21 18:03:41,5.580s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/textarea__q""), ""Youtube"")",Chrome 116.0.0.0,,,2023-09-21 18:03:41,2023-09-21 18:03:42,0.739s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/span_YouTube""))",Chrome 116.0.0.0,,,2023-09-21 18:03:42,2023-09-21 18:03:43,1.369s,PASSED
+"click(findTestObject(""Object Repository/Page_youtube - Google Search/h3_YouTube Home""))",Chrome 116.0.0.0,,,2023-09-21 18:03:43,2023-09-21 18:03:53,9.790s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-21 18:03:53,2023-09-21 18:03:54,0.808s,PASSED
+,,,,,,,
+Test Cases/TC_0012,Chrome 116.0.0.0,,,2023-09-21 18:03:54,2023-09-21 18:04:08,13.496s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-21 18:03:54,2023-09-21 18:03:56,1.365s,PASSED
+"navigateToUrl(""https://www.google.com/?gws_rd=ssl"")",Chrome 116.0.0.0,,,2023-09-21 18:03:56,2023-09-21 18:04:02,5.713s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/a_Images""))",Chrome 116.0.0.0,,,2023-09-21 18:04:02,2023-09-21 18:04:05,3.727s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google Images/textarea__q""), ""cats"")",Chrome 116.0.0.0,,,2023-09-21 18:04:05,2023-09-21 18:04:06,0.829s,PASSED
+"click(findTestObject(""Object Repository/Page_Google Images/span_cats""))",Chrome 116.0.0.0,,,2023-09-21 18:04:06,2023-09-21 18:04:08,1.470s,PASSED
+,,,,,,,
+Test Cases/TC_0011,Chrome 116.0.0.0,,,2023-09-21 18:04:08,2023-09-21 18:04:26,18.505s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-21 18:04:08,2023-09-21 18:04:10,2.279s,PASSED
+"navigateToUrl(""https://www.google.com/?gws_rd=ssl"")",Chrome 116.0.0.0,,,2023-09-21 18:04:10,2023-09-21 18:04:16,5.523s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/textarea__q""), ""yahoo"")",Chrome 116.0.0.0,,,2023-09-21 18:04:16,2023-09-21 18:04:17,0.997s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/span_Yahoo""))",Chrome 116.0.0.0,,,2023-09-21 18:04:17,2023-09-21 18:04:18,1.402s,PASSED
+"click(findTestObject(""Object Repository/Page_yahoo - Google Search/h3_Yahoo India""))",Chrome 116.0.0.0,,,2023-09-21 18:04:18,2023-09-21 18:04:25,6.900s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-21 18:04:25,2023-09-21 18:04:26,0.870s,PASSED

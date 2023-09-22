@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Order food from favourite restaurants near you</name>
+   <tag></tag>
+   <elementGuidId>07c42dc8-ffe7-46f4-9b5f-7bd4402df981</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h2._1E3AJ</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>dcd89e37-9c3f-47b4-ba4e-0b9f4627f52d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_1E3AJ</value>
+      <webElementGuid>d8049d63-585b-47e6-98c9-67473c3312ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Order food from favourite restaurants near you.</value>
+      <webElementGuid>e1225e51-2c0d-4574-84a3-13d069bc8d33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;_3arMG&quot;]/div[@class=&quot;nDVxx&quot;]/div[@class=&quot;_1MdYR&quot;]/div[@class=&quot;_1TWur&quot;]/div[@class=&quot;_2COmU&quot;]/div[@class=&quot;m3-34&quot;]/h2[@class=&quot;_1E3AJ&quot;]</value>
+      <webElementGuid>d75b0c56-5f70-471a-9c8c-8eba57210b66</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div/h2</value>
+      <webElementGuid>2d2d79a6-df71-4897-9910-38ca2871a720</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Movie marathon?'])[1]/following::h2[1]</value>
+      <webElementGuid>ea77ab92-d958-4e15-b181-991a28793924</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign up'])[1]/following::h2[1]</value>
+      <webElementGuid>5f9c70ef-d129-4b5c-8202-d7a7720f332b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Locate Me'])[1]/preceding::h2[1]</value>
+      <webElementGuid>192d4b38-16bf-42a4-8c48-7e0c87bb2b3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FIND FOOD'])[1]/preceding::h2[1]</value>
+      <webElementGuid>1deea9bc-7f7e-4b86-94f1-5f9b29c65be1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Order food from favourite restaurants near you.']/parent::*</value>
+      <webElementGuid>7a0b1744-ca9e-40d3-99b9-185dfcb61385</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>99d122cc-ab9a-46d1-9e8e-a4f42df44b2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Order food from favourite restaurants near you.' or . = 'Order food from favourite restaurants near you.')]</value>
+      <webElementGuid>55a29990-ea5b-4a45-960a-80e654d50ab3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

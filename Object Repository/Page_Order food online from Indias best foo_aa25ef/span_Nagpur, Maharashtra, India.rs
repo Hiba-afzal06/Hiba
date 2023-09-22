@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Nagpur, Maharashtra, India</name>
+   <tag></tag>
+   <elementGuidId>de48dd1e-4150-42bd-85ba-819b666fc86e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span._2W-T9</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div/div[2]/div/div[2]/button/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>42e6591a-6ea7-48b7-8785-50df95641bc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_2W-T9</value>
+      <webElementGuid>c1574be5-5e83-4504-9058-61a31ee6dd3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nagpur, Maharashtra, India</value>
+      <webElementGuid>76b70695-9b17-4c9d-93e7-a710c601f9e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;_3arMG&quot;]/div[@class=&quot;nDVxx&quot;]/div[@class=&quot;_1MdYR&quot;]/div[@class=&quot;_1TWur&quot;]/div[@class=&quot;_2COmU&quot;]/div[@class=&quot;m3-34&quot;]/div[@class=&quot;_3mZgT&quot;]/div[@class=&quot;Al5GE&quot;]/div[@class=&quot;_1oLDb&quot;]/button[@class=&quot;_3lmRa _2At8F&quot;]/span[@class=&quot;_2W-T9&quot;]</value>
+      <webElementGuid>a08f4e65-2a51-4795-a832-e82bead3ed56</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div/div[2]/div/div[2]/button/span[2]</value>
+      <webElementGuid>ef409ee4-b296-42e1-b005-3462e2ef4cc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear'])[1]/following::span[2]</value>
+      <webElementGuid>9ad6642c-6886-41be-84bb-f42e5cdad2aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order food from favourite restaurants near you.'])[1]/following::span[2]</value>
+      <webElementGuid>a989536c-a46f-40e8-a95f-99d4250d1da2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nagpur Railway Station East End Car Park Entry, Sitabuldi, Nagpur, Maharashtra, India'])[1]/preceding::span[2]</value>
+      <webElementGuid>d97b4c02-a0f9-454b-bb07-0d3de070a22d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nagpur Bus Stand, Ganeshpeth Colony, Nagpur, Maharashtra, India'])[1]/preceding::span[4]</value>
+      <webElementGuid>5ded8dad-d577-44ba-8d89-f1f481e03835</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Nagpur, Maharashtra, India']/parent::*</value>
+      <webElementGuid>e482e72b-3c7c-46cc-9b64-1cc0630ac277</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]</value>
+      <webElementGuid>c101fbfd-ead4-4d6a-a592-de53fe7a9678</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Nagpur, Maharashtra, India' or . = 'Nagpur, Maharashtra, India')]</value>
+      <webElementGuid>94936392-71f8-419d-a79d-49ebd92278da</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
