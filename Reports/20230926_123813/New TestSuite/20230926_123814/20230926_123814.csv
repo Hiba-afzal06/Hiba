@@ -1,0 +1,20 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New TestSuite,Chrome 117.0.0.0,,,2023-09-26 12:38:22,2023-09-26 12:40:14,1m - 52.419s,PASSED
+,,,,,,,
+Test Cases/TC_08,Chrome 117.0.0.0,,,2023-09-26 12:38:22,2023-09-26 12:39:13,50.626s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-09-26 12:38:22,2023-09-26 12:38:25,2.508s,PASSED
+"navigateToUrl(""https://www.udemy.com/"")",Chrome 117.0.0.0,,,2023-09-26 12:38:25,2023-09-26 12:38:38,12.902s,PASSED
+"click(findTestObject(""Object Repository/Page_Online Courses - Learn Anything, On Yo_3e631d/span_Categories""))",Chrome 117.0.0.0,,,2023-09-26 12:38:38,2023-09-26 12:39:12,34.138s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-09-26 12:39:12,2023-09-26 12:39:13,0.673s,PASSED
+,,,,,,,
+Test Cases/TC_09,Chrome 117.0.0.0,,,2023-09-26 12:39:13,2023-09-26 12:39:24,11.669s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-09-26 12:39:13,2023-09-26 12:39:14,1.346s,PASSED
+"navigateToUrl(""https://www.google.com/maps"")",Chrome 117.0.0.0,,,2023-09-26 12:39:14,2023-09-26 12:39:24,9.197s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-09-26 12:39:24,2023-09-26 12:39:24,0.709s,PASSED
+,,,,,,,
+Test Cases/TC_10,Chrome 117.0.0.0,,,2023-09-26 12:39:24,2023-09-26 12:40:14,49.831s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-09-26 12:39:25,2023-09-26 12:39:26,1.336s,PASSED
+"navigateToUrl(""https://www.google.com/?gws_rd=ssl"")",Chrome 117.0.0.0,,,2023-09-26 12:39:26,2023-09-26 12:39:41,14.713s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/textarea__q""), ""weather"")",Chrome 117.0.0.0,,,2023-09-26 12:39:41,2023-09-26 12:39:42,0.770s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/span_weather""))",Chrome 117.0.0.0,,,2023-09-26 12:39:42,2023-09-26 12:40:13,31.956s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-09-26 12:40:13,2023-09-26 12:40:14,0.738s,PASSED

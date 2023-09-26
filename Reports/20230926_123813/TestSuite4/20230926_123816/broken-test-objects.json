@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Online Courses - Learn Anything, On Yo_3e631d/span_Categories",
+      "brokenLocator": "//button[@id\u003d\u0027u172-popper-trigger--1\u0027]/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Skip to content\u0027])[1]/following::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230926_123813/TestSuite4/20230926_123816/Object Repository/Page_Online Courses - Learn Anything, On Yo_3e631d/span_Categories_neighbor.png"
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TestSuite_03,Chrome 116.0.0.0,,,2023-09-22 15:00:56,2023-09-22 15:07:48,6m - 52.325s,FAILED
+,,,,,,,
+Test Cases/TC_01,Chrome 116.0.0.0,,,2023-09-22 15:00:56,2023-09-22 15:01:29,32.820s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-22 15:00:57,2023-09-22 15:01:01,4.090s,PASSED
+"navigateToUrl(""https://www.yahoo.com/"")",Chrome 116.0.0.0,,,2023-09-22 15:01:01,2023-09-22 15:01:28,26.375s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Yahoo  Mail, Weather, Search, Politics_802e32/img_Yahoo Home__yb_hd8j6 _yb_typq8""), """")",Chrome 116.0.0.0,,,2023-09-22 15:01:28,2023-09-22 15:01:28,0.656s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-22 15:01:28,2023-09-22 15:01:29,0.978s,PASSED
+,,,,,,,
+Test Cases/TC_02,Chrome 116.0.0.0,,,2023-09-22 15:01:29,2023-09-22 15:01:40,10.676s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-22 15:01:30,2023-09-22 15:01:32,2.068s,PASSED
+"navigateToUrl(""https://www.google.com/?gws_rd=ssl"")",Chrome 116.0.0.0,,,2023-09-22 15:01:32,2023-09-22 15:01:35,3.412s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/a_Images""))",Chrome 116.0.0.0,,,2023-09-22 15:01:35,2023-09-22 15:01:37,1.671s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google Images/textarea__q""), ""cats"")",Chrome 116.0.0.0,,,2023-09-22 15:01:37,2023-09-22 15:01:38,1.020s,PASSED
+"click(findTestObject(""Object Repository/Page_Google Images/span_cats""))",Chrome 116.0.0.0,,,2023-09-22 15:01:38,2023-09-22 15:01:39,1.012s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-22 15:01:39,2023-09-22 15:01:40,0.845s,PASSED
+,,,,,,,
+Test Cases/TC_03,Chrome 116.0.0.0,,,2023-09-22 15:01:40,2023-09-22 15:01:48,8.104s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-22 15:01:41,2023-09-22 15:01:43,1.993s,PASSED
+"navigateToUrl(""https://www.mozilla.org/en-US/firefox/new/?redirect_source=firefox-com"")",Chrome 116.0.0.0,,,2023-09-22 15:01:43,2023-09-22 15:01:44,1.624s,PASSED
+"click(findTestObject(""Object Repository/Page_Get Firefox for desktop  Mozilla (US)/a_Firefox Browsers""))",Chrome 116.0.0.0,,,2023-09-22 15:01:44,2023-09-22 15:01:45,0.873s,PASSED
+"click(findTestObject(""Object Repository/Page_Get Firefox for desktop  Mozilla (US)/h4_Privacy Promise""))",Chrome 116.0.0.0,,,2023-09-22 15:01:45,2023-09-22 15:01:46,0.532s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Firefox Privacy Promise/h1_Firefox products are designed to protect_73a558""), ""Firefox products are designed to protect your privacy"")",Chrome 116.0.0.0,,,2023-09-22 15:01:46,2023-09-22 15:01:47,1.630s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-22 15:01:47,2023-09-22 15:01:48,0.870s,PASSED
+,,,,,,,
+Test Cases/TC_04,Chrome 116.0.0.0,,,2023-09-22 15:01:48,2023-09-22 15:02:04,15.544s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-22 15:01:49,2023-09-22 15:01:51,1.954s,PASSED
+"navigateToUrl(""https://www.swiggy.com/"")",Chrome 116.0.0.0,,,2023-09-22 15:01:51,2023-09-22 15:01:54,3.700s,PASSED
+"setText(findTestObject(""Object Repository/Page_Order food online from Indias best foo_aa25ef/input_Order food from favourite restaurants_bec356""), ""Nagpur"")",Chrome 116.0.0.0,,,2023-09-22 15:01:54,2023-09-22 15:01:55,1.061s,PASSED
+"click(findTestObject(""Object Repository/Page_Order food online from Indias best foo_aa25ef/span_Nagpur, Maharashtra, India""))",Chrome 116.0.0.0,,,2023-09-22 15:01:55,2023-09-22 15:01:56,0.999s,PASSED
+"click(findTestObject(""Object Repository/Page_Order food online from Indias best foo_aa25ef/h2_Best offers for you""))",Chrome 116.0.0.0,,,2023-09-22 15:01:56,2023-09-22 15:02:02,5.606s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Order food online from Indias best foo_aa25ef/div_Best offers for you""), ""Best offers for you"")",Chrome 116.0.0.0,,,2023-09-22 15:02:02,2023-09-22 15:02:03,0.641s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-22 15:02:03,2023-09-22 15:02:04,1.007s,PASSED
+,,,,,,,
+Test Cases/TC_05,Chrome 116.0.0.0,,,2023-09-22 15:02:04,2023-09-22 15:02:12,8.514s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-22 15:02:04,2023-09-22 15:02:06,2.028s,PASSED
+"navigateToUrl(""https://www.zomato.com/"")",Chrome 116.0.0.0,,,2023-09-22 15:02:06,2023-09-22 15:02:10,3.394s,PASSED
+"rightClick(findTestObject(""Object Repository/Page_Zomato/img_Sign up_high-res-image""))",Chrome 116.0.0.0,,,2023-09-22 15:02:10,2023-09-22 15:02:11,0.826s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Zomato/img_Sign up_high-res-image""), """")",Chrome 116.0.0.0,,,2023-09-22 15:02:11,2023-09-22 15:02:11,0.530s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-22 15:02:11,2023-09-22 15:02:12,0.940s,PASSED
+,,,,,,,
+Test Cases/TC_30,Chrome 116.0.0.0,,,2023-09-22 15:02:12,2023-09-22 15:02:23,10.761s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-22 15:02:13,2023-09-22 15:02:15,2.106s,PASSED
+"navigateToUrl(""https://www.google.com/?gws_rd=ssl"")",Chrome 116.0.0.0,,,2023-09-22 15:02:15,2023-09-22 15:02:18,2.594s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/input_Delete_btnI""))",Chrome 116.0.0.0,,,2023-09-22 15:02:18,2023-09-22 15:02:22,4.191s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-22 15:02:22,2023-09-22 15:02:23,0.975s,PASSED
+,,,,,,,
+Test Cases/TC_29,Chrome 116.0.0.0,,,2023-09-22 15:02:23,2023-09-22 15:02:29,6.543s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-22 15:02:24,2023-09-22 15:02:26,2.018s,PASSED
+"navigateToUrl(""https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AYZoVhcIcg2zCwLEdefYcpyzw6gVVGRcKewMAxaHGzcKCMEL_cg8Xlt1QhTaAQTEmKBeu3vlMmPd&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-989371226%3A1695374702134779&theme=glif"")",Chrome 116.0.0.0,,,2023-09-22 15:02:26,2023-09-22 15:02:28,2.396s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Gmail/div_Not your computer Use Guest mode to sig_83e181""), ""Not your computer? Use Guest mode to sign in privately. Learn more"")",Chrome 116.0.0.0,,,2023-09-22 15:02:28,2023-09-22 15:02:29,0.601s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-22 15:02:29,2023-09-22 15:02:29,0.839s,PASSED
+,,,,,,,
+Test Cases/TC_28,Chrome 116.0.0.0,,,2023-09-22 15:02:29,2023-09-22 15:02:35,5.809s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-22 15:02:30,2023-09-22 15:02:32,1.840s,PASSED
+"navigateToUrl(""https://www.apple.com/"")",Chrome 116.0.0.0,,,2023-09-22 15:02:32,2023-09-22 15:02:34,1.941s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Apple/span_Save on Mac or iPad with education pri_ed628a""), ""Save on Mac or iPad with education pricing and get a gift card up to $150. Gift card offer ends October 2.1 Shop now"")",Chrome 116.0.0.0,,,2023-09-22 15:02:34,2023-09-22 15:02:34,0.626s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-22 15:02:34,2023-09-22 15:02:35,0.816s,PASSED
+,,,,,,,
+Test Cases/TC_27,Chrome 116.0.0.0,,,2023-09-22 15:02:35,2023-09-22 15:02:44,8.247s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-22 15:02:36,2023-09-22 15:02:38,2.095s,PASSED
+"navigateToUrl(""https://www.zomato.com/"")",Chrome 116.0.0.0,,,2023-09-22 15:02:38,2023-09-22 15:02:42,3.830s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Zomato/p_Order Online""), ""Order Online"")",Chrome 116.0.0.0,,,2023-09-22 15:02:42,2023-09-22 15:02:43,0.600s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-22 15:02:43,2023-09-22 15:02:44,0.851s,PASSED
+,,,,,,,
+Test Cases/TC_26,Chrome 116.0.0.0,,,2023-09-22 15:02:44,2023-09-22 15:02:51,7.368s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-22 15:02:44,2023-09-22 15:02:46,1.884s,PASSED
+"navigateToUrl(""https://www.swiggy.com/"")",Chrome 116.0.0.0,,,2023-09-22 15:02:46,2023-09-22 15:02:50,3.698s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Order food online from Indias best foo_aa25ef/h2_Order food from favourite restaurants near you""), ""Order food from favourite restaurants near you."")",Chrome 116.0.0.0,,,2023-09-22 15:02:50,2023-09-22 15:02:50,0.485s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-22 15:02:50,2023-09-22 15:02:51,0.781s,PASSED
+,,,,,,,
+Test Cases/TC_25,Chrome 116.0.0.0,,,2023-09-22 15:02:51,2023-09-22 15:02:59,7.862s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-22 15:02:51,2023-09-22 15:02:53,1.832s,PASSED
+"navigateToUrl(""https://www.uber.com/in/en/"")",Chrome 116.0.0.0,,,2023-09-22 15:02:53,2023-09-22 15:02:56,2.741s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Earn Money by Driving or Get a Ride No_86ddf9/h2_Request a ride now""), ""Request a ride now"")",Chrome 116.0.0.0,,,2023-09-22 15:02:56,2023-09-22 15:02:58,1.896s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-22 15:02:58,2023-09-22 15:02:59,0.834s,PASSED
+,,,,,,,
+Test Cases/TC_24,Chrome 116.0.0.0,,,2023-09-22 15:02:59,2023-09-22 15:03:07,8.490s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-22 15:02:59,2023-09-22 15:03:01,1.945s,PASSED
+"navigateToUrl(""https://www.redbus.com/"")",Chrome 116.0.0.0,,,2023-09-22 15:03:01,2023-09-22 15:03:05,3.844s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Book bus tickets online with redBus/h1_Book your journey now with the worlds la_24b2db""), ""Book your journey now with the world's largest bus platform"")",Chrome 116.0.0.0,,,2023-09-22 15:03:05,2023-09-22 15:03:06,1.336s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-22 15:03:06,2023-09-22 15:03:07,0.855s,PASSED
+,,,,,,,
+Test Cases/TC_22,Chrome 116.0.0.0,,,2023-09-22 15:03:07,2023-09-22 15:03:17,9.467s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-22 15:03:08,2023-09-22 15:03:10,1.984s,PASSED
+"navigateToUrl(""https://www.holidify.com/"")",Chrome 116.0.0.0,,,2023-09-22 15:03:10,2023-09-22 15:03:14,3.980s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Holidify  Discover Your Next Holiday  _a63010/a_Join as travel agent""), ""Join as travel agent"")",Chrome 116.0.0.0,,,2023-09-22 15:03:14,2023-09-22 15:03:16,1.606s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-22 15:03:16,2023-09-22 15:03:17,0.857s,PASSED
+,,,,,,,
+Test Cases/TC_23,Chrome 116.0.0.0,,,2023-09-22 15:03:17,2023-09-22 15:03:28,10.812s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-22 15:03:18,2023-09-22 15:03:20,1.921s,PASSED
+"navigateToUrl(""https://www.skyscanner.co.in/?previousCultureSource=GEO_LOCATION&redirectedFrom=www.skyscanner.com"")",Chrome 116.0.0.0,,,2023-09-22 15:03:20,2023-09-22 15:03:20,0.929s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Flight Ticket Booking Cheap Flights  A_be8d90/h2_Millions of cheap flights. One simple search""), ""Millions of cheap flights. One simple search."")",Chrome 116.0.0.0,,,2023-09-22 15:03:20,2023-09-22 15:03:27,6.285s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-22 15:03:27,2023-09-22 15:03:28,0.830s,PASSED
+,,,,,,,
+Test Cases/TC_21,Chrome 116.0.0.0,,,2023-09-22 15:03:52,2023-09-22 15:04:00,7.528s,FAILED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-22 15:03:52,2023-09-22 15:03:55,2.744s,PASSED
+"navigateToUrl(""https://www.amazon.com/amazonprime/?sr=53-1"")",Chrome 116.0.0.0,,,2023-09-22 15:03:55,2023-09-22 15:03:58,2.793s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Amazon.com Amazon Prime/h1_New members, try Primefree for 30 days""), ""New members, try Primefree for 30 days"")",Chrome 116.0.0.0,,,2023-09-22 15:03:58,2023-09-22 15:04:00,1.980s,FAILED
+,,,,,,,
+Test Cases/TC_20,Chrome 116.0.0.0,,,2023-09-22 15:04:00,2023-09-22 15:04:09,9.099s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-22 15:04:00,2023-09-22 15:04:03,2.810s,PASSED
+"navigateToUrl(""https://www.netflix.com/in/"")",Chrome 116.0.0.0,,,2023-09-22 15:04:03,2023-09-22 15:04:07,3.471s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Netflix India  Watch TV Shows Online, _c0ceb3/p_Watch anywhere. Cancel anytime""), ""Watch anywhere. Cancel anytime."")",Chrome 116.0.0.0,,,2023-09-22 15:04:07,2023-09-22 15:04:08,1.191s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-22 15:04:08,2023-09-22 15:04:09,0.824s,PASSED
+,,,,,,,
+Test Cases/TC_19,Chrome 116.0.0.0,,,2023-09-22 15:04:09,2023-09-22 15:04:20,11.642s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-22 15:04:09,2023-09-22 15:04:11,1.863s,PASSED
+"navigateToUrl(""https://www.youtube.com/"")",Chrome 116.0.0.0,,,2023-09-22 15:04:11,2023-09-22 15:04:18,6.487s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_YouTube/yt-formatted-string_Gaming""), ""Gaming"")",Chrome 116.0.0.0,,,2023-09-22 15:04:18,2023-09-22 15:04:19,1.662s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-22 15:04:19,2023-09-22 15:04:20,1.024s,PASSED
+,,,,,,,
+Test Cases/TC_17,Chrome 116.0.0.0,,,2023-09-22 15:04:20,2023-09-22 15:04:26,5.234s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-22 15:04:21,2023-09-22 15:04:23,1.950s,PASSED
+"navigateToUrl(""https://www.facebook.com/"")",Chrome 116.0.0.0,,,2023-09-22 15:04:23,2023-09-22 15:04:24,1.424s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Facebook  log in or sign up/h2_Facebook helps you connect and share wit_f4ba92""), ""Facebook helps you connect and share with the people in your life."")",Chrome 116.0.0.0,,,2023-09-22 15:04:24,2023-09-22 15:04:25,0.484s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-22 15:04:25,2023-09-22 15:04:26,0.805s,PASSED
+,,,,,,,
+Test Cases/TC_18,Chrome 116.0.0.0,,,2023-09-22 15:04:52,2023-09-22 15:05:01,9.208s,FAILED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-22 15:04:52,2023-09-22 15:04:55,2.859s,PASSED
+"navigateToUrl(""https://www.flipkart.com/"")",Chrome 116.0.0.0,,,2023-09-22 15:04:55,2023-09-22 15:04:58,3.119s,PASSED
+"click(findTestObject(""Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/span_""))",Chrome 116.0.0.0,,,2023-09-22 15:04:58,2023-09-22 15:05:00,2.277s,PASSED
+"click(findTestObject(""Object Repository/Page_Online Shopping Site for Mobiles, Elec_b3f752/a_Become a Seller""))",Chrome 116.0.0.0,,,2023-09-22 15:05:00,2023-09-22 15:05:01,0.937s,FAILED
+,,,,,,,
+Test Cases/TC_16,Chrome 116.0.0.0,,,2023-09-22 15:05:01,2023-09-22 15:05:15,13.700s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-22 15:05:02,2023-09-22 15:05:05,3.112s,PASSED
+"navigateToUrl(""https://www.rackspace.com/en-in"")",Chrome 116.0.0.0,,,2023-09-22 15:05:05,2023-09-22 15:05:09,3.975s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Rackspace Technology  Multicloud Solut_271227/img_Log In  Support_nav__logo-img""), """")",Chrome 116.0.0.0,,,2023-09-22 15:05:09,2023-09-22 15:05:12,3.267s,PASSED
+"click(findTestObject(""Object Repository/Page_Rackspace Technology  Multicloud Solut_271227/a_Toggle Mobile Menu""))",Chrome 116.0.0.0,,,2023-09-22 15:05:12,2023-09-22 15:05:13,0.991s,PASSED
+"click(findTestObject(""Object Repository/Page_Rackspace Technology  Multicloud Solut_271227/span_Solutions""))",Chrome 116.0.0.0,,,2023-09-22 15:05:13,2023-09-22 15:05:14,0.638s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-22 15:05:14,2023-09-22 15:05:15,0.933s,PASSED
+,,,,,,,
+Test Cases/TC_15,Chrome 116.0.0.0,,,2023-09-22 15:05:15,2023-09-22 15:05:19,4.243s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-22 15:05:15,2023-09-22 15:05:17,2.082s,PASSED
+"navigateToUrl(""https://mail.yahoo.com/"")",Chrome 116.0.0.0,,,2023-09-22 15:05:17,2023-09-22 15:05:18,0.614s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-22 15:05:18,2023-09-22 15:05:19,0.753s,PASSED
+,,,,,,,
+Test Cases/TC_14,Chrome 116.0.0.0,,,2023-09-22 15:05:19,2023-09-22 15:05:27,7.892s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-22 15:05:19,2023-09-22 15:05:21,1.910s,PASSED
+"navigateToUrl(""https://www.mailinator.com/"")",Chrome 116.0.0.0,,,2023-09-22 15:05:21,2023-09-22 15:05:25,3.594s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Home - Mailinator/div_Public Inbox""), ""Public Inbox"")",Chrome 116.0.0.0,,,2023-09-22 15:05:25,2023-09-22 15:05:26,0.794s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-22 15:05:26,2023-09-22 15:05:27,0.969s,PASSED
+,,,,,,,
+Test Cases/TC_13,Chrome 116.0.0.0,,,2023-09-22 15:05:27,2023-09-22 15:05:37,10.098s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-22 15:05:27,2023-09-22 15:05:29,1.906s,PASSED
+"navigateToUrl(""https://www.irctc.com/"")",Chrome 116.0.0.0,,,2023-09-22 15:05:29,2023-09-22 15:05:34,4.336s,PASSED
+"click(findTestObject(""Object Repository/Page_IRCTC Corporate Portal/a_About Us""))",Chrome 116.0.0.0,,,2023-09-22 15:05:34,2023-09-22 15:05:34,0.742s,PASSED
+"click(findTestObject(""Object Repository/Page_IRCTC Corporate Portal/a_Board of Directors""))",Chrome 116.0.0.0,,,2023-09-22 15:05:34,2023-09-22 15:05:36,1.572s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-22 15:05:36,2023-09-22 15:05:37,0.863s,PASSED
+,,,,,,,
+Test Cases/TC_12,Chrome 116.0.0.0,,,2023-09-22 15:05:37,2023-09-22 15:05:47,9.719s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-22 15:05:38,2023-09-22 15:05:40,1.993s,PASSED
+"navigateToUrl(""https://www.hyundai.com/in/en"")",Chrome 116.0.0.0,,,2023-09-22 15:05:40,2023-09-22 15:05:46,6.028s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-22 15:05:46,2023-09-22 15:05:47,1.031s,PASSED
+,,,,,,,
+Test Cases/TC_11,Chrome 116.0.0.0,,,2023-09-22 15:05:47,2023-09-22 15:06:00,13.874s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-22 15:05:48,2023-09-22 15:05:50,1.916s,PASSED
+"navigateToUrl(""https://www.ford.com/"")",Chrome 116.0.0.0,,,2023-09-22 15:05:50,2023-09-22 15:05:55,5.677s,PASSED
+"click(findTestObject(""Object Repository/Page_Ford - New Hybrid  Electric Vehicles, _4e3ec4/button_Vehicles""))",Chrome 116.0.0.0,,,2023-09-22 15:05:55,2023-09-22 15:05:59,4.252s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-22 15:05:59,2023-09-22 15:06:00,1.007s,PASSED
+,,,,,,,
+Test Cases/TC_10,Chrome 116.0.0.0,,,2023-09-22 15:06:00,2023-09-22 15:06:41,40.825s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-22 15:06:01,2023-09-22 15:06:03,1.819s,PASSED
+"navigateToUrl(""https://www.google.com/?gws_rd=ssl"")",Chrome 116.0.0.0,,,2023-09-22 15:06:03,2023-09-22 15:06:06,2.585s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/textarea__q""), ""weather"")",Chrome 116.0.0.0,,,2023-09-22 15:06:06,2023-09-22 15:06:07,1.247s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/span_weather""))",Chrome 116.0.0.0,,,2023-09-22 15:06:07,2023-09-22 15:06:40,33.449s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-22 15:06:40,2023-09-22 15:06:41,0.939s,PASSED
+,,,,,,,
+Test Cases/TC_09,Chrome 116.0.0.0,,,2023-09-22 15:06:41,2023-09-22 15:06:48,6.387s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-22 15:06:42,2023-09-22 15:06:44,1.946s,PASSED
+"navigateToUrl(""https://www.google.com/maps"")",Chrome 116.0.0.0,,,2023-09-22 15:06:44,2023-09-22 15:06:47,3.010s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-22 15:06:47,2023-09-22 15:06:48,0.857s,PASSED
+,,,,,,,
+Test Cases/TC_08,Chrome 116.0.0.0,,,2023-09-22 15:06:48,2023-09-22 15:07:29,40.869s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-22 15:06:48,2023-09-22 15:06:50,2.083s,PASSED
+"navigateToUrl(""https://www.udemy.com/"")",Chrome 116.0.0.0,,,2023-09-22 15:06:50,2023-09-22 15:06:54,3.833s,PASSED
+"click(findTestObject(""Object Repository/Page_Online Courses - Learn Anything, On Yo_3e631d/span_Categories""))",Chrome 116.0.0.0,,,2023-09-22 15:06:54,2023-09-22 15:07:28,33.445s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-22 15:07:28,2023-09-22 15:07:29,0.907s,PASSED
+,,,,,,,
+Test Cases/TC_07,Chrome 116.0.0.0,,,2023-09-22 15:07:29,2023-09-22 15:07:40,11.142s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-22 15:07:29,2023-09-22 15:07:32,2.261s,PASSED
+"navigateToUrl(""https://www.playstore.com/"")",Chrome 116.0.0.0,,,2023-09-22 15:07:32,2023-09-22 15:07:39,7.323s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-22 15:07:39,2023-09-22 15:07:40,0.876s,PASSED
+,,,,,,,
+Test Cases/TC_06,Chrome 116.0.0.0,,,2023-09-22 15:07:40,2023-09-22 15:07:48,8.476s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-22 15:07:41,2023-09-22 15:07:43,1.987s,PASSED
+"navigateToUrl(""https://www.makemytrip.com/"")",Chrome 116.0.0.0,,,2023-09-22 15:07:43,2023-09-22 15:07:47,4.803s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-22 15:07:47,2023-09-22 15:07:48,0.865s,PASSED

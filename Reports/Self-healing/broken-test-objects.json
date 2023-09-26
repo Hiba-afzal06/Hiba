@@ -29,6 +29,26 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Rent Out Your Car Through Uber and Ear_fd3df7/a_Sign up_link.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Google/span_weather",
+      "brokenLocator": "//div[@id\u003d\u0027jZ2SBf\u0027]/div/div/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027×\u0027])[1]/following::span[11]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Google/span_weather_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Online Courses - Learn Anything, On Yo_3e631d/span_Categories",
+      "brokenLocator": "//button[@id\u003d\u0027u172-popper-trigger--1\u0027]/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Skip to content\u0027])[1]/following::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Online Courses - Learn Anything, On Yo_3e631d/span_Categories_neighbor.png"
     }
   ]
 }

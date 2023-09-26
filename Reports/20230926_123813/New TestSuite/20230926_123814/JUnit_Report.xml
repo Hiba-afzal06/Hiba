@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="New TestSuite" time="112.419" tests="3" failures="0" errors="0">
+   <testsuite name="New TestSuite" tests="3" failures="0" errors="0" time="112.419" skipped="0" timestamp="2023-09-26 12:38:22" hostname="hiba.naaz - ZIL482.perficient.com" id="Test Suites/New TestSuite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\hiba.naaz\\git\\Katalon-Practice\\Reports\\20230926_123813\\New TestSuite\\20230926_123814"/>
+         <property name="logFiles" value="C:\\Users\\hiba.naaz\\git\\Katalon-Practice\\Reports\\20230926_123813\\New TestSuite\\20230926_123814\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="hiba.naaz - ZIL482.perficient.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.8.208"/>
+         <property name="browser" value="Chrome 117.0.0.0"/>
+         <property name="hostAddress" value="10.112.37.129"/>
+         <property name="sessionId" value="47a0ff50475f2860b1cc9f28057a3da0"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/TC_08" time="50.626" classname="Test Cases/TC_08" status="PASSED">
+         <system-out><![CDATA[2023-09-26 12:38:22 - [TEST_CASE][PASSED] - Test Cases/TC_08: Test Cases/TC_08
+
+2023-09-26 12:38:22 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-26 12:38:23 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-26 12:38:23 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-26 12:38:25 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-26 12:38:25 - [TEST_STEP][PASSED] - navigateToUrl("https://www.udemy.com/"): Navigate to 'https://www.udemy.com/' successfully
+
+2023-09-26 12:38:38 - [MESSAGE][PASSED] - Navigate to 'https://www.udemy.com/' successfully
+
+2023-09-26 12:38:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Online Courses - Learn Anything, On Yo_3e631d/span_Categories")): Object: 'Object Repository/Page_Online Courses - Learn Anything, On Yo_3e631d/span_Categories' is clicked on
+
+2023-09-26 12:39:10 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //button[@id='u172-popper-trigger--1']/span'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-09-26 12:39:10 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Online Courses - Learn Anything, On Yo_3e631d/span_Categories'. Try using Self-healing.
+
+2023-09-26 12:39:12 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Online Courses - Learn Anything, On Yo_3e631d/span_Categories' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='Skip to content'])[1]/following::span[1]'.
+
+2023-09-26 12:39:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Online Courses - Learn Anything, On Yo_3e631d/span_Categories' is clicked on
+
+2023-09-26 12:39:12 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-26 12:39:13 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC_09" time="11.669" classname="Test Cases/TC_09" status="PASSED">
+         <system-out><![CDATA[2023-09-26 12:39:13 - [TEST_CASE][PASSED] - Test Cases/TC_09: Test Cases/TC_09
+
+2023-09-26 12:39:13 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-26 12:39:13 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-26 12:39:13 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-26 12:39:14 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-26 12:39:14 - [TEST_STEP][PASSED] - navigateToUrl("https://www.google.com/maps"): Navigate to 'https://www.google.com/maps' successfully
+
+2023-09-26 12:39:24 - [MESSAGE][PASSED] - Navigate to 'https://www.google.com/maps' successfully
+
+2023-09-26 12:39:24 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-26 12:39:24 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC_10" time="49.831" classname="Test Cases/TC_10" status="PASSED">
+         <system-out><![CDATA[2023-09-26 12:39:24 - [TEST_CASE][PASSED] - Test Cases/TC_10: Test Cases/TC_10
+
+2023-09-26 12:39:25 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-26 12:39:25 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-26 12:39:25 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-26 12:39:26 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-26 12:39:26 - [TEST_STEP][PASSED] - navigateToUrl("https://www.google.com/?gws_rd=ssl"): Navigate to 'https://www.google.com/?gws_rd=ssl' successfully
+
+2023-09-26 12:39:41 - [MESSAGE][PASSED] - Navigate to 'https://www.google.com/?gws_rd=ssl' successfully
+
+2023-09-26 12:39:41 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Google/textarea__q"), "weather"): Text 'weather' is set on object 'Object Repository/Page_Google/textarea__q'
+
+2023-09-26 12:39:42 - [MESSAGE][PASSED] - Text 'weather' is set on object 'Object Repository/Page_Google/textarea__q'
+
+2023-09-26 12:39:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Google/span_weather")): Object: 'Object Repository/Page_Google/span_weather' is clicked on
+
+2023-09-26 12:40:13 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='jZ2SBf']/div/div/span'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-09-26 12:40:13 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Google/span_weather'. Try using Self-healing.
+
+2023-09-26 12:40:13 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Google/span_weather' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::span[11]'.
+
+2023-09-26 12:40:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Google/span_weather' is clicked on
+
+2023-09-26 12:40:13 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-26 12:40:14 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-09-26 12:38:22 - [TEST_SUITE][PASSED] - New TestSuite: Test Cases/TC_10]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

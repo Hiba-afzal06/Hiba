@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TestSuite4,Chrome 117.0.0.0,,,2023-09-26 13:38:13,2023-09-26 13:39:15,1m - 1.355s,PASSED
+,,,,,,,
+Test Cases/TC_05,Chrome 117.0.0.0,,,2023-09-26 13:38:14,2023-09-26 13:38:33,19.291s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-09-26 13:38:14,2023-09-26 13:38:16,2.298s,PASSED
+"navigateToUrl(""https://www.zomato.com/"")",Chrome 117.0.0.0,,,2023-09-26 13:38:16,2023-09-26 13:38:31,14.809s,PASSED
+"rightClick(findTestObject(""Object Repository/Page_Zomato/img_Sign up_high-res-image""))",Chrome 117.0.0.0,,,2023-09-26 13:38:31,2023-09-26 13:38:32,0.601s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Zomato/img_Sign up_high-res-image""), """")",Chrome 117.0.0.0,,,2023-09-26 13:38:32,2023-09-26 13:38:32,0.421s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-09-26 13:38:32,2023-09-26 13:38:33,0.769s,PASSED
+,,,,,,,
+Test Cases/TC_08,Chrome 117.0.0.0,,,2023-09-26 13:38:33,2023-09-26 13:39:15,41.810s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-09-26 13:38:33,2023-09-26 13:38:35,1.387s,PASSED
+"navigateToUrl(""https://www.udemy.com/"")",Chrome 117.0.0.0,,,2023-09-26 13:38:35,2023-09-26 13:38:42,7.343s,PASSED
+"click(findTestObject(""Object Repository/Page_Online Courses - Learn Anything, On Yo_3e631d/span_Categories""))",Chrome 117.0.0.0,,,2023-09-26 13:38:42,2023-09-26 13:39:14,31.857s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-09-26 13:39:14,2023-09-26 13:39:15,0.725s,PASSED
